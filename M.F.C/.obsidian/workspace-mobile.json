@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "fc76f583ddb2b8af",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cd73829fadb8bfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "671d12ad269ec18f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8942b2473c5ce9f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "671677a7de2c0ff4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "6b54d0132d591eed",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "05a1bc19c8bbfdc7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "4ff073feea872713",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "1329e2afd2c2c7a6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5aed2ce7bf76ae8f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3acec1c824da9f15",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Libros/Que_en_Cristo_nuestra_Paz_Mexico_tenga_vida_digna.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "65eccb38a4e28d63",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Tema 9 - La familia humana.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "8fa9fdc7e87eee69",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Tema 9 - La familia humana.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
+    }
+  },
+  "active": "671d12ad269ec18f",
+  "lastOpenFiles": [
+    "Libros/Que_en_Cristo_nuestra_Paz_Mexico_tenga_vida_digna.pdf",
+    "Tema 9 - La familia humana.md",
+    "Highlights for Que_en_Cristo_nuestra_Paz_Mexico_tenga_vida _digna.md",
+    "ONG.md",
+    "Libros/Educar_para_una_nueva_sociedad.pdf"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "f2c1900518e61799",
+    "type": "split",
+    "children": [
+      {
+        "id": "6052c4f1bcd4742f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2aee23ded2492d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semana 1 — Fundamentos de Linux"
+            }
+          },
+          {
+            "id": "1660d26894929705",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "5b50c070c3cb1e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semana 1 — Fundamentos de Linux"
+            }
+          },
+          {
+            "id": "1ad5a8c27d56bdbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Rutas/Linux/Vim y Neovim con (NvChad).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vim y Neovim con (NvChad)"
+            }
+          },
+          {
+            "id": "6e4472a8590d3201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Rutas/Linux/Tmux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tmux"
+            }
+          },
+          {
+            "id": "93a143c85c4961a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Rutas/Linux/Lección 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lección 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d968516a008d0b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ab4a6d2335ce9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de855cfb3955d55b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "60a09ba8f2d0b296",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4d0a035790bdae6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8225b93b61ce83c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad830ef6abe7f8d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8f94e6b3ecb6cdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "705ef7687ee65164",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "44fcdf280811ead8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "80c385198ef22ddf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "6bf3d79ac89e28ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "1ad5a8c27d56bdbd",
+  "lastOpenFiles": [
+    "01_Rutas/Linux/Tmux.md",
+    "01_Rutas/Linux/Lección 1.md",
+    "01_Rutas/Linux/Linux.md",
+    "01_Rutas/Linux/Vim y Neovim con (NvChad).md",
+    "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
+    "01_Rutas/Linux/Ssh - Git.md",
+    "().md",
+    "01_Rutas/Linux/Shell.md",
+    "SSH.md",
+    "05_Plantillas/Plantilla 3 — Concepto.md",
+    "05_Plantillas/Plantilla 2 — Proyecto.md",
+    "05_Plantillas/Plantilla 1 — Lección.md",
+    "00_Inicio/🌐 Mapa de mi aprendizaje.md",
+    "06_Archivo",
+    "00_Inicio/Resumen semanal.md",
+    "00_Inicio/Metas.md",
+    "05_Plantillas/Plantilla 5 — Ruta semanal.md",
+    "00_Inicio/Mapa-Aprendizaje.md",
+    "05_Plantillas/Plantilla 4 — Resumen semanal.md",
+    "Plantillas/Sin nombre",
+    "04_Recursos/Matematicas",
+    "04_Recursos/Python",
+    "04_Recursos/Bash",
+    "04_Recursos/Linux",
+    "03_Proyectos/Matematicas",
+    "03_Proyectos/Python",
+    "03_Proyectos/Linux/Sin nombre",
+    "03_Proyectos/Bash",
+    "Bienvenido.md",
+    "cree un enlace.md"
+  ]
+}
