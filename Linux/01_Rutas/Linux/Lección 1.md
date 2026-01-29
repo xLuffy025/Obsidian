@@ -236,7 +236,7 @@ Si sigues este flujo:
 - Terminal Funcionando
 
 ## 🔗 Enlaces relacionados
-- [[Linux]]
+- [[06_Archivo/Linux]]
 
 ## 🏷️ Estado
 #proceso

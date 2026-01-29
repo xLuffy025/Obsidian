@@ -6,7 +6,7 @@ La humanidad forma una sola familia. No Hay frontera que se justifiquen el aisla
 "Necesitamos fortaleces la conciencia de que somos una sola familia humana.
 No hay fronteras ni barreras políticas o sociales que  nos  que nos permitan aislarnos, 
 y por eso mismo tampoco hay espacio para la globalización de la 
-indiferencia" [[Laudato si'.pdf#page=42 |(Ls52)]]
+indiferencia" [[Ls52]]
 
 ### En esta reunión nos proponemos:
 
@@ -35,7 +35,7 @@ R=  En el interior ayudando a los mismos miembros de la familia en momentos dif�
 
 Iluminamos nuestras vidas con la Palabra de Dios.
 
-[[Biblia.pdf#page=1639| Lu 10,25-37]]
+[[Lu 10,25-37]]
 ## Idea central 
 
 La parábola enseña que el prójimo es todo aquel que necesita mi ayuda, y que la compasión es el camino hacia la vida eterna.
@@ -60,7 +60,7 @@ R= De buena corazón
  ### **PROFUNDIZAMOS EL MENSAJE**
 No somos islas 
 
-1. Las personas y las familias no viven aisladas, viven en comunidad, compartiendo con otras familias y personas, no solo tiempo, sino también el espacio. La vida comunitaria es el escenario concreto de la sociabilidad, es un lugar donde nace y se fortalece el tejido social, así como el sentido de  pertenencia [[Que_en_Cristo_nuestra_Paz_Mexico_tenga_vida_digna.pdf#page=76 | cf. Que en cristo, nuestra paz y México tenga vida digna 197]]
+1. Las personas y las familias no viven aisladas, viven en comunidad, compartiendo con otras familias y personas, no solo tiempo, sino también el espacio. La vida comunitaria es el escenario concreto de la sociabilidad, es un lugar donde nace y se fortalece el tejido social, así como el sentido de  pertenencia [[cf. Que en cristo, nuestra paz y México tenga vida digna 197]]]
 2. 
- 
+
  
