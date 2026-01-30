@@ -1,7 +1,7 @@
 197. Las personas y las familias no viven aisladas, viven en comunidad, compartiendo con otras familias y personas, no sólo el tiempo, sino también el espacio. La vida comunitaria es el escenario concreto de la sociabilidad, en ella se forja y fortalece el tejido social, el sentido de pertenencia y se desarrollan también los mecanismos de control social que se hacen cargo de las conductas discordantes con los grandes ideales y aspiraciones de quienes comparten la existencia en los escenarios reales de la vida. 
 **Nos comprometemos a**:
 
-**a) Renovar nuestras parroquias**, reformular sus estructuras para que, en el espíritu de la Misión Continental, sean una red de grupos y comunidades, ca paces de articularse, en donde sus miembros vivan en comunión como discípulos y misioneros de Jesucristo.151. El pan de la Palabra y de la Eucaristía y el servicio de la Caridad impulsa a los miembros de la comunidad parroquial a dar frutos permanentes de reconciliación y justicia para la vida del mundo.
+**a) Renovar nuestras parroquias**, reformular sus estructuras para que, en el espíritu de la Misión Continental, sean una red de grupos y comunidades, capaces de articularse, en donde sus miembros vivan en comunión como discípulos y misioneros de Jesucristo.151. El pan de la Palabra y de la Eucaristía y el servicio de la Caridad impulsa a los miembros de la comunidad parroquial a dar frutos permanentes de reconciliación y justicia para la vida del mundo.
 
 b) **Dinamizar la dimensión comunitaria de nuestras parroquias** para que, en medio de una sociedad que se fragmenta y se dispersa, favorezcan espacios de encuentro y el fortalecimiento de la vida comunitaria, contribuyendo a que las comunidades recuperen la seguridad necesaria para la convivencia pacífica. 
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee2ff7f4219e7fb",
+        "id": "99a3db077f5d7ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "4570d1e4958ca181",
+            "id": "c8504c573b4fb068",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -108,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00_Inicio/Resumen semanal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,11 +162,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4570d1e4958ca181",
+  "active": "c8504c573b4fb068",
   "lastOpenFiles": [
+    "00_Inicio/Resumen semanal.md",
+    "01_Rutas/Linux/Lección 1.md",
     "00_Inicio/Metas.md",
     "Linux.md",
-    "01_Rutas/Linux/Lección 1.md",
     "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
     "00_Inicio/🌐 Mapa de mi aprendizaje.md"
   ]

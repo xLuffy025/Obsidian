@@ -17,19 +17,19 @@ indiferencia" [[Ls52]]
 ### Preguntas de imagen  (Ver)
 
 1. ¿Qué nos dice la imagen?
-R= Nos muestra una sociedad cansada del trabajar imparablemente con unos trabajos mal pagados donde no alcanza para comer, vestir o tener una vida digna 
+R= *Nos muestra una sociedad cansada del trabajar imparablemente con unos trabajos mal pagados donde no alcanza para comer, vestir o tener una vida digna*
 
-2. ¿Qué tan demandante es la atención, el cuidado y la educación en la familia?
-R= Son labores **[[sumamente demandantes, complejas y fundamentales]]**
+2. ¿Qué tan demandante es la atención, el cuidado y l a educación en la familia?
+R= *Son labores **[[Sin La atención, el cuidado y la educación dentro del entorno familiar | sumamente demandantes complejas y fundamentales.]]***
 
 3. ¿Qué tan demandante es el activismo social en las [[ONG]] y en otros aspectos?
-R= Es altamente demandante y a menudo implica un desgaste físico, y emocional y mental significativo. Aunque es una labor transformadora y solidaria, se caracteriza por enfrentar crisis persistentes con recursos a menudo limitados.
+R= *Es altamente demandante y a menudo implica un desgaste físico, y emocional y mental significativo. Aunque es una labor transformadora y solidaria, se caracteriza por enfrentar crisis persistentes con recursos a menudo limitados.*
 
 4. Si la familia se quiere comprometer con la transformación del mundo, ¿Por dónde tendría que empezar?
-R= por el hogar inculcando valores que hagan el cambio en la sociedad 
+R= *por el hogar inculcando valores que hagan el cambio en la sociedad*
 
 5. ¿De que manera podemos influir en la transformación de la sociedad desde el interior de nuestras familias y al exterior de ellas?
-R=  En el interior ayudando a los mismos miembros de la familia en momentos difíciles  y  a fuera con personas en necesidad económicamente o emocionalmente o en oración 
+R=  *En el interior ayudando a los mismos miembros de la familia en momentos difíciles  y  a fuera con personas en necesidad económicamente o emocionalmente o en oración*
 
 ## Juzgar 
 
@@ -48,13 +48,13 @@ La parábola enseña que el prójimo es todo aquel que necesita mi ayuda, y que 
 - Amar sin limites
 ### Preguntas para reflexionar 
 1. ¿Cuál es la actitud del samaritano?
-R= Actúo con misericordia, rompiendo prejuicios, con amor sin limites, viendo al otro 
+R= *Actúo con misericordia, rompiendo prejuicios, con amor sin limites, viendo al otro*
 
 2. ¿Alcanzo a descubrir personas heridas o necesitadas de mi apoyo?
-R= Creo que si pues cuando puedo ayudo a quien lo necesite 
+R= *Creo que si pues cuando puedo ayudo a quien lo necesite*
 
 3. ¿Cómo qué actitud las atiendo?
-R= De buena corazón 
+R= *De buena corazón*
 
 
  ### **PROFUNDIZAMOS EL MENSAJE**
