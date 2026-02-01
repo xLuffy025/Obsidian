@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Creo en la familia/Creo en la familia.md",
+                "file": "00 Creo en la familia/Tema 9/Tema 9 - La familia humana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creo en la familia"
+              "title": "Tema 9 - La familia humana"
+            }
+          },
+          {
+            "id": "88148ae9898be9d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -169,13 +179,14 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "8fa9fdc7e87eee69",
+  "active": "3837a82abf0f4118",
   "lastOpenFiles": [
+    "00 Creo en la familia/Tema 9/Tema 9 - La familia humana.md",
+    "00 Creo en la familia/Tema 9/Lu 10,25-37.md",
+    "00 Creo en la familia/Tema 9/sumamente demandantes, complejas y fundamentales.md",
     "00 Creo en la familia/Creo en la familia.md",
     "01 Oraciones/Invocación al Espíritu Santo.md",
-    "00 Creo en la familia/Tema 9/Tema 9 - La familia humana.md",
     "00 Creo en la familia/Tema 9/Sin La atención, el cuidado y la educación dentro del entorno familiar.md",
-    "00 Creo en la familia/Tema 9/sumamente demandantes, complejas y fundamentales.md",
     "00 Creo en la familia/Tema 9/cf. Que en cristo, nuestra paz y México tenga vida digna 197.md",
     "00 Creo en la familia/Tema 9/Ls52.md",
     "Libros/Que_en_Cristo_nuestra_Paz_Mexico_tenga_vida_digna.pdf",

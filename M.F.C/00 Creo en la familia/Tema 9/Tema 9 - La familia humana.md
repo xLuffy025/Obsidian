@@ -61,6 +61,59 @@ R= *De buena corazón*
 No somos islas 
 
 1. Las personas y las familias no viven aisladas, viven en comunidad, compartiendo con otras familias y personas, no solo tiempo, sino también el espacio. La vida comunitaria es el escenario concreto de la sociabilidad, es un lugar donde nace y se fortalece el tejido social, así como el sentido de  pertenencia [[cf. Que en cristo, nuestra paz y México tenga vida digna 197]]]
-2. 
+2. ​La familia es una de las instituciones más apreciadas por el pueblo mexicano. Es el lugar indicado donde las personas descubrimos algunos de los más importantes valores para la vida como el sentido de justicia, la solidaridad y la calidez en la acogida. Es en la familia dónde, principalmente, la fe se puede comunicar a las nuevas generaciones. Sin embargo, la familia está sufriendo, tal vez más que otras instituciones, los impactos de los cambios y transformaciones sociales (cf. Educar para una nueva sociedad 15).
+3. ​Analicemos, a la luz de la fe, la relación que tiene nuestra familia con la sociedad en que vivimos. Nuestra felicidad y nuestra fidelidad al Evangelio tienen mucho que ver con el mundo que nos rodea.
 
- 
+​*Nuestro mundo y nuestro país
+4. ​Señalemos brevemente tres de los más graves problemas de la realidad mundial:
+
+​• Destrucción de la naturaleza (cf. LS 24).
+
+​El pecado se manifiesta con toda su fuerza de destrucción en las guerras, las diversas formas de violencia y maltrato (cf. LS 66).
+
+El aumento de la desigualdad entre grupos sociales así como el aumento de la pobreza (CV 32).
+
+5. ​En nuestro país, algunas plagas dañan terriblemente nuestro árbol social:
+
+​• Destrucción de la naturaleza (cf. Que en Cristo, nuestra paz, México tenga vida digna 116).
+
+• La corrupción ("mordida") e impunidad (cf. Que en Cristo, nuestra paz, México tenga vida digna 45-48).
+
+• Violencia e inseguridad (cf. Que en Cristo, nuestra paz, México tenga vida digna 59-60).
+
+6. ​La situación de la pobreza y de la desigualdad en México es sumamente preocupante:
+
+​• El 35.8 por ciento de la población mexicana vive en condiciones de pobreza.
+
+• El 10.4 por ciento vive en pobreza extrema.
+
+• Más de 47 millones de mexicanos no tienen acceso a los bienes mínimos para poder vivir de acuerdo a las exigencias elementales de su dignidad.
+
+• El 51.2 por ciento de la población ocupada tiene un nivel de ingreso mensual menor a los salarios mínimos.
+
+• México es un país en el que existe una enorme desigualdad entre ricos y pobres:
+
+- Al 10 por ciento más pobre de los mexicanos le corresponde el 1.2 por ciento del ingreso nacional total.
+
+- En el otro extremo, el 10 por ciento más rico de la población concentra el 41.3 por ciento de los ingresos nacionales totales.
+
+• Esto quiere decir que en México la desigualdad es muy alta. Por eso, la Iglesia no duda en afirmar que la injusta distribución de la riqueza en nuestra nación es un pecado contra la justicia que clama al cielo (cf. Educar para una nueva sociedad 9).
+
+​*El plan de Dios para la familia humana desde la Creación
+
+7. ​Dios nos da la tierra para cuidarla como seres inteligentes y para compartirla como hermanos (cf. Gn 1,26-29). Dios planta un Edén y se lo da a Adán y Eva para que vivan en él (cf. Gn 2,4-25). El plan de Dios es que toda la familia humana viva unida y feliz a semejanza de la familia trinitaria.
+
+​Trasladando este mensaje a nuestro país, podemos decir que el sueño de Dios es una nación productiva, libre y creyente, que sea solidaria con todos los pueblos de la gran familia humana.
+
+8. ​El gran obstáculo para realizar el sueño de Dios es el pecado. Como Adán, Eva, Caín y todos los que provocaron el diluvio, nuestros pecados individuales y sociales son los que frustran el plan de Dios.
+
+​*Jesús realiza el plan de Dios
+
+9. ​"Jesús, el evangelizador por excelencia y el Evangelio en persona, se identifica especialmente con los más pequeños" (cf. Mt 25,40). Esto nos recuerda que todos los cristianos estamos llamados a cuidar a los más frágiles de la tierra" (EG 209).
+10. * El corazón de Dios tiene un sitio preferencial para los pobres, tanto que hasta Él mismo “se hizo pobre” (2 Co 8,9). El Salvador nació en un pesebre, entre animales, como lo hacían los hijos de los más pobres; creció en un hogar de sencillos trabajadores y trabajó con sus manos para ganarse el pan. Cuando comenzó a anunciar el Reino, lo seguían multitudes de pobres, y por eso dijo: “El Espíritu del Señor está sobre mí, porque me ha ungido. Me ha enviado para anunciar el Evangelio a los pobres” (Lc 4,18). A los que estaban cargados de dolor, angustiados por la pobreza, les aseguró que Dios los tenía en el centro de su corazón: “¡Felices ustedes, los pobres, porque el Reino de Dios les pertenece!” (Lc 6,20); con ellos se identificó: “Tuve hambre y me dieron de comer”, y enseñó que la misericordia hacia ellos es la llave del cielo (cf. EG 197). 
+*Una familia abierta y solidaria
+11. Después de observar la cruda realidad y de compararla con el plan de Dios, ¿podrá la familia cristiana desentenderse de tanto sufrimiento humano? ¿Cómo permanecer indiferentes ante millones de hermanos nuestros que no tienen un trabajo digno, no comen bien ni gozan de una buena educación y atención médica? ¿Cómo se van a desarrollar las personas si la mitad de los hogares mexicanos viven en la pobreza?
+12. Las familias abiertas y solidarias hacen espacio a los pobres, son capaces de hacer amistad con quienes lo están pasando peor que ellas. Si realmente les importa el Evangelio, no pueden olvidar lo que dice Jesús: “Cada vez que lo hicieron con uno de estos, mis hermanos más pequeños, conmigo lo hicieron” (Mt 25,40). Definitivamente viven lo que se nos presenta en este texto: “Cuando des una comida o una cena, no llames a tus amigos, ni a tus hermanos, ni a tus parientes, ni a tus vecinos ricos. Porque si luego ellos te invitan a ti, esa será tu recompensa. Cuando des un banquete, llama a los pobres, a los lisiados, a los cojos, a los ciegos, y serás dichoso” (Lc 14,12-14). ¡Serás dichoso! He aquí el secreto de una familia feliz.
+13. Jesús con el testimonio de su vida, su Evangelio y su Espíritu, nos obliga a leer los acontecimientos, por más dolorosos que sean, como “signos de los tiempos”; es decir, hechos significativos y esperanzadores que nos invitan a vencer el mal con el bien. La presencia del Resucitado en su Iglesia es garantía de triunfo sobre el mal, el pecado y la muerte. Hemos sido salvados en esperanza y avanzamos hacia la victoria. Lo cual no impide que nuestra responsabilidad y compromiso sea con el aquí y el ahora (cf. Educar para una nueva sociedad 1).
+14. En esa “pedagogía del compromiso” el primer paso es hacer un sincero diagnóstico de nuestra situación, aplicándonos el “Termómetro del compromiso social”:
+¿Quieres que una este fragmento con los textos anteriores en un solo archivo o resumen?
