@@ -6,7 +6,7 @@ USE_CONVENTIONAL=true
 
 # Integración con Obsidian
 OBSIDIAN_MODE=true
-OBSIDIAN_VAULT_PATH="$HOME/Obsidian"
+OBSIDIAN_VAULT_PATH="$HOME/storage/documents/Obsidian"
 
 # Plantillas personalizadas
 TEMPLATE_UPDATE_NOTE="update(note): modifica nota →"
