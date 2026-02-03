@@ -12,8 +12,8 @@ Si Debian es estabilidad y comunidad, Red Hat es estandarización, profesionaliz
 - Soporte profesional  
 - Ciclos de vida largos (LTS)  
 - Herramientas corporativas  
-- RPM como formato de paquetes  
-- YUM / DNF como gestores
+- [[RPM]] como formato de paquetes  
+- [[YUN-DNF]] como gestores
 
 ### Red Hat Enterprise Linux (RHEL) es la base de toda esta familia.
 
@@ -65,7 +65,7 @@ Cuándo se usa RHEL:
 
 # 🌼 4. Derivadas comunitarias / de escritorio
 
-**Fedora**
+**[[Fedora]]**
 La distro más importante de esta familia después de RHEL.
 
 - Es el “laboratorio” donde se prueban tecnologías nuevas.  
@@ -114,3 +114,21 @@ Si quieres un entorno de pruebas para RHEL
 *→ CentOS Stream*
 
 
+---
+# 🎯 8. Cómo se usa esta familia en la vida real
+
+En empresas
+- RHEL en servidores  
+- [[OpenShift]]OpenShift para contenedores  
+- [[Podman]]Podman para desarrollo seguro  
+- [[SELinux]]SELinux en enforcing  
+- Rocky/Alma para entornos sin licencia
+
+En desarrollo
+- Fedora Workstation  
+- Podman rootless  
+- Silverblue para entornos reproducibles
+
+En seguridad
+- SELinux  
+- Qubes OS (basado parcialmente en Fedora
