@@ -3,5 +3,6 @@
   "cssTheme": "Dracula Official",
   "interfaceFontFamily": "Hack Nerd Font",
   "textFontFamily": "Hack Nerd Font",
-  "monospaceFontFamily": "Hack Nerd Font"
+  "monospaceFontFamily": "Hack Nerd Font",
+  "showRibbon": false
 }

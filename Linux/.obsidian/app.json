@@ -2,5 +2,7 @@
   "promptDelete": true,
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [],
-  "vimMode": false
+  "vimMode": false,
+  "showLineNumber": false,
+  "readableLineLength": true
 }

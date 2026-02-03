@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "f2c1900518e61799",
+    "id": "da1926bf6367af37",
     "type": "split",
     "children": [
       {
-        "id": "5ccc504d911d1a2e",
+        "id": "76cb094e0a5d0c4d",
         "type": "tabs",
         "children": [
           {
-            "id": "a2e54b7db5bb8ff7",
+            "id": "f1c42dbc06e485b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Plantillas/Caracteres especiales de Windows-Linux-Unicode.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Caracteres especiales de Windows-Linux-Unicode"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d968516a008d0b3f",
+    "id": "3114e723f685acee",
     "type": "split",
     "children": [
       {
-        "id": "b9ab4a6d2335ce9d",
+        "id": "4c46a3d72a730c68",
         "type": "tabs",
         "children": [
           {
-            "id": "de855cfb3955d55b",
+            "id": "0072266fa0d4b967",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "60a09ba8f2d0b296",
+            "id": "6557a9cc28736d69",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concepto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "4d0a035790bdae6f",
+            "id": "7de2a82a2e0248d8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,48 +77,46 @@
     "width": 300
   },
   "right": {
-    "id": "d8225b93b61ce83c",
+    "id": "f90db643c1c8fa2d",
     "type": "split",
     "children": [
       {
-        "id": "ad830ef6abe7f8d3",
+        "id": "9c9373d248d87e6f",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f94e6b3ecb6cdf",
+            "id": "a44bf24fc44cb3e9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Rutas/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Linux"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "705ef7687ee65164",
+            "id": "987c89be6ec6642c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Plantillas/Caracteres especiales de Windows-Linux-Unicode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Caracteres especiales de Windows-Linux-Unicode"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "44fcdf280811ead8",
+            "id": "56ff555c6e4d2875",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "80c385198ef22ddf",
+            "id": "91e1b57d98624f69",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,32 +145,20 @@
             }
           },
           {
-            "id": "6bf3d79ac89e28ee",
+            "id": "5ef7b6e32e0c5b6a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Rutas/Linux/Familia ArchLinux/Familia ArchLinux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Familia ArchLinux"
-            }
-          },
-          {
-            "id": "ec2aab703a461638",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Esquema"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,47 +172,11 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Crear nueva base": false
     }
   },
-  "active": "a2e54b7db5bb8ff7",
+  "active": "f1c42dbc06e485b9",
   "lastOpenFiles": [
-    "Sin título.md",
-    "05_Plantillas/Caracteres especiales de Windows-Linux-Unicode.md",
-    "01_Rutas/Linux/Familia ArchLinux/Familia ArchLinux.md",
-    "01_Rutas/Linux/Familia Red Hat/Familia Red Hat.md",
-    "Arch.md",
-    "01_Rutas/Linux/Linux.md",
-    "01_Rutas/Linux/Familia Debían/Familia Debían.md",
-    "01_Rutas/Linux/Familia ArchLinux",
-    "01_Rutas/Linux/Lección 1.md",
-    "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
-    "05_Plantillas/Plantilla 3 — Concepto.md",
-    "01_Rutas/Bash",
-    "01_Rutas/Futuras-Rutas",
-    "01_Rutas/Matematicas",
-    "01_Rutas/Python",
-    "06_Archivo",
-    "02_Conceptos",
-    "04_Recursos/Python",
-    "04_Recursos/Matematicas",
-    "04_Recursos/Linux",
-    "00_Inicio/🌐 Mapa de mi aprendizaje.md",
-    "01_Rutas/Linux/Tmux.md",
-    "01_Rutas/Linux/Sin título.md",
-    "06_Archivo/Linux.md",
-    "01_Rutas/Linux/Vim y Neovim con (NvChad).md",
-    "01_Rutas/Linux/Ssh - Git.md",
-    "().md",
-    "01_Rutas/Linux/Shell.md",
-    "SSH.md",
-    "05_Plantillas/Plantilla 2 — Proyecto.md",
-    "05_Plantillas/Plantilla 1 — Lección.md",
-    "00_Inicio/Resumen semanal.md",
-    "00_Inicio/Metas.md",
-    "05_Plantillas/Plantilla 5 — Ruta semanal.md",
-    "00_Inicio/Mapa-Aprendizaje.md",
-    "05_Plantillas/Plantilla 4 — Resumen semanal.md"
+    "Linux/01_Rutas/Linux/Familia ArchLinux/Familia ArchLinux.md"
   ]
 }
