@@ -1,4 +1,7 @@
 {
   "theme": "system",
-  "cssTheme": "Dracula Official"
+  "cssTheme": "Dracula Official",
+  "interfaceFontFamily": "Hack Nerd Font",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "Hack Nerd Font"
 }

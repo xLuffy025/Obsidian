@@ -7,7 +7,6 @@ Si Debian es estabilidad y comunidad, Red Hat es estandarización, profesionaliz
 
 # 🌳 1. Red Hat: la raíz del árbol
 ### Red Hat nació con una idea distinta a Debian:
-
 - Estandarizar Linux para empresas  
 - Soporte profesional  
 - Ciclos de vida largos (LTS)  
