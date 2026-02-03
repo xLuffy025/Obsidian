@@ -13,68 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
+                "file": "01_Rutas/Linux/Familia Red Hat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semana 1 — Fundamentos de Linux"
-            }
-          },
-          {
-            "id": "1660d26894929705",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "5b50c070c3cb1e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Semana 1 — Fundamentos de Linux"
-            }
-          },
-          {
-            "id": "6e4472a8590d3201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Rutas/Linux/Tmux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tmux"
-            }
-          },
-          {
-            "id": "93a143c85c4961a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Rutas/Linux/Lección 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lección 1"
+              "title": "Familia Red Hat"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#concepto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,16 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Rutas/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Linux"
             }
           },
           {
@@ -165,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Rutas/Linux/Familia Red Hat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Familia Red Hat"
             }
           },
           {
@@ -207,20 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Rutas/Linux/Familia Red Hat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Familia Red Hat"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,38 +183,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6e4472a8590d3201",
+  "active": "6bf3d79ac89e28ee",
   "lastOpenFiles": [
+    "01_Rutas/Linux/Lección 1.md",
+    "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
+    "05_Plantillas/Plantilla 3 — Concepto.md",
+    "01_Rutas/Linux/Linux.md",
+    "01_Rutas/Bash",
+    "01_Rutas/Futuras-Rutas",
+    "01_Rutas/Matematicas",
+    "01_Rutas/Python",
+    "06_Archivo",
+    "02_Conceptos",
+    "04_Recursos/Python",
+    "04_Recursos/Matematicas",
+    "04_Recursos/Linux",
+    "04_Recursos/Bash",
+    "00_Inicio/🌐 Mapa de mi aprendizaje.md",
+    "01_Rutas/Linux/Tmux.md",
     "01_Rutas/Linux/Sin título.md",
     "06_Archivo/Linux.md",
     "01_Rutas/Linux/Vim y Neovim con (NvChad).md",
-    "01_Rutas/Linux/Tmux.md",
-    "01_Rutas/Linux/Lección 1.md",
-    "01_Rutas/Linux/Linux.md",
-    "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
     "01_Rutas/Linux/Ssh - Git.md",
     "().md",
     "01_Rutas/Linux/Shell.md",
     "SSH.md",
-    "05_Plantillas/Plantilla 3 — Concepto.md",
     "05_Plantillas/Plantilla 2 — Proyecto.md",
     "05_Plantillas/Plantilla 1 — Lección.md",
-    "00_Inicio/🌐 Mapa de mi aprendizaje.md",
-    "06_Archivo",
     "00_Inicio/Resumen semanal.md",
     "00_Inicio/Metas.md",
     "05_Plantillas/Plantilla 5 — Ruta semanal.md",
     "00_Inicio/Mapa-Aprendizaje.md",
     "05_Plantillas/Plantilla 4 — Resumen semanal.md",
-    "Plantillas/Sin nombre",
-    "04_Recursos/Matematicas",
-    "04_Recursos/Python",
-    "04_Recursos/Bash",
-    "04_Recursos/Linux",
-    "03_Proyectos/Matematicas",
-    "03_Proyectos/Python",
-    "03_Proyectos/Linux/Sin nombre",
-    "03_Proyectos/Bash",
     "Bienvenido.md",
     "cree un enlace.md"
   ]

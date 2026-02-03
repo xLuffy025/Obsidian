@@ -26,46 +26,46 @@ Cuándo se usa RHEL:
 
 ---
 
-🌿 2. Ramas principales de la familia Red Hat
-Desde RHEL salen dos ramas enormes:
+# 🌿 2. Ramas principales de la familia Red Hat
+## Desde RHEL salen dos ramas enormes:
 
-A) Derivadas empresariales (clones de RHEL)
+*A) Derivadas empresariales (clones de RHEL)*
 - CentOS Stream  
 - Rocky Linux  
 - AlmaLinux  
 - Oracle Linux
 
-B) Derivadas comunitarias / de escritorio
+*B) Derivadas comunitarias / de escritorio*
 - Fedora  
 - Korora (descontinuada)  
 - Qubes OS (parcialmente)
 
 ---
 
-🌱 3. Derivadas empresariales (propósito y uso)
+# 🌱 3. Derivadas empresariales (propósito y uso)
 
-CentOS Stream
+**CentOS Stream**
 - Antes era un clon de RHEL, ahora es “la versión previa” a RHEL.  
 - Ideal para: pruebas antes de pasar a RHEL, desarrollo empresarial.
 
-Rocky Linux
+**Rocky Linux**
 - Fundado por el creador original de CentOS.  
 - Objetivo: ser el clon 1:1 de RHEL.  
 - Ideal para: reemplazar CentOS clásico, servidores estables.
 
-AlmaLinux
+**AlmaLinux**
 - Otro clon 1:1 de RHEL.  
 - Ideal para: empresas que quieren estabilidad sin pagar RHEL.
 
-Oracle Linux
+**Oracle Linux**
 - Clon de RHEL con kernel optimizado.  
 - Ideal para: entornos Oracle, bases de datos grandes.
 
 ---
 
-🌼 4. Derivadas comunitarias / de escritorio
+# 🌼 4. Derivadas comunitarias / de escritorio
 
-Fedora
+**Fedora**
 La distro más importante de esta familia después de RHEL.
 
 - Es el “laboratorio” donde se prueban tecnologías nuevas.  
@@ -78,59 +78,39 @@ Ideal para:
 - Escritorio moderno  
 - Quienes quieren software reciente pero estable
 
-Qubes OS (parcialmente basado en Fedora)
+**Qubes OS (parcialmente basado en Fedora)**
 - Enfoque: seguridad extrema mediante virtualización por compartimentos.  
 - Ideal para: privacidad, investigación, seguridad defensiva.
 
 ---
 
-🌺 5. Distros Red Hat especializadas (por función)
+# 🌺 5. Distros Red Hat especializadas (por función)
 
-| Función | Distro recomendada |
-|--------|---------------------|
-| Servidores empresariales | RHEL, Rocky, Alma |
-| Desarrollo | Fedora Workstation |
-| Seguridad extrema | Qubes OS |
-| Bases de datos | Oracle Linux |
-| Pruebas previas a producción | CentOS Stream |
+| Función                      | Distro recomendada |
+| ---------------------------- | ------------------ |
+| Servidores empresariales     | RHEL, Rocky, Alma  |
+| Desarrollo                   | Fedora Workstation |
+| Seguridad extrema            | Qubes OS           |
+| Bases de datos               | Oracle Linux       |
+| Pruebas previas a producción | CentOS Stream      |
 
 ---
 
-🌞 6. ¿Cuándo usar cada una? (Mapa mental práctico)
+# 🌞 6. ¿Cuándo usar cada una? (Mapa mental práctico)
 
 Si quieres estabilidad empresarial
-→ RHEL, Rocky Linux, AlmaLinux
+*→ RHEL, Rocky Linux, AlmaLinux*
 
 Si quieres lo más nuevo sin perder estabilidad
-→ Fedora Workstation
+*→ Fedora Workstation*
 
 Si quieres seguridad extrema
-→ Qubes OS
+*→ Qubes OS*
 
 Si quieres infraestructura corporativa
-→ RHEL
+*→ RHEL*
 
 Si quieres un entorno de pruebas para RHEL
-→ CentOS Stream
-# 🧩 Distribuciones basadas en Red Hat más destacadas
+*→ CentOS Stream*
 
-Aquí tienes un resumen de las más relevantes hoy:
 
-|Distribución|Enfoque principal|Compatibilidad|Sitio oficial|
-|---|---|---|---|
-|**AlmaLinux**|Empresas, servidores, reemplazo de CentOS|100% binaria|almalinux.org|
-|**Rocky Linux**|Estabilidad empresarial, sector científico|100% binaria|rockylinux.org|
-|**CloudLinux OS**|Hosting compartido, aislamiento de usuarios|Adaptada|cloudlinux.com|
-|**CentOS Stream**|Desarrollo, testing previo a RHEL|Parcial|centos.org|
-|**ClearOS**|PYMEs, servidores de red con interfaz web|Adaptada|clearos.com|
-|**EuroLinux**|Sector público europeo, cumplimiento legal|100% binaria|euro-linux.com|
-
-Sources:
-
-## 🧠 ¿Cuál elegir?
-
-- **AlmaLinux** y **Rocky Linux** son ideales si buscas una alternativa gratuita y estable a RHEL.
-- **CloudLinux OS** es excelente para entornos de hosting con múltiples usuarios.
-- **CentOS Stream** es útil si desarrollas para RHEL y quieres acceso anticipado a sus cambios.
-- **ClearOS** ofrece una experiencia simplificada para pequeñas empresas con gestión vía web.
-- **EuroLinux** es una opción sólida en entornos donde la soberanía tecnológica y cumplimiento
