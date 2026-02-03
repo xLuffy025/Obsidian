@@ -11,10 +11,14 @@
             "id": "a2e54b7db5bb8ff7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Rutas/Linux/Familia ArchLinux/Familia ArchLinux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Familia ArchLinux"
             }
           }
         ]
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Rutas/Linux/Familia ArchLinux/Familia ArchLinux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Familia ArchLinux"
             }
           },
           {
