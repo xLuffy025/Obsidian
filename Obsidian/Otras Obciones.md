@@ -21,3 +21,24 @@ Segunda forma poniendo un nombre referente
 Para insertar imágenes se pueden arastrar desde una pagina de internet 
 
 ![[633c7e2828409b7c5630d750.webp]]
+
+Si la imagen ya se encuentra en nuestra bóveda ponemos llamarla 
+![[622250749_4412195462342059_7505969413417646844_n.jpg]]
+
+ˋ[[nombre imagen.jpg|1920x1080]]ˋ
+![[622250749_4412195462342059_7505969413417646844_n.jpg|180x320]]
+
+### Para usar separadores
+
+***
+___
+---
+### NOTAS AL PIE 
+DEPENDE DE:
+- Cantidad de información 
+- Cantidad de pasos
+
+
+Texto ˆ[nombre de referencia]
+Te xxto ˆ[nota referencia]
+
