@@ -1,11 +1,20 @@
 
 
-## 🧱 Fundamentos
-- [[Linux]]
-- [[Bash]]
-- [[Python]]
-- [[Matematicas]]
-- [[Metas]]
+## 🐧Linux
+[[Mapa Linux]]
+
+## </> Bash
+[[Mapa Bash]]
+
+## Python
+[[Mapa Python]]
+
+## 🔢 Matemáticas
+[[Mapa Matemáticas]]
+
+## 🗂️ Proyectos activos
+[[Mapa Proyectos]]
+
 
 ## 🌿 Ramas futuras
 - [[Java]]
@@ -19,10 +28,3 @@
 - Python → Matemáticas  
 - C → Linux  
 - C++ → C  
-
-## 🗂️ Proyectos activos
-- Linux
-
-## 📝 Notas importantes
-- 
-

@@ -123,3 +123,5 @@ El asistente te hará preguntas visuales (¿Ves un diamante? ¿Ves un candado?) 
 
 
 
+## Relacionado:
+[[Alias básicos en Bash]]

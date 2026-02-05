@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e4d7956066c221f",
+        "id": "b920f510c47f2f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "99ddacd296743276",
+            "id": "6b4d9d69e0150b8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/04 Matematicas/Título claro del tema 1.md",
+                "file": "Notas/01 Linux/Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Título claro del tema 1"
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "5c96a70ace3e8000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familias de Distribuciones Linux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Familias de Distribuciones Linux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "right": {
     "id": "d8225b93b61ce83c",
@@ -105,17 +130,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/04 Matematicas/Título claro del tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Título claro del tema 1"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -181,13 +205,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Plantillas/Plantilla 3 — Concepto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Plantilla 3 — Concepto"
+              "title": "Esquema"
             }
           },
           {
@@ -195,14 +218,13 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "01_Rutas/01_Linux/Lección 1.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Notas al pie"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,43 +246,45 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "99ddacd296743276",
+  "active": "5c96a70ace3e8000",
   "lastOpenFiles": [
-    "Notas/03 Python/Título claro del tema.md",
+    "Notas/01 Linux/Mapa Linux.md",
+    "Buenas_practicas_en_Linux.md",
+    "Errores_comunes_en_WSL.md",
+    "Notas/01 Linux/Linux.md",
+    "Kernel de Linux.md",
+    "Qué es una distribución Linux.md",
+    "Filosofía del Software Libre.md",
+    "Notas/01 Linux/Paquetes esenciales por distros.md",
+    "Familias de Distribuciones Linux.md",
+    "Notas/01 Linux/Instalación y Primer uso de Linux.md",
+    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
+    "Historia de GNU Linux.md",
+    "Notas/01 Linux/Instalación Linux en WSL.md",
+    "Qué es GNU Linux.md",
+    "Notas/00 Orientacion/Metas.md",
+    "Notas/02 Bash/Mapa Bash.md",
+    "Notas/01 Linux/rolling release.md",
+    "Notas/01 Linux/SSH y GitHub.md",
+    "Paquetes_esenciales_por_distro.md",
+    "Notas/01 Linux/Bash vs Zsh y personalización.md",
+    "Why-Python-Heres-Why-980x551.webp",
+    "Notas/01 Linux/Alias básicos en Bash.md",
+    "Notas/01 Linux/Actualización sistema en Linux.md",
+    "Notas/01 Linux/Usuarios y sudo en Linux.md",
+    "Notas/01 Linux/Instalación Linux en Termux con proot-distro.md",
+    "Notas/01 Linux/WSL vs proot-distros.md",
     "Notas/04 Matematicas/Título claro del tema 1.md",
     "Notas/FB_IMG_1769723860184.jpg",
-    "Notas/01 Linux/05 Herramientas/Bash_vs_Zsh_y_personalizacion.md.md",
     "Notas/04 Matematicas",
     "Notas",
     "Notas/03 Python",
     "Notas/02 Bash/03 Patrones",
     "Notas/02 Bash/02 Scripting",
     "Notas/02 Bash/01 Referencia",
-    "01_Rutas/01_Linux/Semana 1 — Fundamentos de Linux.md",
-    "Notas/01 Linux/01 Conceptos/Linux.md",
-    "Notas/01 Linux/01 Conceptos/01 Instalación y Entornos.md",
-    "Notas/00 Orientacion/Estado_actual.md",
-    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
-    "día 1.md",
-    "Notas/01 Linux/05 Herramientas/Ssh - Git.md",
     "Notas/01 Linux/05 Herramientas",
     "Notas/01 Linux/04 Administración",
-    "01_Rutas/01_Linux/Sin título.md",
     "Notas/01 Linux/03 Distros y modelos",
-    "Notas/01 Linux/01 Conceptos",
-    "01_Rutas/01_Linux/Lección 2.md",
-    "Notas/02 Bash/01_Comandos básicos para programación en bash.md",
-    "Notas/02 Bash/05_Redirección y tuberias.md",
-    "Notas/02 Bash/04_Expresiones de condicionales.md",
-    "Notas/02 Bash/03_Condicionales.md",
-    "Notas/02 Bash/02_Variables y asignaciones.md",
-    "Notas/02 Bash/Bash.md",
-    "Notas/01 Linux/03 Distros y modelos/Familia ArchLinux/Familia ArchLinux.md",
-    "05_Plantillas/Caracteres especiales de Windows-Linux-Unicode.md",
-    "05_Plantillas/Plantilla 3 — Concepto.md",
-    "Variables con comandos asignados.md",
-    "01_Rutas/02_Bash/Variables con comandos asignados.md",
-    "05_Plantillas/Plantilla 5 — Ruta semanal.md",
-    "05_Plantillas/Plantilla 2 — Proyecto.md"
+    "Notas/01 Linux/01 Conceptos"
   ]
 }
