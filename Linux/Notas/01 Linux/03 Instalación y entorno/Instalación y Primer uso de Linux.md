@@ -23,7 +23,7 @@ Si haces esto bien, **proot y WSL funcionan casi igual que un Linux real**.
 
 ## Entornos de trabajo 
 [[Alias básicos en Bash]]
-[[Bash vs Zsh y personalización]]
+[[Bash vs sh vs Zsh]]
 
 ## 🔥 CONCLUSIÓN
 

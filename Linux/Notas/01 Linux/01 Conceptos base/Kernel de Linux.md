@@ -15,5 +15,5 @@ Por qué importa:
 Todo en Linux depende del kernel, incluso las distros.
 
 Relacionado:
-- [[Qué es GNU Linux]]
+- [[🧠 Qué es GNU Linux]]
 - [[Distribuciones Linux]]

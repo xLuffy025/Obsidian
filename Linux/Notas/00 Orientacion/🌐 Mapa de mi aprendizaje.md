@@ -1,7 +1,7 @@
 
 
 ## 🐧Linux
-[[Mapa Linux]]
+[[🐧 Mapa Linux]]
 
 ## </> Bash
 [[Mapa Bash]]

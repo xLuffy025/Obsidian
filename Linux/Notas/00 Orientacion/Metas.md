@@ -1,1 +1,1 @@
-Aprender a utilizar sistemas Linux con mayos facilidad, usar y dominar tos los comandos Bash y automatizar tareas con scripts, aprender y dominar Python para poder trabajar en diversos proyectos por último dominar las Matematicas avanzadas para implementar en futuros proyectos python 
+Aprender a utilizar sistemas Linux con mayos facilidad, usar y dominar todos los comandos Bash y automatizar tareas con scripts, aprender y dominar Python para poder trabajar en diversos proyectos por último dominar las Matematicas avanzadas para implementar en futuros proyectos python 

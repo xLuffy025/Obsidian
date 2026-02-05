@@ -15,4 +15,4 @@ Facilita cambiar de distro sin empezar de cero.
 
 Relacionado:
 - [[Qué es una distribución Linux]]
-- [[Rolling release]]
+- [[rolling release]]

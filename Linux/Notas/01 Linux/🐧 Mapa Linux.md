@@ -1,15 +1,17 @@
-# 🐧 Mapa Linux
-
 Este mapa conecta mis notas sobre Linux.
 No explica conceptos: sirve para orientarme rápido.
 
 ---
 
 ## 🧠 Conceptos base
-- [[Qué es GNU Linux]]
+- [[🧠 Qué es GNU Linux]]
 - [[Historia de GNU Linux]]
-- [[Filosofía del Software Libre]]
+- [[🧠 Filosofía del Software Libre.]]
 - [[Kernel de Linux]]
+
+## Distribuciones
+
+- [[Mapa de Distribuciones Linux]]
 - [[Qué es una distribución Linux]]
 - [[Familias de Distribuciones Linux]]
 
@@ -31,7 +33,7 @@ No explica conceptos: sirve para orientarme rápido.
 ---
 
 ## 🛠️ Entorno de trabajo
-- [[Bash vs Zsh y personalización]]
+- [[Bash vs sh vs Zsh]]
 - [[Alias básicos en Bash]]
 - [[SSH y GitHub]]
 - [[Tmux]]

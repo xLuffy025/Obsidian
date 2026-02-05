@@ -32,5 +32,5 @@ source ~/.zshrc #zsh
 ```
 
 ## Relacionado:
-[[Bash vs Zsh y personalización]]
+[[Bash vs sh vs Zsh]]
 

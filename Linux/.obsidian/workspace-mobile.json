@@ -8,35 +8,78 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c43815463e68ee11",
+            "id": "e5ca4decd998d326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Rutas/Linux/Familia Red Hat/Familia Red Hat.md",
+                "file": "ls.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Familia Red Hat"
+              "title": "ls"
             }
           },
           {
-            "id": "7e71ef8f8e8dd847",
+            "id": "9fd291f56ba5fe07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Rutas/Linux/Familia Debían/Familia Debían.md",
+                "file": "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Familia Debían"
+              "title": "Bash vs sh vs Zsh"
+            }
+          },
+          {
+            "id": "9429c8ae9dfa1647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/02 Bash/Comandos básicos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Comandos básicos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +107,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Modelo ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -115,8 +158,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "bcc4d8c1ff83c384",
@@ -128,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01_Rutas/Linux/Familia Red Hat/Familia Red Hat.md",
+            "file": "Notas/02 Bash/Expresiones de condicionales.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,12 +209,26 @@
           "icon": "lucide-list",
           "title": "Esquema"
         }
+      },
+      {
+        "id": "ba9843055dccae03",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Crear nueva nota única": false,
+      "random-note:Abrir nota al azar": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "publish:Publicar cambios": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -183,35 +239,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e71ef8f8e8dd847",
+  "active": "e5ca4decd998d326",
   "lastOpenFiles": [
-    "01_Rutas/Linux/Familia Red Hat/OpenShift.md",
-    "01_Rutas/Linux/Familia Red Hat/Fedora.md",
-    "01_Rutas/Linux/Familia Red Hat/Familia Red Hat.md",
+    "Comandos básicos en Bash.md",
+    "ls.md",
+    "pwd.md",
+    "Notas/02 Bash/Comandos básicos.md",
+    "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
+    "Powerlevel10k.md",
+    "Notas/02 Bash/Mapa Bash.md",
+    "Zsh y personalizacion.md",
+    "Qué es una Shell.md",
+    "Notas/01 Linux/05 Entorno de trabajo/Alias básicos en Bash.md",
+    "Notas/02 Bash/Variables y asignaciones.md",
+    "Notas/02 Bash/Condicionales en bash.md",
+    "Notas/02 Bash/Expresiones de condicionales.md",
+    "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
+    "Notas/02 Bash/Bash.md",
+    "Notas/01 Linux/01 Conceptos base/🧠 Qué es GNU Linux.md",
+    "Notas/02 Bash/Redirección y tuberias.md",
+    "Notas/01 Linux/🐧 Mapa Linux.md",
+    "Notas/01 Linux/01 Conceptos base/🧠 Filosofía del Software Libre..md",
+    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
+    "Notas/FB_IMG_1769723860184.jpg",
+    "Notas/01 Linux/06 Modelos y mantenimiento/rolling release.md",
+    "Notas/01 Linux/02 Distribuciones/Mapa de Distribuciones Linux.md",
+    "Notas/01 Linux/02 Distribuciones/OpenShift.md",
+    "Notas/03 Python/Título claro del tema.md",
+    "Notas/01 Linux/06 Modelos y mantenimiento",
+    "Notas/01 Linux/05 Entorno de trabajo",
+    "Notas/00 Orientacion/Metas.md",
+    "Notas/01 Linux/04 Configuración inicial",
+    "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
+    "Notas/01 Linux/03 Instalación y entorno",
+    "Notas/01 Linux/02 Distribuciones",
+    "Notas/01 Linux/01 Conceptos base",
     "01_Rutas/Linux/Familia Debían",
     "01_Rutas/Linux/Familia Red Hat",
-    "01_Rutas/Linux/Familia Red Hat/RPM.md",
-    "01_Rutas/Linux/Familia Red Hat/YUN-DNF.md",
-    "01_Rutas/Linux/Familia Red Hat/SELinux.md",
-    "01_Rutas/Linux/Familia Red Hat/Podman.md",
-    "01_Rutas/Linux/Linux.md",
-    "00_Inicio/🌐 Mapa de mi aprendizaje.md",
-    "01_Rutas/Linux/Familia Debían/Familia Debían.md",
-    "Familia Debian.md",
-    "01_Rutas/Linux/Lección 1.md",
-    "01_Rutas/Linux/Semana 1 — Fundamentos de Linux.md",
-    "01_Rutas/Linux/rolling release.md",
     "FB_IMG_1769723860184.jpg",
     "01_Rutas/Matematicas",
-    "01_Rutas/Futuras-Rutas",
-    "01_Rutas/Python",
-    "01_Rutas/Bash",
-    "06_Archivo",
-    "04_Recursos/Python",
-    "04_Recursos/Matematicas",
-    "04_Recursos/Linux",
-    "00_Inicio/Resumen semanal.md",
-    "00_Inicio/Metas.md",
-    "Linux.md"
+    "01_Rutas/Futuras-Rutas"
   ]
 }
