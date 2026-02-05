@@ -1,7 +1,7 @@
 
 
 ## 🧱 Fundamentos
-- [[01_Rutas/Linux/Linux]]
+- [[Linux]]
 - [[Bash]]
 - [[Python]]
 - [[Matematicas]]

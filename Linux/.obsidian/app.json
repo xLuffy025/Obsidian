@@ -4,5 +4,5 @@
   "mobileToolbarCommands": [],
   "vimMode": false,
   "showLineNumber": false,
-  "readableLineLength": true
+  "readableLineLength": false
 }
