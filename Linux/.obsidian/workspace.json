@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Rutas/01_Linux/Lección 1.md",
+                "file": "Notas/04 Matematicas/Título claro del tema 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lección 1"
+              "title": "Título claro del tema 1"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Rutas/01_Linux/Lección 1.md",
+                "file": "Notas/04 Matematicas/Título claro del tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Lección 1"
+              "title": "Enlaces entrantes de Título claro del tema 1"
             }
           },
           {
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,40 +226,41 @@
   },
   "active": "99ddacd296743276",
   "lastOpenFiles": [
-    "01_Rutas/01_Linux/Lección 2.md",
+    "Notas/03 Python/Título claro del tema.md",
+    "Notas/04 Matematicas/Título claro del tema 1.md",
+    "Notas/FB_IMG_1769723860184.jpg",
+    "Notas/01 Linux/05 Herramientas/Bash_vs_Zsh_y_personalizacion.md.md",
+    "Notas/04 Matematicas",
+    "Notas",
+    "Notas/03 Python",
+    "Notas/02 Bash/03 Patrones",
+    "Notas/02 Bash/02 Scripting",
+    "Notas/02 Bash/01 Referencia",
     "01_Rutas/01_Linux/Semana 1 — Fundamentos de Linux.md",
-    "01_Rutas/02_Bash/01_Comandos básicos para programación en bash.md",
-    "01_Rutas/02_Bash/05_Redirección y tuberias.md",
-    "01_Rutas/02_Bash/04_Expresiones de condicionales.md",
-    "01_Rutas/02_Bash/03_Condicionales.md",
-    "01_Rutas/02_Bash/02_Variables y asignaciones.md",
-    "01_Rutas/02_Bash/Bash.md",
-    "01_Rutas/01_Linux/Lección 1.md",
-    "01_Rutas/01_Linux/Familia ArchLinux/Familia ArchLinux.md",
+    "Notas/01 Linux/01 Conceptos/Linux.md",
+    "Notas/01 Linux/01 Conceptos/01 Instalación y Entornos.md",
+    "Notas/00 Orientacion/Estado_actual.md",
+    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
     "día 1.md",
-    "00_Inicio/🌐 Mapa de mi aprendizaje.md",
-    "01_Rutas/01_Linux/Linux.md",
+    "Notas/01 Linux/05 Herramientas/Ssh - Git.md",
+    "Notas/01 Linux/05 Herramientas",
+    "Notas/01 Linux/04 Administración",
+    "01_Rutas/01_Linux/Sin título.md",
+    "Notas/01 Linux/03 Distros y modelos",
+    "Notas/01 Linux/01 Conceptos",
+    "01_Rutas/01_Linux/Lección 2.md",
+    "Notas/02 Bash/01_Comandos básicos para programación en bash.md",
+    "Notas/02 Bash/05_Redirección y tuberias.md",
+    "Notas/02 Bash/04_Expresiones de condicionales.md",
+    "Notas/02 Bash/03_Condicionales.md",
+    "Notas/02 Bash/02_Variables y asignaciones.md",
+    "Notas/02 Bash/Bash.md",
+    "Notas/01 Linux/03 Distros y modelos/Familia ArchLinux/Familia ArchLinux.md",
     "05_Plantillas/Caracteres especiales de Windows-Linux-Unicode.md",
     "05_Plantillas/Plantilla 3 — Concepto.md",
     "Variables con comandos asignados.md",
     "01_Rutas/02_Bash/Variables con comandos asignados.md",
     "05_Plantillas/Plantilla 5 — Ruta semanal.md",
-    "05_Plantillas/Plantilla 2 — Proyecto.md",
-    "01_Rutas/02_Bash",
-    "01_Rutas/01_Linux/Shell.md",
-    "01_Rutas/01_Linux/Familia Red Hat/Familia Red Hat.md",
-    "01_Rutas/01_Linux/Familia Debían/Familia Debían.md",
-    "01_Rutas/01_Linux/Familia ArchLinux",
-    "01_Rutas/02_Bash",
-    "01_Rutas/Futuras-Rutas",
-    "01_Rutas/Matematicas",
-    "01_Rutas/Python",
-    "06_Archivo",
-    "02_Conceptos",
-    "04_Recursos/Python",
-    "04_Recursos/Matematicas",
-    "01_Rutas/01_Linux/Tmux.md",
-    "06_Archivo/Linux.md",
-    "01_Rutas/01_Linux/Vim y Neovim con (NvChad).md"
+    "05_Plantillas/Plantilla 2 — Proyecto.md"
   ]
 }

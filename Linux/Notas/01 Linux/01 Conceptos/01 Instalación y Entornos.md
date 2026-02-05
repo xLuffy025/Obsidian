@@ -225,7 +225,7 @@ source ~/.zshrc #zsh
 
 Si sigues este flujo:
 
-**Instalar → actualizar → usuario → paquetes → [[Ssh - Git]] → [[Shell]] → [[Tmux]] → [[Vim y Neovim con (NvChad)]] → proyectos**
+**Instalar → actualizar → usuario → paquetes → [[Ssh - Git]] → [[Bash_vs_Zsh_y_personalizacion.md]] → [[Tmux]] → [[Vim y Neovim con (NvChad)]] → proyectos**
 
 👉 Puedes **moverte de Ubuntu a Arch o Fedora sin miedo**  
 👉 Puedes **replicar tu sistema en otro dispositivo en minutos**  

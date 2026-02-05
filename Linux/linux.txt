@@ -1,0 +1,47 @@
+.
+|-- 00_Inicio
+|   |-- Metas.md
+|   |-- Resumen\ semanal.md
+|   `-- \360\237\214\220\ Mapa\ de\ mi\ aprendizaje.md
+|-- 01_Rutas
+|   |-- 01_Linux
+|   |   |-- Familia\ ArchLinux
+|   |   |   `-- Familia\ ArchLinux.md
+|   |   |-- Familia\ Deb\303\255an
+|   |   |   `-- Familia\ Deb\303\255an.md
+|   |   |-- Familia\ Red\ Hat
+|   |   |   |-- Familia\ Red\ Hat.md
+|   |   |   |-- Fedora.md
+|   |   |   |-- OpenShift.md
+|   |   |   |-- Podman.md
+|   |   |   |-- RPM.md
+|   |   |   |-- SELinux.md
+|   |   |   `-- YUN-DNF.md
+|   |   |-- Lecci\303\263n\ 1.md
+|   |   |-- Lecci\303\263n\ 2.md
+|   |   |-- Linux.md
+|   |   |-- Semana\ 1\ \342\200\224\ Fundamentos\ de\ Linux.md
+|   |   |-- Shell.md
+|   |   |-- Ssh\ -\ Git.md
+|   |   |-- Tmux.md
+|   |   |-- Vim\ y\ Neovim\ con\ (NvChad).md
+|   |   `-- rolling\ release.md
+|   `-- 02_Bash
+|       |-- 01_Comandos\ b\303\241sicos\ para\ programaci\303\263n\ en\ bash.md
+|       |-- 02_Variables\ y\ asignaciones.md
+|       |-- 03_Condicionales.md
+|       |-- 04_Expresiones\ de\ condicionales.md
+|       |-- 05_Redirecci\303\263n\ y\ tuberias.md
+|       `-- Bash.md
+|-- 05_Plantillas
+|   |-- Caracteres\ especiales\ de\ Windows-Linux-Unicode.md
+|   |-- Plantilla\ 1\ \342\200\224\ Lecci\303\263n.md
+|   |-- Plantilla\ 2\ \342\200\224\ Proyecto.md
+|   |-- Plantilla\ 3\ \342\200\224\ Concepto.md
+|   |-- Plantilla\ 4\ \342\200\224\ Resumen\ semanal.md
+|   `-- Plantilla\ 5\ \342\200\224\ Ruta\ semanal.md
+|-- FB_IMG_1769723860184.jpg
+|-- d\303\255a\ 1.md
+`-- linux.txt
+
+9 directories, 36 files
