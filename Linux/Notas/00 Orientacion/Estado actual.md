@@ -1,0 +1,47 @@
+- [x] 🌐 Mapa de mi aprendizaje
+- [x] 🐧 Mapa Linux
+- [x] 01 Qué es GNU Linux
+- [x] 02 Historia de GNU Linux
+- [x] 03 Filosofía del Software Libre.
+- [x] 04 Kernel de Linux
+- [x] 01 Qué es una distribución Linux
+- [x] 02 Familias de Distribuciones Linux
+- [x] 03 Mapa de Distribuciones Linux
+- [x] Familia Debían
+- [x] Familia Red Hat
+- [x] Familia ArchLinux
+- [ ] Actualización sistema en Linux
+- [ ] Alias básicos en Bash
+- [ ] Bash vs sh vs Zsh
+- [ ] Comandos básicos
+- [ ] Comandos básicos en Bash
+- [ ] Condicionales en bash
+- [ ] Cuándo NO atomizar una nota
+- [ ] Estado actual
+- [ ] Expresiones de condicionales
+
+- [ ] Fedora
+- [ ] Instalación Linux en Termux con proot-distro
+- [ ] Instalación Linux en WSL
+- [ ] Instalación y Primer uso de Linux
+- [ ] ls
+- [ ] Mapa Bash
+- [ ] OpenShift
+- [ ] Paquetes esenciales por distros
+- [ ] Podman
+- [ ] Powerlevel10k
+- [ ] pwd
+- [ ] 01 Qué es una distribución Linux
+- [ ] Qué es una Shell
+- [ ] Redirección y tuberias
+- [ ] rolling release
+- [ ] RPM
+- [ ] SELinux
+- [ ] SSH y GitHub
+- [ ] Tmux
+- [ ] Usuarios y sudo en Linux
+- [ ] Variables y asignaciones
+- [ ] Vim y Neovim con (NvChad)
+- [ ] WSL vs proot-distros
+- [ ] YUN-DNF
+- [ ] Zsh y personalizacion

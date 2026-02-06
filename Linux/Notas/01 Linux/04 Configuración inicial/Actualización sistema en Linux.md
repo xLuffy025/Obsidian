@@ -21,7 +21,7 @@ def upgrade -y
 
 ---
 
->[!tip] Por qué importa: Evita errores de dependencias y paquete
+>[!info] Por qué importa: Evita errores de dependencias y paquete
 
 ## Relacionado:
 

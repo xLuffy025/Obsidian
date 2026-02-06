@@ -1,4 +1,9 @@
-# 🧩 1. Filosofía Arch: “Simplicidad, control total y minimalismo”
+---
+Relacionado:
+  - "[[03 Mapa de Distribuciones Linux]]"
+---
+
+## 🧩 1. Filosofía Arch: “Simplicidad, control total y minimalismo”
 
 Arch no busca ser fácil. Busca ser **transparente**.
 
@@ -14,7 +19,7 @@ Sus principios oficiales:
 
 >[!info] Arch no te da un sistema. Te da una base para construir el tuyo.
 
-# 🔄 2. Rolling Release: el ADN de Arch
+## 🔄 2. Rolling Release: el ADN de Arch
 
 A diferencia de Debian o Red Hat, Arch no tiene versiones.
 
@@ -29,7 +34,7 @@ A diferencia de Debian o Red Hat, Arch no tiene versiones.
 >[!info] Arch es un flujo continuo, no un producto terminado.
 
 ---
-# 📦 3. Pacman: el gestor de paquetes más rápido y minimalista
+## 📦 3. Pacman: el gestor de paquetes más rápido y minimalista
 
 
 **Pacman es simple, directo y poderoso.**
@@ -52,7 +57,7 @@ Comandos típicos:
 >[!info] Pacman es minimalismo puro: rápido, directo y sin adornos.
 
 ---
-# 🧰 4. AUR: el superpoder de Arch
+## 🧰 4. AUR: el superpoder de Arch
 
 El **Arch User Repository** es lo que hace a Arch único.
 
@@ -72,7 +77,7 @@ Ejemplos de herramientas:
 >[!info] Si existe en Linux, probablemente está en AUR.
 
 ---
-# 🧱 5. Arquitectura modular: tú decides todo
+## 🧱 5. Arquitectura modular: tú decides todo
 
 Arch no instala:
 

@@ -4,16 +4,16 @@ No explica conceptos: sirve para orientarme rápido.
 ---
 
 ## 🧠 Conceptos base
-- [[🧠 Qué es GNU Linux]]
-- [[Historia de GNU Linux]]
-- [[🧠 Filosofía del Software Libre.]]
-- [[Kernel de Linux]]
+- [[01 Qué es GNU Linux]]
+- [[02 Historia de GNU Linux]]
+- [[03 Filosofía del Software Libre.]]
+- [[04 Kernel de Linux]]
 
 ## Distribuciones
 
-- [[Mapa de Distribuciones Linux]]
-- [[Qué es una distribución Linux]]
-- [[Familias de Distribuciones Linux]]
+- [[01 Qué es una distribución Linux]]
+- [[02 Familias de Distribuciones Linux]]
+- [[03 Mapa de Distribuciones Linux]]
 
 ---
 

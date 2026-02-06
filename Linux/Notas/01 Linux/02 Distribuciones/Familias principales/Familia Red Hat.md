@@ -1,18 +1,29 @@
-# 🌶️ La familia Red Hat / Fedora
+---
+Relacionado:
+  - "[[Fedora]]"
+  - "[[OpenShift]]"
+  - "[[Podman]]"
+  - "[[RPM]]"
+  - "[[SELinux]]"
+  - "[[SELinux]]"
+  - "[[03 Mapa de Distribuciones Linux]]"
+---
+
+## 🌶️ La familia Red Hat / Fedora
 
 Esta familia es crucial porque define otro estilo de Linux, muy diferente al mundo Debian.  
 Si Debian es estabilidad y comunidad, Red Hat es estandarización, profesionalización y empresa.
 
 ---
 
-# 🌳 1. Red Hat: la raíz del árbol
+## 🌳 1. Red Hat: la raíz del árbol
 ### Red Hat nació con una idea distinta a Debian:
 - Estandarizar Linux para empresas  
 - Soporte profesional  
 - Ciclos de vida largos (LTS)  
 - Herramientas corporativas  
-- [[RPM]] como formato de paquetes  
-- [[YUN-DNF]] como gestores
+- RPM como formato de paquetes  
+- YUN-DNF como gestores
 
 ### Red Hat Enterprise Linux (RHEL) es la base de toda esta familia.
 
@@ -25,7 +36,7 @@ Cuándo se usa RHEL:
 
 ---
 
-# 🌿 2. Ramas principales de la familia Red Hat
+## 🌿 2. Ramas principales de la familia Red Hat
 ## Desde RHEL salen dos ramas enormes:
 
 *A) Derivadas empresariales (clones de RHEL)*
@@ -41,7 +52,7 @@ Cuándo se usa RHEL:
 
 ---
 
-# 🌱 3. Derivadas empresariales (propósito y uso)
+## 🌱 3. Derivadas empresariales (propósito y uso)
 
 **CentOS Stream**
 - Antes era un clon de RHEL, ahora es “la versión previa” a RHEL.  
@@ -62,9 +73,9 @@ Cuándo se usa RHEL:
 
 ---
 
-# 🌼 4. Derivadas comunitarias / de escritorio
+## 🌼 4. Derivadas comunitarias / de escritorio
 
-**[[Fedora]]**
+_Fedora_
 La distro más importante de esta familia después de RHEL.
 
 - Es el “laboratorio” donde se prueban tecnologías nuevas.  
@@ -83,7 +94,7 @@ Ideal para:
 
 ---
 
-# 🌺 5. Distros Red Hat especializadas (por función)
+## 🌺 5. Distros Red Hat especializadas (por función)
 
 | Función                      | Distro recomendada |
 | ---------------------------- | ------------------ |
@@ -95,7 +106,7 @@ Ideal para:
 
 ---
 
-# 🌞 6. ¿Cuándo usar cada una? (Mapa mental práctico)
+## 🌞 6. ¿Cuándo usar cada una? (Mapa mental práctico)
 
 Si quieres estabilidad empresarial
 *→ RHEL, Rocky Linux, AlmaLinux*
@@ -118,9 +129,9 @@ Si quieres un entorno de pruebas para RHEL
 
 En empresas
 - RHEL en servidores  
-- [[OpenShift]]OpenShift para contenedores  
-- [[Podman]]Podman para desarrollo seguro  
-- [[SELinux]]SELinux en enforcing  
+- OpenShift para contenedores  
+- Podman para desarrollo seguro  
+- SELinux SELinux en enforcing  
 - Rocky/Alma para entornos sin licencia
 
 En desarrollo
@@ -131,3 +142,5 @@ En desarrollo
 En seguridad
 - SELinux  
 - Qubes OS (basado parcialmente en Fedora
+
+---

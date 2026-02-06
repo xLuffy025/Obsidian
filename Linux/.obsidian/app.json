@@ -27,5 +27,5 @@
   ],
   "vimMode": false,
   "showLineNumber": false,
-  "readableLineLength": false
+  "readableLineLength": true
 }

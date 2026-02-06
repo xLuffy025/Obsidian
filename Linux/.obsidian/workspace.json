@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b920f510c47f2f1b",
+        "id": "14d69c9e6ab9d191",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4d9d69e0150b8a",
+            "id": "e5225d66e85c194b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/01 Linux/Linux.md",
+                "file": "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,63 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "5c96a70ace3e8000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familias de Distribuciones Linux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Familias de Distribuciones Linux"
+              "title": "Actualización sistema en Linux"
             }
           }
+        ]
+      },
+      {
+        "id": "d44136a89e6e539f",
+        "type": "split",
+        "children": [
+          {
+            "id": "b3bca408139509c3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5850ec506873c5f6",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a3f9d36bcbcd1625",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1b498c11e8ff2723",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notas/00 Orientacion/Estado actual.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Estado actual"
+                }
+              }
+            ]
+          }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -114,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 441.5
   },
   "right": {
     "id": "d8225b93b61ce83c",
@@ -246,45 +274,47 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "5c96a70ace3e8000",
+  "active": "5850ec506873c5f6",
   "lastOpenFiles": [
-    "Notas/01 Linux/Mapa Linux.md",
-    "Buenas_practicas_en_Linux.md",
-    "Errores_comunes_en_WSL.md",
-    "Notas/01 Linux/Linux.md",
-    "Kernel de Linux.md",
-    "Qué es una distribución Linux.md",
-    "Filosofía del Software Libre.md",
-    "Notas/01 Linux/Paquetes esenciales por distros.md",
-    "Familias de Distribuciones Linux.md",
-    "Notas/01 Linux/Instalación y Primer uso de Linux.md",
+    "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
+    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia ArchLinux.md",
+    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat.md",
+    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Debian.md",
+    "Notas/00 Orientacion/Estado actual.md",
+    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
+    "Notas/01 Linux/02 Distribuciones/03 Mapa de Distribuciones Linux.md",
+    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat/OpenShift.md",
+    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat",
+    "Notas/01 Linux/02 Distribuciones/Familias principales",
+    "Notas/01 Linux/02 Distribuciones/02 Familias de Distribuciones Linux.md",
+    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat/Fedora.md",
+    "Notas/01 Linux/🐧 Mapa Linux.md",
+    "Notas/01 Linux/02 Distribuciones/01 Qué es una distribución Linux.md",
     "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
-    "Historia de GNU Linux.md",
-    "Notas/01 Linux/Instalación Linux en WSL.md",
-    "Qué es GNU Linux.md",
+    "Sin título.base",
+    "Sin título 1.base",
+    "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
     "Notas/00 Orientacion/Metas.md",
+    "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
+    "Imagenes",
+    "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
+    "Notas/02 Bash/02 Scripting/Redirección y tuberias.md",
     "Notas/02 Bash/Mapa Bash.md",
-    "Notas/01 Linux/rolling release.md",
-    "Notas/01 Linux/SSH y GitHub.md",
-    "Paquetes_esenciales_por_distro.md",
-    "Notas/01 Linux/Bash vs Zsh y personalización.md",
+    "Notas/02 Bash/02 Scripting/Expresiones de condicionales.md",
+    "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
+    "Notas/02 Bash/01 Referencia/Comandos básicos.md",
+    "Notas/02 Bash/ls.md",
+    "Notas/02 Bash/Comandos básicos en Bash.md",
+    "Notas/02 Bash/pwd.md",
+    "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
+    "Imagenes/Pasted image 20260205203752.png",
+    "Imagenes/Pasted image 20260205193300.png",
     "Why-Python-Heres-Why-980x551.webp",
-    "Notas/01 Linux/Alias básicos en Bash.md",
-    "Notas/01 Linux/Actualización sistema en Linux.md",
-    "Notas/01 Linux/Usuarios y sudo en Linux.md",
-    "Notas/01 Linux/Instalación Linux en Termux con proot-distro.md",
-    "Notas/01 Linux/WSL vs proot-distros.md",
-    "Notas/04 Matematicas/Título claro del tema 1.md",
-    "Notas/FB_IMG_1769723860184.jpg",
+    "Imagenes/FB_IMG_1769723860184.jpg",
     "Notas/04 Matematicas",
     "Notas",
     "Notas/03 Python",
     "Notas/02 Bash/03 Patrones",
-    "Notas/02 Bash/02 Scripting",
-    "Notas/02 Bash/01 Referencia",
-    "Notas/01 Linux/05 Herramientas",
-    "Notas/01 Linux/04 Administración",
-    "Notas/01 Linux/03 Distros y modelos",
-    "Notas/01 Linux/01 Conceptos"
+    "Notas/02 Bash/02 Scripting"
   ]
 }
