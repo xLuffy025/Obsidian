@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "🐧 Mapa Linux"
             }
+          },
+          {
+            "id": "13cd9d4a06012b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Participantes del curso.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Participantes del curso"
+            }
+          },
+          {
+            "id": "f56884374a783899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acerca del kernel de Linux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Acerca del kernel de Linux"
+            }
+          },
+          {
+            "id": "e3739c1c0e227630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qué es un ciclo de liberación.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Qué es un ciclo de liberación"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,8 +264,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09f6ef6d6a5226b2",
+  "active": "e3739c1c0e227630",
   "lastOpenFiles": [
+    "Qué es un ciclo de liberación.md",
+    "Acerca del kernel de Linux.md",
+    "Participantes del curso.md",
+    "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
     "Comandos básicos en Bash.md",
     "ls.md",
@@ -210,19 +287,15 @@
     "Notas/02 Bash/Bash.md",
     "Notas/01 Linux/01 Conceptos base/🧠 Qué es GNU Linux.md",
     "Notas/02 Bash/Redirección y tuberias.md",
-    "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/01 Conceptos base/🧠 Filosofía del Software Libre..md",
     "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento/rolling release.md",
     "Notas/01 Linux/02 Distribuciones/Mapa de Distribuciones Linux.md",
     "Notas/01 Linux/02 Distribuciones/OpenShift.md",
-    "Notas/03 Python/Título claro del tema.md",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
-    "Notas/00 Orientacion/Metas.md",
     "Notas/01 Linux/04 Configuración inicial",
-    "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
     "Notas/01 Linux/03 Instalación y entorno",
     "Notas/01 Linux/02 Distribuciones",
     "Notas/01 Linux/01 Conceptos base",
