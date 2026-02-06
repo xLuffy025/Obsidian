@@ -43,7 +43,7 @@ No explica conceptos: sirve para orientarme rápido.
 
 ## 🔄 Modelos y mantenimiento
 - [[rolling release]]
-- [[Gestores_de_paquetes]]
+- [[Cuándo NO atomizar una nota]]
 - [[Buenas_practicas_en_Linux]]
 
 ---
