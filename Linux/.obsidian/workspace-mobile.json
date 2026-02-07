@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Qué es un ciclo de liberación.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -103,8 +103,7 @@
               "title": "Qué es un ciclo de liberación"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +240,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
@@ -264,11 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3739c1c0e227630",
+  "active": "09f6ef6d6a5226b2",
   "lastOpenFiles": [
+    "Qué es un ciclo de liberación.md",
     "Acerca del kernel de Linux.md",
     "Participantes del curso.md",
-    "Qué es un ciclo de liberación.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
     "Comandos básicos en Bash.md",
