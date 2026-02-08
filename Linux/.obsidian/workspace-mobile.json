@@ -103,7 +103,8 @@
               "title": "Qué es un ciclo de liberación"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,8 +241,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -263,12 +264,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09f6ef6d6a5226b2",
+  "active": "13cd9d4a06012b55",
   "lastOpenFiles": [
+    "Cron.md",
+    "Participantes del curso.md",
+    "Sin título.base",
+    "Notas/01 Linux/🐧 Mapa Linux.md",
     "Qué es un ciclo de liberación.md",
     "Acerca del kernel de Linux.md",
-    "Participantes del curso.md",
-    "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
     "Comandos básicos en Bash.md",
     "ls.md",
@@ -290,8 +293,6 @@
     "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento/rolling release.md",
-    "Notas/01 Linux/02 Distribuciones/Mapa de Distribuciones Linux.md",
-    "Notas/01 Linux/02 Distribuciones/OpenShift.md",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
     "Notas/01 Linux/04 Configuración inicial",
@@ -301,7 +302,6 @@
     "01_Rutas/Linux/Familia Debían",
     "01_Rutas/Linux/Familia Red Hat",
     "FB_IMG_1769723860184.jpg",
-    "01_Rutas/Matematicas",
-    "01_Rutas/Futuras-Rutas"
+    "01_Rutas/Matematicas"
   ]
 }

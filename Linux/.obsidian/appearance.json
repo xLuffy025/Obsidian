@@ -4,5 +4,9 @@
   "interfaceFontFamily": "Hack Nerd Font",
   "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "Hack Nerd Font",
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 16,
+  "autoFullScreen": true,
+  "floatingNavigation": true,
+  "slidingSidebar": true
 }
