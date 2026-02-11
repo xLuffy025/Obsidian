@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5225d66e85c194b",
+            "id": "81b4145b633bccf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
+                "file": "Notas/02 Bash/01 Referencia/05 Hola Mundo con Entrada del Usuario.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,63 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Actualización sistema en Linux"
+              "title": "05 Hola Mundo con Entrada del Usuario"
             }
-          }
-        ]
-      },
-      {
-        "id": "d44136a89e6e539f",
-        "type": "split",
-        "children": [
-          {
-            "id": "b3bca408139509c3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5850ec506873c5f6",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
-                }
-              }
-            ]
           },
           {
-            "id": "a3f9d36bcbcd1625",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1b498c11e8ff2723",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notas/00 Orientacion/Estado actual.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Estado actual"
+            "id": "1a4488d7d10e2771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existen dos tipos de presupuestos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "Existen dos tipos de presupuestos"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 441.5,
+    "collapsed": true
   },
   "right": {
     "id": "d8225b93b61ce83c",
@@ -233,12 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Existen dos tipos de presupuestos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Existen dos tipos de presupuestos"
             }
           },
           {
@@ -250,14 +224,37 @@
               "icon": "lucide-file-signature",
               "title": "Notas al pie"
             }
+          },
+          {
+            "id": "767c0d5f6e3ab80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "simbolos para teclado ingles.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "simbolos para teclado ingles"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,39 +271,39 @@
       "publish:Publicar cambios": false
     }
   },
-  "active": "5850ec506873c5f6",
+  "active": "1a4488d7d10e2771",
   "lastOpenFiles": [
+    "Existen dos tipos de presupuestos.md",
+    "Notas/02 Bash/01 Referencia/05 Hola Mundo con Entrada del Usuario.md",
+    "Notas/02 Bash/01 Referencia/04 Hola Mundo Usando Variables.md",
+    "Notas/02 Bash/Mapa Bash.md",
+    "Notas/02 Bash/01 Referencia/Comandos básicos en Bash.md",
+    "Notas/02 Bash/pwd.md",
+    "Notas/02 Bash/ls.md",
+    "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
+    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
+    "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
+    "Notas/02 Bash/02 Scripting/Comandos básicos.md",
+    "simbolos para teclado ingles.md",
+    "Cron.md",
+    "Notas/04 Matematicas/Título claro del tema 1.md",
+    "Notas/03 Python/Título claro del tema.md",
+    "Notas/02 Bash/Zsh y personalizacion.md",
+    "Notas/02 Bash/Qué es una Shell.md",
+    "Notas/02 Bash/Powerlevel10k.md",
+    "Notas/01 Linux/05 Entorno de trabajo/Tmux.md",
+    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
+    "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
+    "Notas/01 Linux/05 Entorno de trabajo/Alias básicos en Bash.md",
+    "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
+    "Notas/01 Linux/04 Configuración inicial/Paquetes esenciales por distros.md",
     "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
-    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia ArchLinux.md",
-    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat.md",
-    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Debian.md",
-    "Notas/00 Orientacion/Estado actual.md",
-    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
-    "Notas/01 Linux/02 Distribuciones/03 Mapa de Distribuciones Linux.md",
-    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat/OpenShift.md",
+    "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
     "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat",
     "Notas/01 Linux/02 Distribuciones/Familias principales",
-    "Notas/01 Linux/02 Distribuciones/02 Familias de Distribuciones Linux.md",
-    "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat/Fedora.md",
-    "Notas/01 Linux/🐧 Mapa Linux.md",
-    "Notas/01 Linux/02 Distribuciones/01 Qué es una distribución Linux.md",
-    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
     "Sin título.base",
     "Sin título 1.base",
-    "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
-    "Notas/00 Orientacion/Metas.md",
-    "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
     "Imagenes",
-    "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
-    "Notas/02 Bash/02 Scripting/Redirección y tuberias.md",
-    "Notas/02 Bash/Mapa Bash.md",
-    "Notas/02 Bash/02 Scripting/Expresiones de condicionales.md",
-    "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
-    "Notas/02 Bash/01 Referencia/Comandos básicos.md",
-    "Notas/02 Bash/ls.md",
-    "Notas/02 Bash/Comandos básicos en Bash.md",
-    "Notas/02 Bash/pwd.md",
-    "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
     "Imagenes/Pasted image 20260205203752.png",
     "Imagenes/Pasted image 20260205193300.png",
     "Why-Python-Heres-Why-980x551.webp",

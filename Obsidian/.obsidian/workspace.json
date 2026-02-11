@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sintaxis básica de formato.md",
-                "mode": "preview",
+                "file": "Texto destacado.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sintaxis básica de formato"
+              "title": "Texto destacado"
             }
           }
         ]
@@ -197,12 +197,12 @@
   },
   "active": "b2ede6935bbbaa1e",
   "lastOpenFiles": [
-    "Idiomas compatibles.md",
-    "Texto destacado.md",
     "Sintaxis básica de formato.md",
     "Sintaxis avanzada de formato.md",
     "Obsidian.md",
+    "Idiomas compatibles.md",
     "622250749_4412195462342059_7505969413417646844_n.jpg",
+    "Texto destacado.md",
     "633c7e2828409b7c5630d750.webp",
     "Sin título.base"
   ]

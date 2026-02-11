@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
     "editor:rename-heading",
@@ -27,5 +27,5 @@
   ],
   "vimMode": false,
   "showLineNumber": false,
-  "readableLineLength": true
+  "readableLineLength": false
 }
