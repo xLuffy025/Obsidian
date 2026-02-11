@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Participantes del curso.md",
+                "file": "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Participantes del curso"
+              "title": "03 Hola Mundo en Modo Depuración"
             }
           },
           {
@@ -266,6 +266,7 @@
   },
   "active": "13cd9d4a06012b55",
   "lastOpenFiles": [
+    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Cron.md",
     "Participantes del curso.md",
     "Sin título.base",
