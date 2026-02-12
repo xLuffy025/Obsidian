@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
+                "file": "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Actualización sistema en Linux"
+              "title": "Usuarios y sudo en Linux"
             }
           },
           {
@@ -266,6 +266,7 @@
   "active": "09f6ef6d6a5226b2",
   "lastOpenFiles": [
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
+    "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/WSL vs proot-distros.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
@@ -291,7 +292,6 @@
     "Notas/02 Bash/Condicionales en bash.md",
     "Notas/02 Bash/Expresiones de condicionales.md",
     "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
-    "Notas/02 Bash/Bash.md",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
