@@ -16,7 +16,7 @@ sudo pacman -Syu
 
 Fedora 
 ```bash
-def upgrade -y
+dnf upgrade -y
 ```
 
 ---

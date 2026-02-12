@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/01 Linux/🐧 Mapa Linux.md",
-                "mode": "source",
+                "file": "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🐧 Mapa Linux"
+              "title": "Actualización sistema en Linux"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "Qué es un ciclo de liberación"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,13 +263,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13cd9d4a06012b55",
+  "active": "09f6ef6d6a5226b2",
   "lastOpenFiles": [
+    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
+    "Notas/01 Linux/03 Instalación y entorno/WSL vs proot-distros.md",
+    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
+    "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
+    "Notas/01 Linux/🐧 Mapa Linux.md",
+    "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
     "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Cron.md",
     "Participantes del curso.md",
     "Sin título.base",
-    "Notas/01 Linux/🐧 Mapa Linux.md",
     "Qué es un ciclo de liberación.md",
     "Acerca del kernel de Linux.md",
     "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
@@ -288,12 +292,7 @@
     "Notas/02 Bash/Expresiones de condicionales.md",
     "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
     "Notas/02 Bash/Bash.md",
-    "Notas/01 Linux/01 Conceptos base/🧠 Qué es GNU Linux.md",
-    "Notas/02 Bash/Redirección y tuberias.md",
-    "Notas/01 Linux/01 Conceptos base/🧠 Filosofía del Software Libre..md",
-    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
     "Notas/FB_IMG_1769723860184.jpg",
-    "Notas/01 Linux/06 Modelos y mantenimiento/rolling release.md",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
     "Notas/01 Linux/04 Configuración inicial",
