@@ -102,8 +102,33 @@
               "icon": "lucide-file",
               "title": "Qué es un ciclo de liberación"
             }
+          },
+          {
+            "id": "73900342fab39196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,8 +288,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09f6ef6d6a5226b2",
+  "active": "73900342fab39196",
   "lastOpenFiles": [
+    "Sin título.md",
+    "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
     "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/WSL vs proot-distros.md",
@@ -290,8 +317,6 @@
     "Notas/01 Linux/05 Entorno de trabajo/Alias básicos en Bash.md",
     "Notas/02 Bash/Variables y asignaciones.md",
     "Notas/02 Bash/Condicionales en bash.md",
-    "Notas/02 Bash/Expresiones de condicionales.md",
-    "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
