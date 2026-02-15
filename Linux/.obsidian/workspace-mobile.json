@@ -133,8 +133,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
-                "mode": "source",
+                "file": "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Condicionales en bash"
+              "title": "02 Shell no interactivo"
             }
           }
         ],
@@ -314,11 +314,11 @@
   },
   "active": "fb525a29c1f04581",
   "lastOpenFiles": [
-    "Notas/02 Bash/02 Scripting/Comandos básicos.md",
+    "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
     "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
+    "Notas/02 Bash/02 Scripting/Comandos básicos.md",
     "Notas/02 Bash/Mapa Bash.md",
     "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
-    "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
     "Sin título.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
