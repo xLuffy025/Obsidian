@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
+                "file": "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,79 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Usuarios y sudo en Linux"
-            }
-          },
-          {
-            "id": "13cd9d4a06012b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "03 Hola Mundo en Modo Depuración"
-            }
-          },
-          {
-            "id": "f56884374a783899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acerca del kernel de Linux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Acerca del kernel de Linux"
-            }
-          },
-          {
-            "id": "e3739c1c0e227630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qué es un ciclo de liberación.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Qué es un ciclo de liberación"
+              "title": "Variables y asignaciones"
             }
           },
           {
@@ -327,6 +255,7 @@
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
+    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
     "Cron.md",
     "Participantes del curso.md",
