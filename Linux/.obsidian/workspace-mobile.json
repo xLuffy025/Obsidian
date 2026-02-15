@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Sin título"
             }
+          },
+          {
+            "id": "fb525a29c1f04581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Condicionales en bash"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -288,8 +312,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73900342fab39196",
+  "active": "fb525a29c1f04581",
   "lastOpenFiles": [
+    "Notas/02 Bash/02 Scripting/Comandos básicos.md",
+    "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
+    "Notas/02 Bash/Mapa Bash.md",
+    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
+    "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
     "Sin título.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
@@ -299,7 +328,6 @@
     "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
-    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Cron.md",
     "Participantes del curso.md",
     "Sin título.base",
@@ -311,12 +339,8 @@
     "pwd.md",
     "Notas/02 Bash/Comandos básicos.md",
     "Powerlevel10k.md",
-    "Notas/02 Bash/Mapa Bash.md",
     "Zsh y personalizacion.md",
     "Qué es una Shell.md",
-    "Notas/01 Linux/05 Entorno de trabajo/Alias básicos en Bash.md",
-    "Notas/02 Bash/Variables y asignaciones.md",
-    "Notas/02 Bash/Condicionales en bash.md",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
