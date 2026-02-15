@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
+                "file": "Notas/02 Bash/02 Scripting/caja.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Variables y asignaciones"
-            }
-          },
-          {
-            "id": "73900342fab39196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sin título"
-            }
-          },
-          {
-            "id": "fb525a29c1f04581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "02 Shell no interactivo"
+              "title": "caja"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,14 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb525a29c1f04581",
+  "active": "09f6ef6d6a5226b2",
   "lastOpenFiles": [
+    "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
+    "Sin título.md",
+    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
     "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
     "Notas/02 Bash/02 Scripting/Comandos básicos.md",
     "Notas/02 Bash/Mapa Bash.md",
-    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
-    "Sin título.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
     "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
@@ -255,7 +207,6 @@
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
-    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
     "Cron.md",
     "Participantes del curso.md",
@@ -269,7 +220,6 @@
     "Notas/02 Bash/Comandos básicos.md",
     "Powerlevel10k.md",
     "Zsh y personalizacion.md",
-    "Qué es una Shell.md",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
