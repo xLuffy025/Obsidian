@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/02 Bash/02 Scripting/caja.md",
+                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "caja"
+              "title": "SSH y GitHub"
             }
           }
         ]
@@ -193,12 +193,12 @@
   },
   "active": "09f6ef6d6a5226b2",
   "lastOpenFiles": [
+    "Notas/02 Bash/02 Scripting/caja.md",
     "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
     "Notas/02 Bash/02 Scripting/Expresiones de condicionales.md",
     "Notas/02 Bash/02 Scripting/Redirección y tuberias.md",
     "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
     "Notas/02 Bash/02 Scripting/Comandos básicos.md",
-    "Notas/02 Bash/02 Scripting/caja.md",
     "Sin título.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
