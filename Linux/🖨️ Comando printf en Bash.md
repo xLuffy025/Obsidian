@@ -109,6 +109,8 @@ printf "%b2)%b Listar notas guardadas\n" "$CYAN" "$RESET"
 **3. Reutilizar la plantilla automáticamente**
 
 Un truco avanzado: Si le pasas más argumentos a printf de los que hay en tu plantilla, printf repetirá la plantilla en bucle hasta que se acaben los datos.
+
+```bash
 # La plantilla solo tiene un %s, pero le damos 3 palabras
 printf "-> %s\n" "Manzana" "Pera" "Plátano"
 
@@ -116,4 +118,4 @@ printf "-> %s\n" "Manzana" "Pera" "Plátano"
 # -> Manzana
 # -> Pera
 # -> Plátano
-
+```

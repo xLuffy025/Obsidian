@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MODO DEGUG.md",
+                "file": "🖨️ Comando printf en Bash.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MODO DEGUG"
+              "title": "🖨️ Comando printf en Bash"
             }
           },
           {
@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "ed7ec9b36022dec4",
+            "id": "5d33582e57d01045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖨️ Comando printf en Bash.md",
+                "file": "🪤 El Comando trap en Bash (Manejo de Errores y Señales).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🖨️ Comando printf en Bash"
+              "title": "🪤 El Comando trap en Bash (Manejo de Errores y Señales)"
             }
           }
         ],
@@ -288,13 +288,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed7ec9b36022dec4",
+  "active": "5d33582e57d01045",
   "lastOpenFiles": [
-    "🖨️ Comando printf en Bash.md",
-    "PLANTILLA SCRIPT PROFESIONAL.md",
-    "MODO DEGUG.md",
-    "MODO ESTRICTO EN BASH.md",
+    "🪤 El Comando trap en Bash (Manejo de Errores y Señales).md",
     "Estructura de scripts.md",
+    "MODO ESTRICTO EN BASH.md",
+    "🖨️ Comando printf en Bash.md",
+    "MODO DEGUG.md",
+    "PLANTILLA SCRIPT PROFESIONAL.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Existen dos tipos de presupuestos.md",
     "Notas/02 Bash/02 Scripting/caja.md",
@@ -315,7 +316,6 @@
     "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
-    "Cron.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
