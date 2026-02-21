@@ -1,5 +1,5 @@
 
-El Modo Estricto en Bash: set -euo pipefail
+El Modo Estricto en Bash: `set -euo pipefail`
 Por defecto, Bash es muy permisivo: si un comando falla o una variable no existe, simplemente ignora el error y continúa ejecutando la siguiente línea. Esto puede ser catastrófico (por ejemplo, borrar archivos en el directorio equivocado).
 Para evitarlo, los scripts profesionales o "robustos" siempre inician activando el Modo Estricto. Es como ponerle un cinturón de seguridad al código.
 

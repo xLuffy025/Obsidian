@@ -66,6 +66,14 @@ main() {
 # ------------------------------------------------------------------------------
 # Llamamos a la función principal pasándole todos los argumentos del script ("$@")
 main "$@"
-
-
 ```
+
+### ​La anatomía de un script "formal" o robusto
+
+​ Esta es la mejor manera de estructurar un script profesional paso a paso. Es una convención que te ayudará a mantener el orden a medida que tus programas crezcan:
+
+1. ​**El** _**Shebang**_**:** Indica qué intérprete va a ejecutar el código (ej. `#!/bin/bash`).
+2. ​**El "Modo Estricto":** Tus reglas de seguridad (ej. `set -euo pipefail`).
+3. ​**Variables Globales y de Configuración:** Aquí va tu `DEBUG=0`, rutas de archivos, colores para la terminal, etc. Ponerlas todas juntas al inicio hace que sean fáciles de modificar después.
+4. ​**Funciones:** Bloques de código reutilizables (ej. una función para imprimir mensajes de error o para guardar una nota).
+5. ​**Lógica Principal:** El código que realmente hace el trabajo, usando las variables y funciones que definiste arriba.

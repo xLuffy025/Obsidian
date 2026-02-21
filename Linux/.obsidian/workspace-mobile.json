@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09f6ef6d6a5226b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SSH y GitHub"
-            }
-          },
-          {
             "id": "dc4b2218af64d2f4",
             "type": "leaf",
             "state": {
@@ -101,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "PLANTILLA SCRIPT PROFESIONAL"
+            }
+          },
+          {
+            "id": "56c45df7830a1f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estructura de scripts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Estructura de scripts"
             }
           }
         ],
@@ -264,8 +264,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f54e6efa7253009c",
+  "active": "56c45df7830a1f30",
   "lastOpenFiles": [
+    "Estructura de scripts.md",
     "PLANTILLA SCRIPT PROFESIONAL.md",
     "MODO ESTRICTO EN BASH.md",
     "MODO DEGUG.md",
@@ -292,7 +293,6 @@
     "Cron.md",
     "Participantes del curso.md",
     "Sin título.base",
-    "Qué es un ciclo de liberación.md",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",

@@ -1,0 +1,5 @@
+## Un par de detalles geniales sobre esta estructura:
+
+1. ​**El uso de** `#!/usr/bin/env bash` Probablemente hayas visto que muchos scripts empiezan con #!/bin/bash. Usar env bash es una mejor práctica porque le dice al sistema que busque dónde está instalado Bash en ese equipo en particular. Esto hace que el script sea mucho más portable y funcione sin tener que modificar esa primera línea, tanto si lo ejecutas en tu entorno de Arch Linux como si lo corres desde Termux.
+2. ​**La función** `main` Encapsular todo tu código dentro de una función main evita que el script empiece a ejecutar cosas a medias si por alguna razón el archivo se descargó de forma incompleta o si hay código suelto por ahí. Todo está contenido y controlado.
+3. ​**Salidas de error limpias `(****>&2****)`:**  Si te fijas en la función error_exit, al final tiene >&2. Eso manda el mensaje de error al "canal de errores" estándar (stderr) en lugar del canal normal (stdout). Es una práctica muy pro que facilita redirigir los registros cuando el script se ejecuta en segundo plano.
