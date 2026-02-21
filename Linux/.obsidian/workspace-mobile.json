@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "342df071eeac784a",
+        "id": "715e690182da1fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "108f3a9f64cc3a6d",
+            "id": "cb1cb379e24c0d13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "⏲️ Cron y Crontab Automatización de Tareas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "⏲️ Cron y Crontab Automatización de Tareas"
             }
           }
         ]
@@ -177,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "108f3a9f64cc3a6d",
+  "active": "cb1cb379e24c0d13",
   "lastOpenFiles": [
+    "⏲️ Cron y Crontab Automatización de Tareas.md",
+    "Sin título 1.md",
     "Cron.md",
     "📂 Logs en Bash.md",
     "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
@@ -203,8 +219,6 @@
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
     "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
-    "Notas/01 Linux/03 Instalación y entorno/WSL vs proot-distros.md",
-    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
