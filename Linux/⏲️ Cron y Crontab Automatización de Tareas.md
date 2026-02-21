@@ -60,6 +60,10 @@ En lugar de los 5 asteriscos, puedes usar estos atajos comunes:
 
 >[!TIP] Logs de Error
 
-Para saber »si tu tarea cron falló, redirige el error a un  * * * * * /ruta/al/script.sh >> /ruta/al/log.txt 2>&1
-> 
+Para saber »si tu tarea cron falló, redirige el error a un 
+
+```bash
+* * * * * /ruta/al/script.sh >> /ruta/al/log.txt 2>&1`
+```
+
 Etiquetas: #linux #bash #automatización #aprendizaje
