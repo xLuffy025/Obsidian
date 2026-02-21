@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⏲️ Cron y Crontab Automatización de Tareas.md",
-                "mode": "source",
+                "file": "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "⏲️ Cron y Crontab Automatización de Tareas"
+              "title": "📂 Logs en Bash"
             }
           }
         ]
@@ -193,10 +193,11 @@
   },
   "active": "cb1cb379e24c0d13",
   "lastOpenFiles": [
-    "⏲️ Cron y Crontab Automatización de Tareas.md",
+    "Notas/02 Bash/02 Scripting/⏲️ Cron y Crontab Automatización de Tareas.md",
     "Sin título 1.md",
+    "Sin título.md",
     "Cron.md",
-    "📂 Logs en Bash.md",
+    "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
     "Comandos Bash.md",
     "Notas/02 Bash/02 Scripting/Existen dos tipos de presupuestos.md",
@@ -212,7 +213,6 @@
     "Notas/02 Bash/02 Scripting/Redirección y tuberias.md",
     "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
     "Notas/02 Bash/02 Scripting/Comandos básicos.md",
-    "Sin título.md",
     "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
     "Notas/02 Bash/Mapa Bash.md",
