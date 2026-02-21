@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otras Obciones.md",
+                "file": "Sintaxis avanzada de formato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Otras Obciones"
+              "title": "Sintaxis avanzada de formato"
             }
           }
         ]
@@ -160,13 +160,12 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02ce662332c540c5",
+  "active": "20f6ad1d98eab632",
   "lastOpenFiles": [
+    "Texto destacado.md",
     "Sin título.base",
-    "622250749_4412195462342059_7505969413417646844_n.jpg",
-    "Texto destacado.md"
+    "622250749_4412195462342059_7505969413417646844_n.jpg"
   ]
 }
