@@ -1,51 +1,114 @@
 {
   "main": {
-    "id": "54754120b27a8336",
+    "id": "bf8faa0e43634272",
     "type": "split",
     "children": [
       {
-        "id": "709dad63676a70fa",
+        "id": "053bcbd1759e799c",
         "type": "tabs",
         "children": [
           {
-            "id": "43e92bf044d35ea9",
+            "id": "09f6ef6d6a5226b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "SSH y GitHub"
+            }
+          },
+          {
+            "id": "dc4b2218af64d2f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MODO DEGUG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MODO DEGUG"
+            }
+          },
+          {
+            "id": "5693ed74f7724364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MODO ESTRICTO EN BASH.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MODO ESTRICTO EN BASH"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "90d4b860f4ab1ddb",
+    "id": "6a054422b510aa26",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9a5dd3204dd1cd86",
+        "id": "92fe46de664ddca9",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Explorador de archivos"
         }
       },
       {
-        "id": "53b7c1535490f222",
+        "id": "0cfda2bc491cd2a4",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Modelo ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -57,7 +120,7 @@
         }
       },
       {
-        "id": "6be26138b91bdff0",
+        "id": "37aa446704a151d7",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +135,7 @@
         }
       },
       {
-        "id": "442d0ea65af1504b",
+        "id": "ff0c893693f7985b",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +149,7 @@
         }
       },
       {
-        "id": "863b3d665263bcdb",
+        "id": "da659abfb4906684",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,15 +162,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "923e87f28210bd07",
+    "id": "bcc4d8c1ff83c384",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8a3f3b21ff786a33",
+        "id": "ea7bcfe2a0078910",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notas/02 Bash/Expresiones de condicionales.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,12 +185,11 @@
         }
       },
       {
-        "id": "effb4dfdc5ba7b0a",
+        "id": "5d2fa5827a135233",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Plantilla bash script.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -135,12 +198,11 @@
         }
       },
       {
-        "id": "7e8a984a52170fd5",
+        "id": "322c85aaf5395e00",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Plantilla bash script.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -148,30 +210,75 @@
           "icon": "lucide-list",
           "title": "Esquema"
         }
+      },
+      {
+        "id": "ba9843055dccae03",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Crear nueva nota única": false,
+      "random-note:Abrir nota al azar": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "publish:Publicar cambios": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "zk-prefixer:Crear nueva nota única": false,
-      "random-note:Abrir nota al azar": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-      "publish:Publicar cambios": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43e92bf044d35ea9",
+  "active": "5693ed74f7724364",
   "lastOpenFiles": [
-    "Plantilla bash script.md",
-    "El Modo Estricto de Bash.md",
-    "El modo debug.md"
+    "MODO ESTRICTO EN BASH.md",
+    "MODO DEGUG.md",
+    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
+    "Existen dos tipos de presupuestos.md",
+    "Notas/02 Bash/02 Scripting/caja.md",
+    "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
+    "Notas/02 Bash/02 Scripting/Expresiones de condicionales.md",
+    "Notas/02 Bash/02 Scripting/Redirección y tuberias.md",
+    "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
+    "Notas/02 Bash/02 Scripting/Comandos básicos.md",
+    "Sin título.md",
+    "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
+    "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
+    "Notas/02 Bash/Mapa Bash.md",
+    "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
+    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
+    "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
+    "Notas/01 Linux/03 Instalación y entorno/WSL vs proot-distros.md",
+    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
+    "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
+    "Notas/01 Linux/🐧 Mapa Linux.md",
+    "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
+    "Cron.md",
+    "Participantes del curso.md",
+    "Sin título.base",
+    "Qué es un ciclo de liberación.md",
+    "Acerca del kernel de Linux.md",
+    "Notas/FB_IMG_1769723860184.jpg",
+    "Notas/01 Linux/06 Modelos y mantenimiento",
+    "Notas/01 Linux/05 Entorno de trabajo",
+    "Notas/01 Linux/04 Configuración inicial",
+    "Notas/01 Linux/03 Instalación y entorno",
+    "Notas/01 Linux/02 Distribuciones",
+    "Notas/01 Linux/01 Conceptos base",
+    "01_Rutas/Linux/Familia Debían",
+    "01_Rutas/Linux/Familia Red Hat",
+    "FB_IMG_1769723860184.jpg",
+    "01_Rutas/Matematicas"
   ]
 }
