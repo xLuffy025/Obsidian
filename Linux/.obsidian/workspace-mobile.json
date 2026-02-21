@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título 1.md",
+                "file": "🖨️ Comando printf en Bash.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sin título 1"
+              "title": "🖨️ Comando printf en Bash"
             }
           }
         ],
@@ -290,7 +290,7 @@
   },
   "active": "ed7ec9b36022dec4",
   "lastOpenFiles": [
-    "Sin título 1.md",
+    "🖨️ Comando printf en Bash.md",
     "PLANTILLA SCRIPT PROFESIONAL.md",
     "MODO DEGUG.md",
     "MODO ESTRICTO EN BASH.md",

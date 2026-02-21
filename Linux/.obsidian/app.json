@@ -23,7 +23,15 @@
     "editor:move-caret-up",
     "editor:move-caret-down",
     "editor:move-caret-left",
-    "editor:move-caret-right"
+    "editor:move-caret-right",
+    "editor:insert-wikilink",
+    "editor:set-heading",
+    "editor:set-heading-0",
+    "editor:toggle-bullet-list",
+    "editor:toggle-code",
+    "editor:insert-table",
+    "editor:attach-file",
+    "insert-current-date"
   ],
   "vimMode": false,
   "showLineNumber": false,

@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Texto destacado.md",
                 "file": "Sintaxis avanzada de formato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Texto destacado"
               "title": "Sintaxis avanzada de formato"
             }
           }
@@ -145,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Otras Obciones.md",
+            "file": "Texto destacado.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,19 +155,11 @@
           "icon": "lucide-list",
           "title": "Esquema"
         }
-      },
-      {
-        "id": "02ce662332c540c5",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2,
+    "pinned": true
+
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +169,13 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Crear nueva base": false
     }
   },
   "active": "20f6ad1d98eab632",
   "lastOpenFiles": [
-    "Texto destacado.md",
+    "Idiomas compatibles.md",
+
     "Sin título.base",
     "622250749_4412195462342059_7505969413417646844_n.jpg"
   ]
