@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e9363555f79cfd2d",
+        "id": "dab9bf839eb11c00",
         "type": "tabs",
         "children": [
           {
-            "id": "6de819deb0e96086",
+            "id": "540ef31399f9bb9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Existen dos tipos de presupuestos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Existen dos tipos de presupuestos"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -191,16 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6de819deb0e96086",
+  "active": "92fe46de664ddca9",
   "lastOpenFiles": [
-    "Estructura de scripts.md",
-    "🖨️ Comando printf en Bash.md",
-    "MODO ESTRICTO EN BASH.md",
-    "PLANTILLA SCRIPT PROFESIONAL.md",
-    "🪤 El Comando trap en Bash (Manejo de Errores y Señales).md",
-    "MODO DEGUG.md",
+    "Notas/02 Bash/02 Scripting/Existen dos tipos de presupuestos.md",
+    "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
+    "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
+    "Notas/02 Bash/02 Scripting/MODO ESTRICTO EN BASH.md",
+    "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
+    "Notas/02 Bash/02 Scripting/🪤 El Comando trap en Bash (Manejo de Errores y Señales).md",
+    "Notas/02 Bash/02 Scripting/MODO DEGUG.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
-    "Existen dos tipos de presupuestos.md",
     "Notas/02 Bash/02 Scripting/caja.md",
     "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
     "Notas/02 Bash/02 Scripting/Expresiones de condicionales.md",
