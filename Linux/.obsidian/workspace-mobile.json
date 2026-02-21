@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Estructura de scripts"
             }
+          },
+          {
+            "id": "ed7ec9b36022dec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 1"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,12 +288,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56c45df7830a1f30",
+  "active": "ed7ec9b36022dec4",
   "lastOpenFiles": [
-    "Estructura de scripts.md",
+    "Sin título 1.md",
     "PLANTILLA SCRIPT PROFESIONAL.md",
-    "MODO ESTRICTO EN BASH.md",
     "MODO DEGUG.md",
+    "MODO ESTRICTO EN BASH.md",
+    "Estructura de scripts.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Existen dos tipos de presupuestos.md",
     "Notas/02 Bash/02 Scripting/caja.md",
@@ -291,7 +316,6 @@
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/02 Bash/01 Referencia/03 Hola Mundo en Modo Depuración.md",
     "Cron.md",
-    "Participantes del curso.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
