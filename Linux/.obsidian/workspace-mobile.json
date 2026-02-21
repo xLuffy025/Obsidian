@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "MODO ESTRICTO EN BASH"
             }
+          },
+          {
+            "id": "f54e6efa7253009c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLANTILLA SCRIPT PROFESIONAL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PLANTILLA SCRIPT PROFESIONAL"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,8 +264,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5693ed74f7724364",
+  "active": "f54e6efa7253009c",
   "lastOpenFiles": [
+    "PLANTILLA SCRIPT PROFESIONAL.md",
     "MODO ESTRICTO EN BASH.md",
     "MODO DEGUG.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
@@ -268,7 +293,6 @@
     "Participantes del curso.md",
     "Sin título.base",
     "Qué es un ciclo de liberación.md",
-    "Acerca del kernel de Linux.md",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
