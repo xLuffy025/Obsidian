@@ -98,17 +98,20 @@ Corrección concreta (fragmentos clave)
       *) err "Opcion invalida... " ;;
     esac
   }
+```
 
-- Reemplazo de echo -e por printf en helpers:
+  - Reemplazo de echo -e por printf en helpers:
+```bash
 
   msg(){ printf '\033[36m==>\033[0m %s\n' "$1"; }
   ok(){ printf '\033[32m[✔️]  \033[0m  %s\n' "$1"; }
   warn(){ printf '\033[33m [!]\033[0m %s\n' "$1"; }
   err(){ printf '\033[31m [✖️]  \033[0m %s\n' "$1" >&2; }
+```
 
 - log_info con creación asegurada:
-
-  log_info() {
+```bash
+	log_info() {
     local mensaje="$1"
     mkdir -p "$(dirname "$LOG_FILE")" 2>/dev/null || warn "No se pudo crear directorio de log"
     if ! printf '[INFO] %s - %s\n' "$(date '+%F %T')" "$mensaje" >> "$LOG_FILE"; then
