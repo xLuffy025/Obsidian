@@ -11,10 +11,24 @@
             "id": "108f3a9f64cc3a6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas"
             }
           }
         ]
@@ -177,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92fe46de664ddca9",
+  "active": "108f3a9f64cc3a6d",
   "lastOpenFiles": [
     "📂 Logs en Bash.md",
     "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
