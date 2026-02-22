@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "342df071eeac784a",
+        "id": "7345323f013380d0",
         "type": "tabs",
         "children": [
           {
-            "id": "108f3a9f64cc3a6d",
+            "id": "ee82c45d75ada5a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rev. Script nota.sh.md",
+                "file": "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rev. Script nota.sh"
+              "title": "Cuándo NO atomizar una nota"
+            }
+          },
+          {
+            "id": "cb1999a5e3291644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,15 +216,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "108f3a9f64cc3a6d",
+  "active": "cb1999a5e3291644",
   "lastOpenFiles": [
-    "📂 Logs en Bash.md",
+    "Sin título.md",
+    "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
     "Rev. Script nota.sh.md",
+    "simbolos para teclado ingles.md",
+    "Cron.md",
+    "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/02 Bash/02 Scripting/⏲️ Cron y Crontab Automatización de Tareas.md",
-    "Sin título.md",
-    "Cron.md",
-    "⏲️ Cron y Crontab Automatización de Tareas.md",
     "Sin título 1.md",
     "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
     "Comandos Bash.md",
@@ -218,7 +244,6 @@
     "Notas/02 Bash/02 Scripting/Comandos básicos.md",
     "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
-    "Notas/02 Bash/Mapa Bash.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
