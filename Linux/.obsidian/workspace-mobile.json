@@ -11,10 +11,24 @@
             "id": "ee82c45d75ada5a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Cuándo NO atomizar una nota"
             }
           }
         ]
@@ -179,12 +193,13 @@
   },
   "active": "ee82c45d75ada5a5",
   "lastOpenFiles": [
+    "Cron.md",
+    "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
     "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/02 Bash/02 Scripting/⏲️ Cron y Crontab Automatización de Tareas.md",
     "Sin título 1.md",
     "Sin título.md",
-    "Cron.md",
     "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
     "Comandos Bash.md",
     "Notas/02 Bash/02 Scripting/Existen dos tipos de presupuestos.md",
@@ -204,7 +219,6 @@
     "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
     "Notas/02 Bash/Mapa Bash.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
-    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
