@@ -1,11 +1,3 @@
-Perfecto.
-
-Entonces ahora dejamos de improvisar  
-y empezamos a **diseñar tu base técnica como sistema**.
-
-No como hobby. Como infraestructura personal.
-
----
 
 # 🧠 Fase 1 — Definir tu identidad técnica
 
