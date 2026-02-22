@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
+                "file": "simbolos para teclado ingles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cuándo NO atomizar una nota"
+              "title": "simbolos para teclado ingles"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "ee82c45d75ada5a5",
   "lastOpenFiles": [
-    "Cron.md",
     "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
+    "Cron.md",
     "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/02 Bash/02 Scripting/⏲️ Cron y Crontab Automatización de Tareas.md",
