@@ -11,7 +11,7 @@ Principales fallos / correcciones
   `: "${EDITOR:=nvim}"`
   `require_cmd "$EDITOR" || return 1`
   `"$EDITOR" "$FILENAME"`
-Ere
+
 2) Uso de echo -e y secuencias ANSI
 - Mejora: usar printf para mayor portabilidad y evitar depender de echo -e.
   Ejemplo:
