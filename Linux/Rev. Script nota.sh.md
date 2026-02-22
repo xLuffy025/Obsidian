@@ -5,8 +5,7 @@ Principales fallos / correcciones
 - Problema: el script exige nvim y glow al inicio aunque algunas acciones solo necesitan uno u otro. Esto obliga a instalar ambos incluso si solo quieres listar o ver.
 - Solución: comprobar comandos justo antes de usarlos o usar $EDITOR para edición.
   Ejemplo:
-```bash
- [ require_cmd() { command -v "$1" >/dev/null || { err "$1 no instalado"; return 1; }; }
+  require_cmd() { command -v "$1" >/dev/null || { err "$1 no instalado"; return 1; }; }
   ...
   # antes de editar:
   : "${EDITOR:=nvim}"
@@ -16,7 +15,7 @@ Principales fallos / correcciones
 2) Uso de echo -e y secuencias ANSI
 - Mejora: usar printf para mayor portabilidad y evitar depender de echo -e.
   Ejemplo:
-  msg(){ printf '\e36m==>\e[0m %s\n' "$1"; }
+  msg(){ printf '\e[36m==>\e[0m %s\n' "$1"; }
   ok(){ printf '\e[32m[✔️]  \e[0m  %s\n' "$1"; }
 
 3) Manejo de logs: asegurar existencia del directorio antes de escribir
