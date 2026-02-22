@@ -6,13 +6,11 @@ Principales fallos / correcciones
 - Solución: comprobar comandos justo antes de usarlos o usar $EDITOR para edición.
   Ejemplo:
   require_cmd() { command -v "$1" >/dev/null || { err "$1 no instalado"; return 1; }; }
-  ...
+
   # antes de editar:
   : "${EDITOR:=nvim}"
   require_cmd "$EDITOR" || return 1
   "$EDITOR" "$FILENAME"
-```
-```
 
 2) Uso de echo -e y secuencias ANSI
 - Mejora: usar printf para mayor portabilidad y evitar depender de echo -e.
