@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
+                "file": "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cuándo NO atomizar una nota"
+              "title": "PLANTILLA SCRIPT PROFESIONAL"
             }
           },
           {
@@ -217,8 +217,8 @@
   },
   "active": "ee82c45d75ada5a5",
   "lastOpenFiles": [
-    "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
     "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
+    "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
     "Sin título.md",
     "Rev. Script nota.sh.md",
     "simbolos para teclado ingles.md",
