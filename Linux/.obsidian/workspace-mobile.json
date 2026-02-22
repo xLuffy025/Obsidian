@@ -55,8 +55,7 @@
               "title": "Sin título"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1999a5e3291644",
+  "active": "ee82c45d75ada5a5",
   "lastOpenFiles": [
     "Sin título.md",
     "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
