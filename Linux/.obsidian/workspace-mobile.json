@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "simbolos para teclado ingles.md",
+                "file": "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "simbolos para teclado ingles"
+              "title": "Cuándo NO atomizar una nota"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "ee82c45d75ada5a5",
   "lastOpenFiles": [
+    "simbolos para teclado ingles.md",
     "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
     "Cron.md",
     "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
@@ -218,7 +219,6 @@
     "Notas/02 Bash/01 Referencia/02 Shell no interactivo.md",
     "Notas/02 Bash/01 Referencia/01 Shell interactivo.md",
     "Notas/02 Bash/Mapa Bash.md",
-    "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
