@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
+                "file": "Rev. Script nota.sh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas"
+              "title": "Rev. Script nota.sh"
             }
           }
         ]
@@ -194,7 +194,7 @@
   "active": "108f3a9f64cc3a6d",
   "lastOpenFiles": [
     "📂 Logs en Bash.md",
-    "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
+    "Rev. Script nota.sh.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/02 Bash/02 Scripting/⏲️ Cron y Crontab Automatización de Tareas.md",
     "Sin título.md",
