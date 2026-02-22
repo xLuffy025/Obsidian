@@ -1,18 +1,11 @@
- este script si tiene fallos  y se puede hacer mejoras
-
-*System: User retried message*
-
-## Copilot
-
-Puedo hacerlo. ¿Prefieres (a) una lista de fallos y sugerencias con snippets para corregirlos, o (b) que te entregue el script corregido completo listo para pegar?  
-
-Mientras decides, aquí tienes los problemas detectados y mejoras recomendadas (resumen + snippets):
+Problemas detectados y mejoras recomendadas (resumen + snippets):
 
 Principales fallos / correcciones
 1) Dependencias globales forzadas
 - Problema: el script exige nvim y glow al inicio aunque algunas acciones solo necesitan uno u otro. Esto obliga a instalar ambos incluso si solo quieres listar o ver.
 - Solución: comprobar comandos justo antes de usarlos o usar $EDITOR para edición.
   Ejemplo:
+```bash
   require_cmd() { command -v "$1" >/dev/null || { err "$1 no instalado"; return 1; }; }
   ...
   # antes de editar:
