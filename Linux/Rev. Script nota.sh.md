@@ -1,11 +1,4 @@
-# Copilot Chat Conversation Export: Script de revisión y mejoras aplicadas
-
-**User:** @xLuffy025
-**Thread URL:** https://github.com/copilot/c/b8a0a5c7-ec5e-4ebb-b9b9-87e21d65365c
-
-## @xLuffy025
-
-me puedes checar este script si tiene fallos  y se puede hacer mejoras
+ este script si tiene fallos  y se puede hacer mejoras
 
 *System: User retried message*
 
