@@ -55,7 +55,8 @@
               "title": "Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,13 +216,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee82c45d75ada5a5",
+  "active": "cb1999a5e3291644",
   "lastOpenFiles": [
+    "simbolos para teclado ingles.md",
     "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
     "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
     "Sin título.md",
     "Rev. Script nota.sh.md",
-    "simbolos para teclado ingles.md",
     "Cron.md",
     "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
