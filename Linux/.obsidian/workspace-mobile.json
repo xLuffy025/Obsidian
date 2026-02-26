@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
+                "file": "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSH y GitHub"
+              "title": "🖨️ Comando printf en Bash"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "cb1999a5e3291644",
   "lastOpenFiles": [
+    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Sin título.md",
     "simbolos para teclado ingles.md",
     "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
@@ -235,7 +236,6 @@
     "Notas/02 Bash/02 Scripting/MODO ESTRICTO EN BASH.md",
     "Notas/02 Bash/02 Scripting/🪤 El Comando trap en Bash (Manejo de Errores y Señales).md",
     "Notas/02 Bash/02 Scripting/MODO DEGUG.md",
-    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/02 Bash/02 Scripting/caja.md",
     "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
     "Notas/02 Bash/02 Scripting/Expresiones de condicionales.md",
