@@ -202,10 +202,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publicar cambios...": false,
       "zk-prefixer:Crear nueva nota única": false,
       "random-note:Abrir nota al azar": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-      "publish:Publicar cambios": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
