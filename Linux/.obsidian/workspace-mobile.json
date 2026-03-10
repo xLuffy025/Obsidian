@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
+                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🖨️ Comando printf en Bash"
+              "title": "SSH y GitHub"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "cb1999a5e3291644",
   "lastOpenFiles": [
+    "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Sin título.md",
     "simbolos para teclado ingles.md",
@@ -229,7 +230,6 @@
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/02 Bash/02 Scripting/⏲️ Cron y Crontab Automatización de Tareas.md",
     "Sin título 1.md",
-    "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
     "Comandos Bash.md",
     "Notas/02 Bash/02 Scripting/Existen dos tipos de presupuestos.md",
     "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
