@@ -8,7 +8,7 @@ En Bash, los logs se basan en desviar la salida de los comandos (stdout y stderr
 script.sh >> ejecucion.log 2>&1
 ```
 
-2. El comando tee
+2. El comando `tee`
 Permite ver la salida en la terminal y guardarla en el log al mismo tiempo. Es fundamental para monitorear procesos en vivo.
 
 ```bash

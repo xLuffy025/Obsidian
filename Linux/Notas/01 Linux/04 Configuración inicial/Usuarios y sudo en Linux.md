@@ -8,19 +8,19 @@
 
 **Crear usuario (en todas las distros)**
 ```bash 
-useradd -m -s /bin/bash jose
-passwd jose
+useradd -m -s /bin/bash xluffy025
+passwd xluffy025
 ```
 
 **Agregar a sudo:**
 ```bash 
-usermod -aG sudo jose # DEbian/Ubuntu
-usermod -aG wheel jose # Arch/Fedora
+usermod -aG sudo xluffy025 # DEbian/Ubuntu
+usermod -aG wheel xluffy025 # Arch/Fedora
 ```
 
 **Editar sudoers (si hace falta)**
 ```bash 
-EDITOR=nano visudo
+EDITOR=nvim visudo
 ```
 
 **Descomenta:**
