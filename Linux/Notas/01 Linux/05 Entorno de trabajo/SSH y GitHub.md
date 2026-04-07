@@ -139,8 +139,8 @@ sudo service ssh start
 ## 7️⃣ CONFIGURAR GIT (OBLIGATORIO)
 
 ```bash 
-git config --global user.name "Jose Dimas"
-git config --global user.email "tucorreo@email.com"
+git config --global user.name "xLuffy025"
+git config --global user.email "dimas.j0511@outlook.com"
 git config --global init.defaultBranch main
 git config --global pull.rebase false
 ```
