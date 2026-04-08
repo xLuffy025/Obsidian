@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
+                "file": "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSH y GitHub"
+              "title": "Usuarios y sudo en Linux"
             }
           }
         ],
@@ -218,13 +218,13 @@
   },
   "active": "cb1999a5e3291644",
   "lastOpenFiles": [
+    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
     "Notas/02 Bash/Qué es una Shell.md",
     "Notas/02 Bash/Zsh y personalizacion.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
-    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
     "Notas/01 Linux/05 Entorno de trabajo/Alias básicos en Bash.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en Termux con proot-distro.md",
