@@ -1,5 +1,3 @@
-# 🎵 Ode to the Mets — The Strokes
-
 ## 🧠 Tema central
 Desilusión, nostalgia y aceptación: una reflexión sobre el paso del tiempo, las promesas rotas y la imposibilidad de volver a lo que alguna vez fuimos.
 
@@ -55,4 +53,4 @@ En el fondo, es una canción sobre **crecer, perder, aceptar y seguir adelante**
 
 ## 🔗 Enlaces sugeridos dentro de Obsidian
 - [[The Strokes]]
-- [[Playlist – Indie
+- [[Playlist – Indie]]
