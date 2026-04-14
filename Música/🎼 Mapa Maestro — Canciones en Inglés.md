@@ -41,7 +41,7 @@ Este es el centro de tu sistema: desde aquí se conectan todas tus canciones, te
 
 - [[🎵 Chop Suey! — System of a Down]]
 - [[🎵 Hysteria — Muse]]
-- 
+- [[S]]
 - (Agrega aquí la siguiente canción que quieras analizar)
 
 ---

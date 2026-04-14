@@ -39,10 +39,14 @@
             "id": "074ec50bb3770f10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "S.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S"
             }
           }
         ],
@@ -196,6 +200,7 @@
   "active": "074ec50bb3770f10",
   "lastOpenFiles": [
     "🎼 Mapa Maestro — Canciones en Inglés.md",
+    "S.md",
     "Playlist – Rock Alternativo.md",
     "🎵 Hysteria — Muse.md",
     "🎵 Chop Suey! — System of a Down.md",
