@@ -1,0 +1,81 @@
+Este es el centro de tu sistema: desde aquí se conectan todas tus canciones, temas, emociones, artistas y playlists.
+
+---
+
+## 🧠 Temas principales (macro-categorías)
+- [[Amor y Relaciones]]
+- [[Dolor y Vulnerabilidad]]
+- [[Ansiedad y Control]]
+- [[Existencialismo y Sentido]]
+- [[Identidad y Máscaras]]
+- [[Crítica Social y Política]]
+- [[Obsesión y Dependencia]]
+- [[Espiritualidad y Fe]]
+- [[Rebeldía y Libertad]]
+
+---
+
+## 🎧 Playlists
+- [[Playlist – Rock/Metal]]
+- [[Playlist – Alternativo]]
+- [[Playlist – Indie]]
+- [[Playlist – Pop Elegante]]
+- [[Playlist – Emociones Intensas]]
+- [[Playlist – Canciones para Estudiar]]
+
+---
+
+## 🎤 Artistas
+- [[System of a Down]]
+- [[Muse]]
+- [[Linkin Park]]
+- [[Arctic Monkeys]]
+- [[The Strokes]]
+- [[Imagine Dragons]]
+- [[Otros Artistas]]
+
+---
+
+## 🎵 Canciones analizadas
+*(Aquí se irán agregando automáticamente conforme crees notas nuevas)*
+
+- [[Chop Suey! — System of a Down]]
+- [[Hysteria — Muse]]
+- (Agrega aquí la siguiente canción que quieras analizar)
+
+---
+
+## 🗺️ Conexiones globales
+- [[Mapa de Emociones]]
+- [[Mapa de Temas]]
+- [[Mapa de Artistas]]
+- [[Mapa de Playlists]]
+
+---
+
+## 🧩 Estructura del sistema
+- **Mapa Maestro**
+  - **Temas**
+    - Amor  
+    - Dolor  
+    - Existencialismo  
+    - Ansiedad  
+    - Obsesión  
+  - **Artistas**
+    - System of a Down  
+    - Muse  
+    - Linkin Park  
+  - **Canciones**
+    - Chop Suey!  
+    - Hysteria  
+  - **Playlists**
+    - Rock/Metal  
+    - Alternativo  
+    - Indie  
+
+---
+
+## 🔗 Notas recomendadas para expandir
+- [[Cómo analizar una canción]]
+- [[Guía de emociones en música]]
+- [[Mapa mental de letras en inglés]]
