@@ -17,7 +17,7 @@ Este es el centro de tu sistema: desde aquí se conectan todas tus canciones, te
 
 ## 🎧 Playlists
 - [[Playlist – Rock/Metal]]
-- [[Playlist – Alternativo]]
+- [[Playlist – Rock Alternativo]]
 - [[Playlist – Indie]]
 - [[Playlist – Pop Elegante]]
 - [[Playlist – Emociones Intensas]]
@@ -40,7 +40,8 @@ Este es el centro de tu sistema: desde aquí se conectan todas tus canciones, te
 *(Aquí se irán agregando automáticamente conforme crees notas nuevas)*
 
 - [[🎵 Chop Suey! — System of a Down]]
-- [[Hysteria — Muse]]
+- [[🎵 Hysteria — Muse]]
+- 
 - (Agrega aquí la siguiente canción que quieras analizar)
 
 ---

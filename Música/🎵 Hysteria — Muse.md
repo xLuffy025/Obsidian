@@ -1,5 +1,3 @@
-# 🎵 Hysteria — Muse
-
 ## 🧠 Tema central
 Obsesión emocional intensa: el deseo desesperado de recuperar a alguien que se ha ido y que provoca ansiedad, dependencia y pérdida de control.
 
