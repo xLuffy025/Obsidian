@@ -67,15 +67,4 @@ Este es el centro de tu sistema: desde aquí se conectan todas tus canciones, te
     - Linkin Park  
   - **Canciones**
     - Chop Suey!  
-    - Hysteria  
-  - **Playlists**
-    - Rock/Metal  
-    - Alternativo  
-    - Indie  
-
----
-
-## 🔗 Notas recomendadas para expandir
-- [[Cómo analizar una canción]]
-- [[Guía de emociones en música]]
-- [[Mapa mental de letras en inglés]]
+s
