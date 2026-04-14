@@ -41,6 +41,6 @@ Todo esto crea un retrato de **confusión, desesperación y búsqueda de sentido
 
 ## 🔗 Enlaces sugeridos dentro de Obsidian
 - [[System of a Down]]
-- [[Canciones en inglés – Mapa general]]
+- [[🎼 Mapa Maestro — Canciones en Inglés]]
 - [[Playlist – Rock/Metal]]
 - [[Temas: Dolor y Existencialismo]]
