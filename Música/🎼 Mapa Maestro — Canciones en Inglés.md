@@ -16,7 +16,7 @@ Este es el centro de tu sistema: desde aquí se conectan todas tus canciones, te
 ---
 
 ## 🎧 Playlists
-- [[Playlist – Rock/Metal]]
+- [[Playlist – Rock Metal]]
 - [[Playlist – Rock Alternativo]]
 - [[Playlist – Indie]]
 - [[Playlist – Pop Elegante]]
