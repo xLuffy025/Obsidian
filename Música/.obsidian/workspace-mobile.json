@@ -11,10 +11,14 @@
             "id": "f387f2714c6e65d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chup Suey.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Chup Suey"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Chup Suey.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Chup Suey.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Chup Suey.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -162,5 +169,7 @@
     }
   },
   "active": "f387f2714c6e65d3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Chup Suey.md"
+  ]
 }
