@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎵 Ode to the Mets — The Strokes.md",
-                "mode": "source",
+                "file": "Playlist – Indie.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎵 Ode to the Mets — The Strokes"
+              "title": "Playlist – Indie"
             }
           }
         ],
@@ -199,8 +199,9 @@
   },
   "active": "074ec50bb3770f10",
   "lastOpenFiles": [
-    "🎼 Mapa Maestro — Canciones en Inglés.md",
     "🎵 Ode to the Mets — The Strokes.md",
+    "Playlist – Indie.md",
+    "🎼 Mapa Maestro — Canciones en Inglés.md",
     "Playlist – Rock Alternativo.md",
     "🎵 Hysteria — Muse.md",
     "🎵 Chop Suey! — System of a Down.md",
