@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Chup Suey"
             }
+          },
+          {
+            "id": "bd6363766632895c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chop Suey! (Toxicity, 2001).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chop Suey! (Toxicity, 2001)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chup Suey.md",
+            "file": "Chop Suey! (Toxicity, 2001).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,8 +183,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f387f2714c6e65d3",
+  "active": "bd6363766632895c",
   "lastOpenFiles": [
+    "Chop Suey! (Toxicity, 2001).md",
     "Chup Suey.md"
   ]
 }
