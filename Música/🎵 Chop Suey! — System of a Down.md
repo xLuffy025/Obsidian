@@ -1,5 +1,3 @@
-# 🎵 
-
 ## 🧠 Tema central
 Crisis emocional y espiritual: ocultar el dolor, sentirse incomprendido y cuestionar a Dios en medio del sufrimiento.
 
