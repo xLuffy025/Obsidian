@@ -1,1 +1,1 @@
-[[]]🎵 Chop Suey! — System of a Down
+[[🎵 Chop Suey! — System of a Down]]
