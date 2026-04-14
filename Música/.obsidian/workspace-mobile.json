@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playlist – Indie.md",
-                "mode": "source",
+                "file": "Playlist – Rock/Metal.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Playlist – Indie"
+              "title": "Metal"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "074ec50bb3770f10",
   "lastOpenFiles": [
-    "🎵 Ode to the Mets — The Strokes.md",
     "Playlist – Indie.md",
+    "🎵 Ode to the Mets — The Strokes.md",
     "🎼 Mapa Maestro — Canciones en Inglés.md",
     "Playlist – Rock Alternativo.md",
     "🎵 Hysteria — Muse.md",
