@@ -39,7 +39,7 @@ Este es el centro de tu sistema: desde aquí se conectan todas tus canciones, te
 ## 🎵 Canciones analizadas
 *(Aquí se irán agregando automáticamente conforme crees notas nuevas)*
 
-- [[Chop Suey! — System of a Down]]
+- [[🎵 Chop Suey! — System of a Down]]
 - [[Hysteria — Muse]]
 - (Agrega aquí la siguiente canción que quieras analizar)
 
