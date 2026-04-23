@@ -1,5 +1,3 @@
-
-
 ## ¿Qué es un script de bash?
 
 Un script es simplemente un **archivo de texto** con una lista de comandos que la computadora ejecuta uno por uno. En lugar de escribir comandos a mano, los automatizas.
@@ -60,16 +58,6 @@ Mi primer script funciona
 
 ```bash
 echo "Hola"          # imprime: Hola
-echo "Tengo 20 años" # imprime: Tengo 20 años
+echo "Tengo 20 años" # imprime: Tengo 20 
 ```
-
 ---
-
-## 🏋️ Ejercicio
-
-Crea un script llamado `yo.sh` que imprima:
-- Tu nombre
-- Tu edad
-- Por qué quieres aprender bash
-
-Mándame el script cuando lo tengas y lo revisamos 🙂
