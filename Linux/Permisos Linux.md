@@ -254,7 +254,7 @@ Carpeta privada
 
 ---
 
-🧠 14. Consejos importantes
+### 🧠 14. Consejos importantes
 
 ❌ Nunca uses 777 en todo → es inseguro
 
