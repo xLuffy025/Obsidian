@@ -12,6 +12,12 @@ La **primera línea** de todo script debe ser:
 ```
 Esto le dice al sistema **"usa bash para ejecutar este archivo"**. Sin esta línea el script puede fallar.
 
+Shebang
+Diferencia
+#!/bin/bash
+Usa bash directo de esa ruta
+#!/usr/bin/env bash
+Busca bash en el PATH del sistema
 ---
 
 ## Tu primer script

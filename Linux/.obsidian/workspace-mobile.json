@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permisos Linux.md",
+                "file": "Lección 1 — Tu primer script 🎓.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Permisos Linux"
+              "title": "Lección 1 — Tu primer script 🎓"
             }
           }
         ],
@@ -290,8 +290,8 @@
   },
   "active": "3e5fae9feda40290",
   "lastOpenFiles": [
-    "Lección 1 — Tu primer script 🎓.md",
     "Permisos Linux.md",
+    "Lección 1 — Tu primer script 🎓.md",
     "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
     "Notas/02 Bash/02 Scripting/Comandos básicos.md",
     "Nvim.md",
