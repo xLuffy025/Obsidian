@@ -45,7 +45,7 @@ Ejemplo:
 
 Desglose:
 ```bash
- drwx r-x r--
+drwx r-x r--
 | |   |   |
 | |   |   └─ otros
 | |   └──── grupo
