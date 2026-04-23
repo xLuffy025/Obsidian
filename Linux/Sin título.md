@@ -1,1 +1,0 @@
-Busca bash en el PATH del sistema
