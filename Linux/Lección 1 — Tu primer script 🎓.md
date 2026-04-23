@@ -1,6 +1,4 @@
-# Lección 1 — Tu primer script 🎓
 
----
 
 ## ¿Qué es un script de bash?
 

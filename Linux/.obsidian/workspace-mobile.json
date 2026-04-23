@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "Lección 1 — Tu primer script 🎓.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Lección 1 — Tu primer script 🎓"
             }
           }
         ],
@@ -267,7 +267,7 @@
   "active": "0e9f359729dbeb24",
   "lastOpenFiles": [
     "Nvim.md",
-    "Sin título.md",
+    "Lección 1 — Tu primer script 🎓.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
