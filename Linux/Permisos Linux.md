@@ -268,10 +268,11 @@ Carpeta privada
 
 ---
 
-🧪 15. Ejercicio para practicar (recomendado)
+### 🧪 15. Ejercicio para practicar (recomendado)
 
 En tu entorno (Termux o Linux):
 
+```bash
 mkdir test_permisos
 cd test_permisos
 
@@ -280,6 +281,7 @@ ls -l
 
 chmod 700 archivo.txt
 ls -l
+```
 
 
 ---
