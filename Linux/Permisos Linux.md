@@ -1,4 +1,3 @@
-Claro. Entender los permisos en Linux es clave si quieres dominar el sistema (y más si estás usando Termux o distribuciones en proot). Te lo explico completo pero claro, sin rodeos.
 
 
 ---
