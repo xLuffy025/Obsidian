@@ -43,6 +43,7 @@ chmod +x hola.sh
 # Ejecútalo
 ./hola.sh
 ```
+`chmod +x` Da permiso de ejecución 
 
 
 Debes ver:
