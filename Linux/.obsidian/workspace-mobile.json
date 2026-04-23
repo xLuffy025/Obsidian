@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Lección 1 — Tu primer script 🎓"
             }
+          },
+          {
+            "id": "3e5fae9feda40290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,10 +288,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e9f359729dbeb24",
+  "active": "3e5fae9feda40290",
   "lastOpenFiles": [
-    "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
     "Lección 1 — Tu primer script 🎓.md",
+    "Sin título.md",
+    "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
     "Notas/02 Bash/02 Scripting/Comandos básicos.md",
     "Nvim.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
@@ -291,7 +316,6 @@
     "Notas/01 Linux/04 Configuración inicial/Paquetes esenciales por distros.md",
     "simbolos para teclado ingles.md",
     "Rev. Script nota.sh.md",
-    "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
