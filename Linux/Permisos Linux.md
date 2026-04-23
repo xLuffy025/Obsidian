@@ -45,18 +45,13 @@ Ejemplo:
 
 Desglose:
 ```bash
-drwx r-x r--
+.rwx r-x r--
 | |   |   |
 | |   |   └─ otros
 | |   └──── grupo
 | └──────── owner
 └────────── tipo de archivo
 ```
-
-
-
-
-
 
 ---
 
