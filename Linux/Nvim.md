@@ -4,5 +4,5 @@ Para ejecutar tus scripts desde nvim:
 ```
 O dale permisos y ejecútalo directamente:
 ```
-
+:!chmod +x % && ./%
 ```
