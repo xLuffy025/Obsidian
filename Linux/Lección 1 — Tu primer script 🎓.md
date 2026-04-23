@@ -14,15 +14,11 @@ Esto le dice al sistema **"usa bash para ejecutar este archivo"**. Sin esta lín
 
 
 
-| Shebang       | Diferencia |
-| ------------- | ---------- |
-| `#!/bin/bash` |            |
+| Shebang               | Diferencia                            |
+| --------------------- | ------------------------------------- |
+| `#!/bin/bash`         | **Usa bash directo de esa ruta**      |
+| `#!/usr/bin/env bash` | **Busca bash en el PATH del sistema** |
 
-
-
-Usa bash directo de esa ruta
-#!/usr/bin/env bash
-Busca bash en el PATH del sistema
 ---
 
 ## Tu primer script
