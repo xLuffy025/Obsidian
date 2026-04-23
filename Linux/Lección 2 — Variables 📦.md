@@ -37,4 +37,3 @@ Crea `variables.sh` con:
 - Una variable con tu sistema operativo
 - Imprime todo con `echo` usando las variables
 
-¿Te animas? 🙂
