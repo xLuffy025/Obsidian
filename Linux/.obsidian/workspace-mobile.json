@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Nvim"
             }
+          },
+          {
+            "id": "0e9f359729dbeb24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,10 +264,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95d8f6669325a67f",
+  "active": "0e9f359729dbeb24",
   "lastOpenFiles": [
-    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Nvim.md",
+    "Sin título.md",
+    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
@@ -267,7 +292,6 @@
     "Notas/02 Bash/02 Scripting/🖨️ Comando printf en Bash.md",
     "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
     "Cron.md",
-    "sat_feb_21_2026_script_de_revision_y_mejoras_aplicadas.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
