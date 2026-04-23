@@ -213,41 +213,43 @@ Define permisos al crear archivos.
 
 Ver:
 
-umask
+`umask`
 
 Ejemplo:
 
-umask 022
+`umask 022`
 
 Resultado:
-
+```bash 
 Archivos → 644
 
 Carpetas → 755
+```
+
 
 
 
 ---
 
-⚡ 13. Ejemplos prácticos
+### ⚡ 13. Ejemplos prácticos
 
 Hacer script ejecutable
 
-chmod +x script.sh
+`chmod +x script.sh`
 
 
 ---
 
 Proteger archivo
 
-chmod 600 secreto.txt
+`chmod 600 secreto.txt`
 
 
 ---
 
 Carpeta privada
 
-chmod 700 privada
+`chmod 700 privada`
 
 
 ---
