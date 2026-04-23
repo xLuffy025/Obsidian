@@ -2,7 +2,7 @@
 
 ---
 
-🔐 1. ¿Qué son los permisos en Linux?
+### 🔐 1. ¿Qué son los permisos en Linux?
 
 En Linux, todo es un archivo (archivos, carpetas, dispositivos).
 Cada uno tiene permisos que controlan quién puede hacer qué.
@@ -19,9 +19,9 @@ Others (o) → todos los demás
 
 ---
 
-⚙️ 2. Tipos de permisos
+### ⚙️ 2. Tipos de permisos
 
-Hay 3 permisos básicos:
+**Hay 3 permisos básicos:**
 
 r (read) → leer
 
@@ -33,29 +33,34 @@ x (execute) → ejecutar
 
 ---
 
-📂 3. Cómo ver permisos
+### 📂 3. Cómo ver permisos
 
 Usa:
 
-ls -l
+`ls -l`
 
 Ejemplo:
 
--rwxr-xr-- 1 user user 1234 archivo.sh
+`-rwxr-xr-- 1 user user 1234 archivo.sh`
 
 Desglose:
-
-- rwx r-x r--
+```bash
+ drwx r-x r--
 | |   |   |
 | |   |   └─ otros
 | |   └──── grupo
 | └──────── owner
 └────────── tipo de archivo
+```
+
+
+
+
 
 
 ---
 
-📌 4. Tipos de archivo (primer carácter)
+### 📌 4. Tipos de archivo (primer carácter)
 
 - → archivo normal
 
@@ -67,9 +72,9 @@ l → enlace simbólico
 
 ---
 
-🔢 5. Permisos en formato numérico (muy importante)
+### 🔢 5. Permisos en formato numérico (muy importante)
 
-Cada permiso tiene valor:
+**Cada permiso tiene valor:**
 
 r = 4
 
@@ -80,7 +85,7 @@ x = 1
 
 Se suman:
 
-Permiso	Valor
+**Permiso	Valor**
 
 rwx	7
 rw-	6
@@ -90,7 +95,7 @@ r--	4
 
 Ejemplo:
 
-chmod 755 archivo.sh
+`chmod 755 archivo.sh`
 
 Significa:
 
@@ -108,40 +113,40 @@ Others → 5 (r-x)
 
 Forma numérica:
 
-chmod 755 archivo.sh
+`chmod 755 archivo.sh`
 
 Forma simbólica:
 
-chmod u+x archivo.sh   # agrega ejecución al owner
-chmod g-w archivo.sh   # quita escritura al grupo
-chmod o=r archivo.sh   # otros solo lectura
+`chmod u+x archivo.sh`   # agrega ejecución al owner
+`chmod g-w archivo.sh`   # quita escritura al grupo
+`chmod o=r archivo.sh`   # otros solo lectura
 
 
 ---
 
-👤 7. Cambiar dueño (chown)
+### 👤 7. Cambiar dueño (chown)
 
-chown usuario archivo
+`chown usuario archivo`
 
 Ejemplo:
 
-chown root archivo.sh
+`chown root archivo.sh`
 
 Cambiar usuario y grupo:
 
-chown usuario:grupo archivo
+`chown usuario:grupo archivo`
 
 
 ---
 
-👥 8. Cambiar grupo (chgrp)
+### 👥 8. Cambiar grupo (chgrp)
 
-chgrp grupo archivo
+`chgrp grupo archivo`
 
 
 ---
 
-📁 9. Permisos en directorios
+### 📁 9. Permisos en directorios
 
 Aquí cambia un poco:
 
@@ -154,40 +159,40 @@ x → entrar al directorio
 
 Ejemplo:
 
-chmod 755 carpeta
+`chmod 755 carpeta`
 
 
 ---
 
-⚠️ 10. Permisos especiales (nivel pro)
+### ⚠️ 10. Permisos especiales (nivel pro)
 
-🔴 SUID (Set User ID)
+**🔴 SUID (Set User ID)**
 
 Ejecuta archivo como el dueño:
 
-chmod 4755 archivo
+`chmod 4755 archivo`
 
 Ejemplo típico: passwd
 
 
 ---
 
-🔵 SGID (Set Group ID)
+**🔵 SGID (Set Group ID)**
 
 Ejecuta con permisos del grupo:
 
-chmod 2755 archivo
+`chmod 2755 archivo`
 
 En carpetas → heredan grupo
 
 
 ---
 
-🟡 Sticky Bit
+### 🟡 Sticky Bit
 
 Solo el dueño puede borrar archivos:
 
-chmod 1777 carpeta
+`chmod 1777 carpeta`
 
 Ejemplo: /tmp
 
@@ -196,11 +201,11 @@ Ejemplo: /tmp
 
 🔍 11. Ver permisos especiales
 
-ls -l
+`ls -l`
 
 Ejemplo:
 
--rwsr-xr-x
+`-rwsr-xr-x`
 
 s indica SUID o SGID.
 
