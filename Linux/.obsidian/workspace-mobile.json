@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lección 3 — Input del usuario con `read` ⌨️.md",
+                "file": "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lección 3 — Input del usuario con `read` ⌨️"
+              "title": "Usuarios y sudo en Linux"
             }
           }
         ],
@@ -338,8 +338,8 @@
   },
   "active": "c3cdae7ae6894c8c",
   "lastOpenFiles": [
-    "Lección 2 — Variables 📦.md",
     "Lección 3 — Input del usuario con `read` ⌨️.md",
+    "Lección 2 — Variables 📦.md",
     "Lección 1 — Tu primer script 🎓.md",
     "Permisos Linux.md",
     "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
