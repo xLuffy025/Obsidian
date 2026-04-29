@@ -1,5 +1,4 @@
 
-
 ---
 ## ¿Qué es una variable?
 
