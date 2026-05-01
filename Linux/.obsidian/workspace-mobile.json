@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
+                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📂 Logs en Bash"
+              "title": "SSH y GitHub"
             }
           }
         ],
@@ -338,8 +338,9 @@
   },
   "active": "c3cdae7ae6894c8c",
   "lastOpenFiles": [
-    "Automatización con Termux.md",
+    "Notas/01 Linux/05 Entorno de trabajo/Tmux.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
+    "Automatización con Termux.md",
     "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
@@ -363,7 +364,6 @@
     "Errores_comunes_en_WSL.md",
     "Problemas_comunes_en_proot.md",
     "Notas/00 Orientacion/Cuándo NO atomizar una nota.md",
-    "Buenas_practicas_en_Linux.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
