@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permisos Linux.md",
+                "file": "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Permisos Linux"
+              "title": "Condicionales en bash"
             }
           }
         ],
@@ -338,16 +338,19 @@
   },
   "active": "c3cdae7ae6894c8c",
   "lastOpenFiles": [
+    "Notas/02 Bash/02 Scripting/Comandos básicos.md",
+    "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
+    "Notas/02 Bash/02 Scripting/Redirección y tuberias.md",
+    "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
+    "Lección 2 — Variables 📦.md",
+    "Permisos Linux.md",
     "Nvim.md",
     "Lección 3 — Input del usuario con `read` ⌨️.md",
-    "Lección 2 — Variables 📦.md",
     "Lección 1 — Tu primer script 🎓.md",
     "Errores_comunes_en_WSL.md",
     "Buenas_practicas_en_Linux.md",
     "Automatización con Termux.md",
     "Notas/02 Bash/Mapa Bash.md",
-    "Notas/02 Bash/02 Scripting/Variables y asignaciones.md",
-    "Notas/02 Bash/02 Scripting/Redirección y tuberias.md",
     "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/01 Linux/05 Entorno de trabajo/Tmux.md",
@@ -355,9 +358,6 @@
     "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
-    "Permisos Linux.md",
-    "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
-    "Notas/02 Bash/02 Scripting/Comandos básicos.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
     "Notas/02 Bash/Qué es una Shell.md",
