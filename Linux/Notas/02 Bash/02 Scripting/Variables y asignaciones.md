@@ -21,4 +21,4 @@ Las variables en programación son contenedores que almacenan datos. Las asignac
 | ---------- | ----------------------------------------------- | --------------------------------- | ----------------------------------------------------- |
 | `fecha`    | Almacena la fecha actual.                       | `fecha=$(date +%Y-%m-%d)`         | `echo "La fecha actual es: $fecha"`                   |
 | `archivos` | Almacena la lista de archivos en un directorio. | `archivos=$(ls)`                  | `echo "Los archivos en el directorio son: $archivos"` |
-| `contador` | Almacena el número de líneas de un archivo.     | `contador=$(wc -l archivo.txt     | awk '{print $1}')`                                    |
+| `contador` | Almacena el número de líneas de un archivo.     | `contador=$(wc -l archivo.txt`    | awk '{print $1}')`                                    |
