@@ -11,24 +11,10 @@
             "id": "81b4145b633bccf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SSH y GitHub"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -89,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5,
-    "collapsed": true
+    "width": 440.5
   },
   "right": {
     "id": "d8225b93b61ce83c",
@@ -249,6 +234,16 @@
   },
   "active": "81b4145b633bccf9",
   "lastOpenFiles": [
+    "Redirecciones en Linux.md",
+    "Problemas_comunes_en_proot.md",
+    "Permisos Linux.md",
+    "Nvim.md",
+    "Lección 3 — Input del usuario con `read` ⌨️.md",
+    "Lección 2 — Variables 📦.md",
+    "Lección 1 — Tu primer script 🎓.md",
+    "Errores_comunes_en_WSL.md",
+    "Buenas_practicas_en_Linux.md",
+    "Automatización con Termux.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/02 Bash/01 Referencia/05 Hola Mundo con Entrada del Usuario.md",
     "Existen dos tipos de presupuestos.md",
@@ -265,16 +260,6 @@
     "Cron.md",
     "Notas/04 Matematicas/Título claro del tema 1.md",
     "Notas/03 Python/Título claro del tema.md",
-    "Notas/02 Bash/Zsh y personalizacion.md",
-    "Notas/02 Bash/Qué es una Shell.md",
-    "Notas/02 Bash/Powerlevel10k.md",
-    "Notas/01 Linux/05 Entorno de trabajo/Tmux.md",
-    "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
-    "Notas/01 Linux/05 Entorno de trabajo/Alias básicos en Bash.md",
-    "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
-    "Notas/01 Linux/04 Configuración inicial/Paquetes esenciales por distros.md",
-    "Notas/01 Linux/04 Configuración inicial/Actualización sistema en Linux.md",
-    "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
     "Notas/01 Linux/02 Distribuciones/Familias principales/Familia Red Hat",
     "Notas/01 Linux/02 Distribuciones/Familias principales",
     "Sin título.base",
