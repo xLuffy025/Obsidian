@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Índice/Panel principal.md",
+                "file": "04 Géneros/Terror Cósmico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Panel principal"
+              "title": "Terror Cósmico"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 Índice/Panel principal.md",
+            "file": "04 Géneros/Terror Cósmico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00 Índice/Panel principal.md",
+            "file": "04 Géneros/Terror Cósmico.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -175,10 +175,10 @@
   },
   "active": "1a3d2a55efdc89f8",
   "lastOpenFiles": [
+    "00 Índice/Panel principal.md",
     "01 Autores/H.P. Lovecraft.md",
     "03 Épocas/Contemporánea.md",
     "02 Obras/La llamada de Cthulhu.md",
-    "00 Índice/Panel principal.md",
     "02 Obras/1984.md",
     "().md",
     "01 Autores/George Orwell.md",
