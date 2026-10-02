@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a3d2a55efdc89f8",
+            "id": "2ebcc45d9d327cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Géneros/Terror Cósmico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terror Cósmico"
+            }
+          },
+          {
+            "id": "f18cd10896bbe7ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02 Obras/La llamada de Cthulhu.md",
+            "file": "04 Géneros/Terror Cósmico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +150,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LEEME.md",
+            "file": "04 Géneros/Terror Cósmico.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -175,15 +189,25 @@
   },
   "active": "1a3d2a55efdc89f8",
   "lastOpenFiles": [
-    "04 Géneros/Terror Cósmico.md",
-    "02 Obras/La llamada de Cthulhu.md",
+    "03 Épocas/Siglo XX.md",
     "01 Autores/H.P. Lovecraft.md",
-    "01 Autores/Robert W. Chambers.md",
+    "02 Obras/La llamada de Cthulhu.md",
+    "00 Índice/Panel principal.md",
+    "01 Autores/James Joyce.md",
+    "04 Géneros/Terror Cósmico.md",
+    "04 Géneros/Ejemplo.md",
+    "04 Géneros/Teatro.md",
+    "LEEME.md",
     "01 Autores/Robert E. Howard.md",
     "01 Autores/Lord Dunsany.md",
     "01 Autores/Arthur Machen.md",
     "01 Autores/Algernon Blackwood.md",
-    "00 Índice/Panel principal.md",
+    "01 Autores/Octavio Paz.md",
+    "().md",
+    "01 Autores/George Orwell.md",
+    "04 Géneros/Poesía.md",
+    "04 Géneros/Ensayo.md",
+    "03 Épocas/Contemporánea.md",
     "02 Obras/1984.md",
     "().md",
     "01 Autores/George Orwell.md",
