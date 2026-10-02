@@ -38,7 +38,7 @@ Segunda Mitad: Posmodernidad, Absurdo y Compromiso (1945–1999)
 
 ---
 
-📊 Comparativa: Novela del Siglo XIX vs. Novela del Siglo XX
+## 📊 Comparativa: Novela del Siglo XIX vs. Novela del Siglo XX
 
 |Elemento|Novela del Siglo XIX (Realismo)|Novela del Siglo XX (Modernismo/Vanguardia)|
 |---|---|---|
@@ -46,7 +46,7 @@ Segunda Mitad: Posmodernidad, Absurdo y Compromiso (1945–1999)
 |**Estructura**|Lineal y cronológica (ordenada).|No lineal, saltos temporales, rompecabezas.|
 |**Objetivo**|Retratar la sociedad y educar moralmente.|Explorar la mente humana y cuestionar la realidad.|
 |**El Héroe**|Personajes con metas claras (triunfar, casarse).|El **antihéroe**: alienado, confundido o marginado.|
-Muy
+
 ## Autores
 ```dataview
 TABLE país, género, nacimiento

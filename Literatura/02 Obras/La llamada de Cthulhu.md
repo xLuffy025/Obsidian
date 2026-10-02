@@ -1,7 +1,7 @@
 ---
 tipo: obra
 autor: "[[H.P. Lovecraft]]"
-época: "[[Contemporánea]]"
+época: "[[Siglo XX]]"
 género: Terror Cósmico
 año: "1923"
 estado: pendiente
