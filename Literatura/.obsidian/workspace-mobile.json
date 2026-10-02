@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Géneros/Ejemplo.md",
+                "file": "04 Géneros/Terror Cósmico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejemplo"
+              "title": "Terror Cósmico"
             }
           }
         ]
@@ -117,7 +117,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 Géneros/Ejemplo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +135,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 Géneros/Ejemplo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -173,7 +171,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2ebcc45d9d327cba",
+  "active": "bed096101c4db283",
   "lastOpenFiles": [
     "04 Géneros/Terror Cósmico.md",
     "04 Géneros/Teatro.md",
