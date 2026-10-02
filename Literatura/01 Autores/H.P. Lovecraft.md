@@ -3,7 +3,7 @@ tipo: autor
 época: "[[Contemporánea]]"
 país: Estados Unidos
 género:
-  - Terror Cósmico 
+  - Terror Cósmico
 nacimiento: "1890"
 estado: Leiendo
 ---

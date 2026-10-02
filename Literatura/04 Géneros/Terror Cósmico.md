@@ -2,7 +2,7 @@
 tipo: género
 ---
 # Terror Cósmico 
-El horror cósmico es un subgénero literario y cinematográfico dónde el terror nace de comprender que el universo es vasto, antiguo y totalmente indiferente a la humanidad. 
+El torror cósmico es un subgénero literario y cinematográfico dónde el terror nace de comprender que el universo es vasto, antiguo y totalmente indiferente a la humanidad. 
 
 ## Características
 - **Insignificancia humana:** Los seres humanos somos polvo sin importancia a escala cósmica.
