@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Géneros/Teatro 1.md",
+                "file": "04 Géneros/Terror Cósmico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teatro 1"
+              "title": "Terror Cósmico"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 Géneros/Teatro 1.md",
+            "file": "04 Géneros/Terror Cósmico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 Géneros/Teatro 1.md",
+            "file": "04 Géneros/Terror Cósmico.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -191,7 +191,7 @@
   "active": "9e2f8f5b019471d0",
   "lastOpenFiles": [
     "04 Géneros/Ejemplo.md",
-    "04 Géneros/Teatro 1.md",
+    "04 Géneros/Terror Cósmico.md",
     "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Teatro.md",
     "Algernon Blackwood.md",
