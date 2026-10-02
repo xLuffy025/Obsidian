@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Géneros/Terror Cósmico.md",
+                "file": "04 Géneros/Ensayo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terror Cósmico"
+              "title": "Ensayo"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "La llamada de Cthulhu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02 Obras/La llamada de Cthulhu.md",
+            "file": "04 Géneros/Ensayo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 Obras/La llamada de Cthulhu.md",
+            "file": "04 Géneros/Ensayo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -188,16 +187,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9e2f8f5b019471d0",
+  "active": "1a3d2a55efdc89f8",
   "lastOpenFiles": [
+    "04 Géneros/Poesía.md",
+    "04 Géneros/Teatro.md",
+    "01 Autores/George Orwell.md",
+    "01 Autores/H.P. Lovecraft.md",
+    "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Terror Cósmico.md",
     "00 Índice/Panel principal.md",
-    "01 Autores/H.P. Lovecraft.md",
     "03 Épocas/Contemporánea.md",
-    "02 Obras/La llamada de Cthulhu.md",
     "02 Obras/1984.md",
     "().md",
-    "01 Autores/George Orwell.md",
     "2026-09-07.md",
     "2026-10-01.md",
     "01 Autores/Edgar Allan Poe.md",
@@ -211,7 +212,6 @@
     "01 Autores/Albert Camus.md",
     "LEEME.md",
     "Angust Derleth.md",
-    "04 Géneros/Teatro.md",
     "04 Géneros/Cuento.md",
     "04 Géneros/Novela.md",
     "04 Géneros/Ensayo.md",
