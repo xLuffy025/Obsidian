@@ -1,6 +1,6 @@
 ---
 tipo: autor
-época: "[[Contemporánea]]"
+época: "[[Siglo XX]]"
 país: Estados Unidos
 género:
   - Terror Cósmico
