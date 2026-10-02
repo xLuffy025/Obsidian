@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b649e51a76e2d7",
+        "id": "6b1c88b22444b3d4",
         "type": "tabs",
         "children": [
           {
-            "id": "2ebcc45d9d327cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Autores/H.P. Lovecraft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "H.P. Lovecraft"
-            }
-          },
-          {
-            "id": "f18cd10896bbe7ff",
+            "id": "1a3d2a55efdc89f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01 Autores/H.P. Lovecraft.md",
+            "file": "02 Obras/La llamada de Cthulhu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 Autores/H.P. Lovecraft.md",
+            "file": "LEEME.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -174,7 +160,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,35 +173,35 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2ebcc45d9d327cba",
+  "active": "1a3d2a55efdc89f8",
   "lastOpenFiles": [
-    "02 Obras/La llamada de Cthulhu.md",
-    "01 Autores/H.P. Lovecraft.md",
-    "03 Épocas/Siglo XX.md",
-    "01 Autores/James Joyce.md",
-    "04 Géneros/Terror Cósmico.md",
-    "04 Géneros/Ejemplo.md",
-    "04 Géneros/Teatro.md",
-    "LEEME.md",
+    "01 Autores/Robert W. Chambers.md",
     "01 Autores/Robert E. Howard.md",
     "01 Autores/Lord Dunsany.md",
-    "01 Autores/Robert W. Chambers.md",
     "01 Autores/Arthur Machen.md",
     "01 Autores/Algernon Blackwood.md",
-    "01 Autores/Octavio Paz.md",
+    "00 Índice/Panel principal.md",
+    "02 Obras/La llamada de Cthulhu.md",
+    "02 Obras/1984.md",
     "().md",
     "01 Autores/George Orwell.md",
-    "04 Géneros/Poesía.md",
-    "04 Géneros/Ensayo.md",
-    "00 Índice/Panel principal.md",
-    "03 Épocas/Contemporánea.md",
-    "02 Obras/1984.md",
     "2026-09-07.md",
     "2026-10-01.md",
+    "01 Autores/H.P. Lovecraft.md",
     "01 Autores/Edgar Allan Poe.md",
+    "04 Géneros/Terror Cósmico.md",
     "01 Autores/Virginia Woolf.md",
     "02 Obras",
+    "03 Épocas/Siglo XX.md",
     "02 obras/La llamada de Cthulhu.md",
-    "02 obras"
+    "La sombra de Otro Tiempo,.md",
+    "02 obras/La sombra de Otro Tiempo,.md",
+    "02 obras",
+    "01 Autores/Albert Camus.md",
+    "LEEME.md",
+    "Angust Derleth.md",
+    "04 Géneros/Teatro.md",
+    "04 Géneros/Cuento.md",
+    "04 Géneros/Novela.md"
   ]
 }
