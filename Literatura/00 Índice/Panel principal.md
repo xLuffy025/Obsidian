@@ -28,7 +28,7 @@ WHERE estado = "pendiente"
 ## Explorar
 **Épocas:** [[Antigüedad clásica]] · [[Edad Media]] · [[Renacimiento y Siglo de Oro]] · [[Ilustración]] · [[Romanticismo]] · [[Realismo]] · [[Modernismo y vanguardias]] · [[Siglo XX]] · [[Contemporánea]]
 
-**Géneros:** [[Novela]] · [[Poesía]] · [[Teatro]] · [[Cuento]] · [[Ensayo]] · [[Terror Cósmico]]  
+**Géneros:** [[Novela]] · [[Poesía]] · [[Teatro]] · [[Cuento]] · [[Ensayo]] · [[Ejemplo]]  
 ## Todos los autores
 ```dataview
 TABLE época, país, género

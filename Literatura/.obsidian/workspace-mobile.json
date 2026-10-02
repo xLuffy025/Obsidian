@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Géneros/Terror Cósmico.md",
+                "file": "04 Géneros/Ejemplo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terror Cósmico"
+              "title": "Ejemplo"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Teatro 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 Géneros/Teatro 1.md",
+            "file": "04 Géneros/Ejemplo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 Géneros/Teatro 1.md",
+            "file": "04 Géneros/Ejemplo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -188,11 +187,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9e2f8f5b019471d0",
+  "active": "1a3d2a55efdc89f8",
   "lastOpenFiles": [
-    "04 Géneros/Terror Cósmico.md",
-    "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Teatro 1.md",
+    "04 Géneros/Ejemplo.md",
+    "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Teatro.md",
     "Algernon Blackwood.md",
     "().md",
