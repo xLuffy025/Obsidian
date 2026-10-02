@@ -16,8 +16,7 @@ A pesar de morir en la pobreza y el anonimato, su legado dio origen al **Mito de
 
 ---
 
-## 
--🧠 Temas Principales
+## 🧠 Temas Principales
 
 - **El Cosmicismo (Terror Cósmico):** La idea central de que el universo es frío, hostil e indiferente a la existencia humana. No existe un Dios bondadoso; la humanidad es solo una anomalía temporal e insignificante.
 - **La Pérdida de la Cordura:** El cerebro humano no está diseñado para comprender la verdadera naturaleza del cosmos. Por ello, el contacto con lo alienígena o lo ancestral provoca inevitablemente la locura irremediable de los protagonistas.
@@ -26,7 +25,7 @@ A pesar de morir en la pobreza y el anonimato, su legado dio origen al **Mito de
 
 ---
 
-✍️ Estilo Literario
+## ✍️ Estilo Literario
 
 - **Narración en Primera Persona:** Casi todas sus historias están contadas a través de diarios, cartas o confesiones de un único superviviente, lo que aumenta la sensación de aislamiento y paranoia.
 - **Adjetivación Excesiva y Barroca:** Lovecraft usaba un lenguaje denso, arcaico y sumamente descriptivo. Abusaba intencionadamente de palabras como _blasfemo, innombrable, ciclópeo, espectral, antediluviano o abominable_.
