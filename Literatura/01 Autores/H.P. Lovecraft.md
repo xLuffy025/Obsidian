@@ -53,4 +53,11 @@ SORT año ASC
 ```
 
 ## Notas personales
--
+
+🎨 Comparación: Terror Tradicional vs. Terror Lovecraftiano
+
+| Característica   | Terror Tradicional (Gótico)                                      | Terror Lovecraftiano (Cósmico)                                          |
+| ---------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **El Mal**       | Es de origen espiritual o moral (fantasmas, demonios, vampiros). | Es de origen alienígena, físico o interdimensional.                     |
+| **La Moralidad** | Existe el bien y el mal. El bien o la fe suelen ganar.           | El universo es amoral. Al cosmos no le importa el bien ni el mal.       |
+| **El Destino**   | El protagonista puede salvarse, redimirse o luchar.              | El destino es inevitable; el protagonista solo puede huir o enloquecer. |
