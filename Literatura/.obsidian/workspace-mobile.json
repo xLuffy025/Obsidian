@@ -35,7 +35,8 @@
               "title": "La llamada de Cthulhu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +188,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1a3d2a55efdc89f8",
+  "active": "9e2f8f5b019471d0",
   "lastOpenFiles": [
     "01 Autores/H.P. Lovecraft.md",
     "01 Autores/George Orwell.md",

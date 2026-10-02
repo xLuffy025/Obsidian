@@ -2,8 +2,7 @@
 tipo: obra
 autor: "[[H.P. Lovecraft]]"
 época: "[[Contemporánea]]"
-género:
-  - Terror Cósmico 
+género: Terror Cósmico
 año: "1923"
 estado: pendiente
 valoración:
