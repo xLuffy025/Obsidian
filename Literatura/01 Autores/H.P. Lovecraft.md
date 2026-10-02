@@ -19,6 +19,7 @@ A pesar de morir en la pobreza y el anonimato, su legado dio origen al **Mito de
 ## Temas y estilo
 -
 
+---
 ## Obras destacadas
 - La llamada de Cthulhu; 
 
