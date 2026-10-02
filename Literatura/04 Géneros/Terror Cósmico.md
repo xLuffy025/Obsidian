@@ -10,9 +10,6 @@ El torror cósmico es un subgénero literario y cinematográfico dónde el terro
 - **La locura como destino:** Intentar procesar la verdadera naturaleza de la realidad destruye la cordura del protagonista. 
 - **Imposibilidad de vencer:** No existe arma plegaria ni tecnologías capaces de salvarnos; la lucha es inútil.
 
-## Características
--
-
 ## Autores
 ```dataview
 LIST
