@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvim.md",
-                "mode": "preview",
+                "file": "202610020757.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nvim"
+              "title": "202610020757"
             }
           }
         ],
@@ -244,6 +244,8 @@
   },
   "active": "95d8f6669325a67f",
   "lastOpenFiles": [
+    "Nvim.md",
+    "202610020757.md",
     "Lección 1 — Tu primer script 🎓.md",
     "Lección 2 — Variables 📦.md",
     "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
@@ -252,7 +254,6 @@
     "Notas/02 Bash/02 Scripting/Redirección y tuberias.md",
     "Notas/02 Bash/02 Scripting/Estructura de scripts.md",
     "Permisos Linux.md",
-    "Nvim.md",
     "Lección 3 — Input del usuario con `read` ⌨️.md",
     "Errores_comunes_en_WSL.md",
     "Buenas_practicas_en_Linux.md",
@@ -269,7 +270,6 @@
     "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
     "Notas/02 Bash/Qué es una Shell.md",
     "Notas/02 Bash/Zsh y personalizacion.md",
-    "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
