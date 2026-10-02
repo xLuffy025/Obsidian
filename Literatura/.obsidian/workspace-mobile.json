@@ -35,7 +35,8 @@
               "title": "Teatro 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 Géneros/Terror Cósmico.md",
+            "file": "04 Géneros/Teatro 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 Géneros/Terror Cósmico.md",
+            "file": "04 Géneros/Teatro 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -187,10 +188,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1a3d2a55efdc89f8",
+  "active": "9e2f8f5b019471d0",
   "lastOpenFiles": [
-    "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Terror Cósmico.md",
+    "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Teatro 1.md",
     "04 Géneros/Teatro.md",
     "Algernon Blackwood.md",
