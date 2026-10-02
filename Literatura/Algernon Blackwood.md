@@ -3,6 +3,7 @@ tipo: autor
 época: "[[]]"
 país:
 género:
+  - Terror Cósmico
 nacimiento:
 estado: pendiente
 ---
