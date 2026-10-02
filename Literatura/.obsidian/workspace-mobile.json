@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Autores/George Orwell.md",
+                "file": "02 Obras/La llamada de Cthulhu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "George Orwell"
+              "title": "La llamada de Cthulhu"
             }
           },
           {
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01 Autores/George Orwell.md",
+            "file": "02 Obras/La llamada de Cthulhu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 Autores/George Orwell.md",
+            "file": "02 Obras/La llamada de Cthulhu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -189,11 +189,11 @@
   },
   "active": "1a3d2a55efdc89f8",
   "lastOpenFiles": [
+    "01 Autores/H.P. Lovecraft.md",
+    "01 Autores/George Orwell.md",
     "04 Géneros/Teatro.md",
     "04 Géneros/Poesía.md",
     "04 Géneros/Ensayo.md",
-    "01 Autores/George Orwell.md",
-    "01 Autores/H.P. Lovecraft.md",
     "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Terror Cósmico.md",
     "00 Índice/Panel principal.md",
