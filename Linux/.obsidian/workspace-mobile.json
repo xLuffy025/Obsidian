@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "simbolos para teclado ingles"
             }
-          },
-          {
-            "id": "cb1999a5e3291644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SSH y GitHub"
-            }
-          },
-          {
-            "id": "95d8f6669325a67f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202610020757.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202610020757"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95d8f6669325a67f",
+  "active": "ee82c45d75ada5a5",
   "lastOpenFiles": [
-    "Nvim.md",
+    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "202610020757.md",
+    "Nvim.md",
     "Lección 1 — Tu primer script 🎓.md",
     "Lección 2 — Variables 📦.md",
     "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
@@ -260,7 +212,6 @@
     "Automatización con Termux.md",
     "Notas/02 Bash/Mapa Bash.md",
     "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
-    "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "Notas/01 Linux/05 Entorno de trabajo/Tmux.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
