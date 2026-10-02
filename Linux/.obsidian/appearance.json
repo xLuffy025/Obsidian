@@ -1,7 +1,7 @@
 {
   "theme": "system",
-  "cssTheme": "Blur",
-  "interfaceFontFamily": "Hack Nerd Font",
+  "cssTheme": "Dracula Official",
+  "interfaceFontFamily": "Hack Nerd Font,Google Sans Medium,Google Sans Flex",
   "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "Hack Nerd Font",
   "showRibbon": true,
