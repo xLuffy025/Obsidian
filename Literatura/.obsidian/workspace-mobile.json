@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "H.P. Lovecraft"
             }
-          },
-          {
-            "id": "9e2f8f5b019471d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Géneros/Terror Cósmico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terror Cósmico"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 Géneros/Terror Cósmico.md",
+            "file": "01 Autores/H.P. Lovecraft.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 Géneros/Terror Cósmico.md",
+            "file": "01 Autores/H.P. Lovecraft.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -188,14 +173,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9e2f8f5b019471d0",
+  "active": "1a3d2a55efdc89f8",
   "lastOpenFiles": [
-    "01 Autores/H.P. Lovecraft.md",
-    "04 Géneros/Ejemplo.md",
     "04 Géneros/Terror Cósmico.md",
+    "Algernon Blackwood.md",
+    "04 Géneros/Ejemplo.md",
+    "Arthur Machen.md",
+    "Robert E. Howard.md",
+    "01 Autores/H.P. Lovecraft.md",
     "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Teatro.md",
-    "Algernon Blackwood.md",
     "().md",
     "01 Autores/George Orwell.md",
     "04 Géneros/Poesía.md",
@@ -215,8 +202,6 @@
     "02 obras",
     "01 Autores/Albert Camus.md",
     "LEEME.md",
-    "Angust Derleth.md",
-    "04 Géneros/Cuento.md",
-    "04 Géneros/Novela.md"
+    "Angust Derleth.md"
   ]
 }
