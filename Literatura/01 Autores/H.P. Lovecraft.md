@@ -16,8 +16,22 @@ A pesar de morir en la pobreza y el anonimato, su legado dio origen al **Mito de
 
 ---
 
-## Temas y estilo
--
+## 
+-🧠 Temas Principales
+
+- **El Cosmicismo (Terror Cósmico):** La idea central de que el universo es frío, hostil e indiferente a la existencia humana. No existe un Dios bondadoso; la humanidad es solo una anomalía temporal e insignificante.
+- **La Pérdida de la Cordura:** El cerebro humano no está diseñado para comprender la verdadera naturaleza del cosmos. Por ello, el contacto con lo alienígena o lo ancestral provoca inevitablemente la locura irremediable de los protagonistas.
+- **El Pasado Ancestral y la Herencia:** El horror suele venir de épocas remotas (millones de años antes del hombre). Además, es común el miedo a la "degeneración" genética, donde el protagonista descubre con horror que pertenece a un linaje maldito.
+- **La Incompetencia de la Ciencia:** Aunque sus personajes suelen ser hombres de ciencia (profesores de la _Universidad de Miskatonic_, arqueólogos, médicos), el método científico siempre fracasa o revela verdades que habrían sido mejor no descubrir.
+
+---
+
+✍️ Estilo Literario
+
+- **Narración en Primera Persona:** Casi todas sus historias están contadas a través de diarios, cartas o confesiones de un único superviviente, lo que aumenta la sensación de aislamiento y paranoia.
+- **Adjetivación Excesiva y Barroca:** Lovecraft usaba un lenguaje denso, arcaico y sumamente descriptivo. Abusaba intencionadamente de palabras como _blasfemo, innombrable, ciclópeo, espectral, antediluviano o abominable_.
+- **El Horror Sugerido (Inenarrable):** Frecuentemente recurría a la idea de que lo que el personaje veía era "imposible de describir con palabras humanas" debido a sus formas no euclidianas o dimensiones desconocidas. Dejaba que la imaginación del lector completara el monstruo.
+- **Atmósfera sobre Acción:** Sus relatos no dependen de sustos rápidos o violencia física, sino de una acumulación lenta y opresiva de tensión. El ambiente (pueblos neblinosos, ruinas húmedas, pasadizos oscuros) funciona como un personaje más.
 
 ---
 ## 📚 Libros y Relatos Imprescindibles
