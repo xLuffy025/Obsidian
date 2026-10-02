@@ -163,19 +163,9 @@
           "icon": "lucide-list",
           "title": "Esquema"
         }
-      },
-      {
-        "id": "ba9843055dccae03",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
