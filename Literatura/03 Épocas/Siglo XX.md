@@ -2,6 +2,7 @@
 tipo: época
 ---
 # Siglo XX
+
 Guerras, existencialismo, boom latinoamericano y nuevas narrativas.
 
 ## Contexto histórico y rasgos
