@@ -34,7 +34,7 @@ Al reconstruir todos los hechos, el narrador comprende con horror que **Cthulhu 
 
 ### Testigos y soñadores
 * **Henry Anthony Wilcox:** Joven y excéntrico estudiante de la Escuela de Bellas Artes de Rhode Island, de naturaleza hipersensible. Modela en arcilla la efigie de la criatura tras soñar con ciudades ciclópeas y cae en una fiebre delirante entre marzo y abril de 1925, influenciado por las emanaciones oníricas de la entidad.
-* **Gustav Johansen:** Marinero noruego y segundo oficial de la goleta *Emma* . Toma el mando del navío tras un ataque pirata del barco sectario *Alert* y llega a la emergida ciudad de R'lyeh [22-24]. Es el único que sobrevive consciente al despertar de Cthulhu tras embestir a la criatura con el motor a vapor de la nave, dejando un manuscrito póstumo antes de morir en Oslo en extrañas circunstancias [6, 25-28].
+* **Gustav Johansen:** Marinero noruego y segundo oficial de la goleta *Emma*. Toma el mando del navío tras un ataque pirata del barco sectario *Alert* y llega a la emergida ciudad de R'lyeh . Es el único que sobrevive consciente al despertar de Cthulhu tras embestir a la criatura con el motor a vapor de la nave, dejando un manuscrito póstumo antes de morir en Oslo en extrañas circunstancias [6, 25-28].
 * **Tripulación del *Emma*:** Marineros que acompañan a Johansen; entre ellos **William Briden** (quien escapa junto a Johansen en el bote, pero enloquece al ver al monstruo y muere a la deriva) [28-31], y marineros como **Donovan**, **Guerrera**, **Angstrom**, **Parker**, **Hawkins** y **Rodrigues**, quienes mueren devorados, atrapados o absorbidos por las anomalías geométricas de la isla [30, 32-34].
 
 ### Miembros del culto
