@@ -56,22 +56,60 @@ Al reconstruir todos los hechos, el narrador comprende con horror que **Cthulhu 
 * **Los ciclos astrales y el tiempo inmemorial:**
   Los Grandes Antiguos no están muertos en un sentido biológico común, sino aletargados en sus tumbas de piedra a la espera de que la alineación de las estrellas vuelva a ser propicia para su resurrección.
 * **El colapso moral y la pervivencia del culto:**
-  Existe una red clandestina de adoradores extendida por todo el mundo que preserva los ritos arcaicos [6, 8]. Su dogma augura un futuro retorno donde la humanidad imitará a los Antiguos, situándose «más allá del bien y del mal» y sumiéndose en un holocausto de liberación salvaje [9].
+  Existe una red clandestina de adoradores extendida por todo el mundo que preserva los ritos arcaicos. Su dogma augura un futuro retorno donde la humanidad imitará a los Antiguos, situándose «más allá del bien y del mal» y sumiéndose en un holocausto de liberación salvaje.
 
 ### Símbolos clave
 
 * **El bajorrelieve y la estatuilla de Cthulhu:**
   Representan la naturaleza informe y alienígena de las divinidades cósmicas al combinar rasgos de pulpo, dragón y ser humano. Esculpidas en minerales desconocidos en la Tierra, constituyen la prueba tangible de que estas criaturas descendieron de las estrellas.
 * **La ciudad de R’lyeh y la arquitectura no euclidiana:**
-  R’lyeh encarna la ruptura absoluta con las leyes físicas y dimensionales de la realidad conocida [13, 14]. Sus ángulos anormales y geometría «errónea» distorsionan la percepción (haciendo que las concavidades parezcan convexidades), lo que genera un profundo malestar y terror instintivo [14-16].
+  R’lyeh encarna la ruptura absoluta con las leyes físicas y dimensionales de la realidad conocida. Sus ángulos anormales y geometría «errónea» distorsionan la percepción (haciendo que las concavidades parezcan convexidades), lo que genera un profundo malestar y terror instintivo.
 * **Los sueños y el plano onírico:**
-  Los sueños funcionan como el canal de comunicación telepática empleado por los Grandes Antiguos para moldear y atemorizar a las mentes más sensibles, particularmente a artistas y poetas [7, 17].
+  Los sueños funcionan como el canal de comunicación telepática empleado por los Grandes Antiguos para moldear y atemorizar a las mentes más sensibles, particularmente a artistas y poetas.
 * **Las profundidades del océano:**
-  El mar es el símbolo del abismo desconocido que sepulta a R’lyeh y mantiene al horror confinado, hasta que la actividad telúrica vuelva a elevar la ciudad a la superficie [8, 18, 19].
+  El mar es el símbolo del abismo desconocido que sepulta a R’lyeh y mantiene al horror confinado, hasta que la actividad telúrica vuelva a elevar la ciudad a la superficie.
 *** 
 ## Citas
-> 
+> A continuación se presentan las **citas y pasajes más memorables** de *La llamada de Cthulhu*, los cuales sintetizan la filosofía del terror cósmico y el misterio central de la obra:
 
+### 1. La mente humana y la ignorancia cósmica
+El célebre arranque de la obra establece la premisa fundamental sobre la fragilidad de nuestra percepción frente a la inmensidad del universo:
+
+> «No hay en el mundo fortuna mayor, creo, que la incapacidad de la mente humana para relacionar entre sí todo lo que hay en ella. Vivimos en una isla de plácida ignorancia, rodeados por los negros mares de lo infinito, y no es nuestro destino emprender largos viajes».
+
+### 2. El cántico ritual y el *Necronomicon*
+La invocación sagrada que entonan los miembros del culto en distintas partes del mundo y su traducción transmitida por los iniciados:
+
+> «*Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn*».
+> 
+> *Traducción:* «En su casa de R’lyeh el desaparecido Cthulhu espera soñando».
+
+Asimismo, el legendario dístico atribuido a Abdul Alhazred en el *Necronomicon* alude a la naturaleza inmortal de las entidades primigenias:
+
+> «No está muerto quien puede yacer eternamente, y con el paso de los años la misma muerte puede morir.
+
+### 3. El retorno de los Grandes Antiguos
+El anciano Castro explica ante la policía el dogma secreto de la secta sobre el día en que las estrellas vuelvan a estar en posición favorable:
+
+> «Ese tiempo sería fácil de conocer, pues entonces la humanidad se parecería a los Grandes Antiguos: salvaje y libre, más allá del bien y del mal, sin moral y sin ley. Y todos los hombres gritarían y matarían, y gozarían alegremente. Los Antiguos, liberados, enseñarían nuevos modos de gritar y matar y gozar, y el mundo entero ardería en un holocausto de libertad y éxtasis».
+
+### 4. R’lyeh y la arquitectura no euclidiana
+Las impresiones del artista Wilcox y del oficial Johansen sobre las extrañas formas dimensionales de la ciudad sumergida:
+
+> «...una ciudad ciclópea de piedra verde y musgosa, cuya geometría era totalmente errónea...».
+> 
+> «En este fantástico mundo de deformaciones prismáticas, la piedra se desplazaba anormalmente en diagonal, despreciando todas las leyes de la materia y la perspectiva».
+
+### 5. La conclusión y el horror latente
+Las sombrías reflexiones finales del narrador tras atar todos los eslabones de la investigación [11, 12]:
+
+> «He contemplado todo lo que en el universo puede haber de horroroso, y aun los cielos de la primavera y las flores del verano me parecerán desde ahora impregnados de veneno... Conozco demasiado, y el culto todavía existe» [11].
+> 
+> «Lo que ha surgido ahora puede hundirse y lo que se ha hundido puede surgir. La abominación espera y sueña en las profundidades del mar, y sobre las vacilantes ciudades de los hombres flota la destrucción» [12].
+
+***
+
+👁️ ¿Te gustaría crear un **cuestionario o tarjetas de estudio (flashcards)** en el Studio para repasar la trama, los personajes y las citas clave de la obra?
 ## Contexto histórico y literario
 -
 
