@@ -52,27 +52,23 @@ Al reconstruir todos los hechos, el narrador comprende con horror que **Cthulhu 
 * **El horror cósmico y la insignificancia humana:**
   La humanidad es presentada como una especie fugaz e insignificante en la escala cósmica, habiendo sido la Tierra dominada en épocas inmemoriales por entidades extraterrestres como los Grandes Antiguos. La mente humana se mantiene a salvo únicamente gracias a su «plácida ignorancia», incapaz de relacionar todos los conocimientos disociados sobre el universo.
 * **El peligro del conocimiento y la fragilidad de la cordura:**
-  Conectar los fragmentos dispersos de la verdad revela una realidad tan aterradora que conduce inevitablemente a la locura o a la muerte . Quienes investigan el misterio —como el profesor Angell, el oficial Johansen o el propio narrador— terminan pereciendo o viviendo con el temor constante de ser asesinados por saber demasiado [4, 5].
+  Conectar los fragmentos dispersos de la verdad revela una realidad tan aterradora que conduce inevitablemente a la locura o a la muerte. Quienes investigan el misterio —como el profesor Angell, el oficial Johansen o el propio narrador— terminan pereciendo o viviendo con el temor constante de ser asesinados por saber demasiado.
 * **Los ciclos astrales y el tiempo inmemorial:**
-  Los Grandes Antiguos no están muertos en un sentido biológico común, sino aletargados en sus tumbas de piedra a la espera de que la alineación de las estrellas vuelva a ser propicia para su resurrección [6, 7].
+  Los Grandes Antiguos no están muertos en un sentido biológico común, sino aletargados en sus tumbas de piedra a la espera de que la alineación de las estrellas vuelva a ser propicia para su resurrección.
 * **El colapso moral y la pervivencia del culto:**
   Existe una red clandestina de adoradores extendida por todo el mundo que preserva los ritos arcaicos [6, 8]. Su dogma augura un futuro retorno donde la humanidad imitará a los Antiguos, situándose «más allá del bien y del mal» y sumiéndose en un holocausto de liberación salvaje [9].
 
 ### Símbolos clave
 
 * **El bajorrelieve y la estatuilla de Cthulhu:**
-  Representan la naturaleza informe y alienígena de las divinidades cósmicas al combinar rasgos de pulpo, dragón y ser humano [10, 11]. Esculpidas en minerales desconocidos en la Tierra, constituyen la prueba tangible de que estas criaturas descendieron de las estrellas [2, 12].
+  Representan la naturaleza informe y alienígena de las divinidades cósmicas al combinar rasgos de pulpo, dragón y ser humano. Esculpidas en minerales desconocidos en la Tierra, constituyen la prueba tangible de que estas criaturas descendieron de las estrellas.
 * **La ciudad de R’lyeh y la arquitectura no euclidiana:**
   R’lyeh encarna la ruptura absoluta con las leyes físicas y dimensionales de la realidad conocida [13, 14]. Sus ángulos anormales y geometría «errónea» distorsionan la percepción (haciendo que las concavidades parezcan convexidades), lo que genera un profundo malestar y terror instintivo [14-16].
 * **Los sueños y el plano onírico:**
   Los sueños funcionan como el canal de comunicación telepática empleado por los Grandes Antiguos para moldear y atemorizar a las mentes más sensibles, particularmente a artistas y poetas [7, 17].
 * **Las profundidades del océano:**
   El mar es el símbolo del abismo desconocido que sepulta a R’lyeh y mantiene al horror confinado, hasta que la actividad telúrica vuelva a elevar la ciudad a la superficie [8, 18, 19].
-
-***
-
-¿Te gustaría que elaboremos una guía de estudio o un mapa mental en la sección de Studio para visualizar de forma esquemática la estructura de la obra y estos temas?
-
+*** 
 ## Citas
 > 
 
