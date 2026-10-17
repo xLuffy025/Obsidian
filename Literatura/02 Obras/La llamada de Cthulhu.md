@@ -21,7 +21,8 @@ fin:
 3. **La locura del mar:** El misterio culmina al descubrirse el testimonio póstumo del marinero noruego Gustav Johansen. En marzo de 1925, tras enfrentarse en el Pacífico a un barco tripulado por miembros de la secta, su nave llegó a la cumbre emergida de la ciudad ciclópea y no euclidiana de R’lyeh. Al abrir una inmensa puerta monolítica, la tripulación liberó inadvertidamente al gigantesco Cthulhu. Johansen logró escapar embistiendo a la criatura con su embarcación a toda máquina, antes de que una tormenta volviera a sumergir la ciudad bajo las aguas.
 
 Al reconstruir todos los hechos, el narrador comprende con horror que **Cthulhu aún espera en las profundidades oceánicas** y vive con el temor constante de ser silenciado por los devotos del culto.
----
+
+***
 ## Personajes
 -
 
