@@ -35,8 +35,7 @@
               "title": "Panel principal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 Índice/Panel principal.md",
+            "file": "02 Obras/La llamada de Cthulhu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,10 +187,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c35c65d7acb91619",
+  "active": "f18cd10896bbe7ff",
   "lastOpenFiles": [
-    "02 Obras/La llamada de Cthulhu.md",
     "00 Índice/Panel principal.md",
+    "02 Obras/La llamada de Cthulhu.md",
     "04 Géneros/Terror Cósmico.md",
     "Sin título.md",
     "03 Épocas/Siglo XX.md",
