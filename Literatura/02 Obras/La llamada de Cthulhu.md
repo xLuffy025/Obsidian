@@ -50,9 +50,9 @@ Al reconstruir todos los hechos, el narrador comprende con horror que **Cthulhu 
 ### Temas principales
 
 * **El horror cósmico y la insignificancia humana:**
-  La humanidad es presentada como una especie fugaz e insignificante en la escala cósmica, habiendo sido la Tierra dominada en épocas inmemoriales por entidades extraterrestres como los Grandes Antiguos [1, 2]. La mente humana se mantiene a salvo únicamente gracias a su «plácida ignorancia», incapaz de relacionar todos los conocimientos disociados sobre el universo [3].
+  La humanidad es presentada como una especie fugaz e insignificante en la escala cósmica, habiendo sido la Tierra dominada en épocas inmemoriales por entidades extraterrestres como los Grandes Antiguos. La mente humana se mantiene a salvo únicamente gracias a su «plácida ignorancia», incapaz de relacionar todos los conocimientos disociados sobre el universo.
 * **El peligro del conocimiento y la fragilidad de la cordura:**
-  Conectar los fragmentos dispersos de la verdad revela una realidad tan aterradora que conduce inevitablemente a la locura o a la muerte [1, 3]. Quienes investigan el misterio —como el profesor Angell, el oficial Johansen o el propio narrador— terminan pereciendo o viviendo con el temor constante de ser asesinados por saber demasiado [4, 5].
+  Conectar los fragmentos dispersos de la verdad revela una realidad tan aterradora que conduce inevitablemente a la locura o a la muerte . Quienes investigan el misterio —como el profesor Angell, el oficial Johansen o el propio narrador— terminan pereciendo o viviendo con el temor constante de ser asesinados por saber demasiado [4, 5].
 * **Los ciclos astrales y el tiempo inmemorial:**
   Los Grandes Antiguos no están muertos en un sentido biológico común, sino aletargados en sus tumbas de piedra a la espera de que la alineación de las estrellas vuelva a ser propicia para su resurrección [6, 7].
 * **El colapso moral y la pervivencia del culto:**
