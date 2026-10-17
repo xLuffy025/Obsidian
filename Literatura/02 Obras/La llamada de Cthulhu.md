@@ -4,10 +4,10 @@ autor: "[[H.P. Lovecraft]]"
 época: "[[Siglo XX]]"
 género: Terror Cósmico
 año: "1923"
-estado: leyendo
+estado: leído
 valoración:
 inicio: 2026-10-02
-fin:
+fin: 2026-10-13
 ---
 # [La llamada de Cthulhu](https://play.google.com/books/reader?id=YCJUPQAAAEAJ&pg=GBS.PA)
 
@@ -101,9 +101,9 @@ Las impresiones del artista Wilcox y del oficial Johansen sobre las extrañas fo
 > «En este fantástico mundo de deformaciones prismáticas, la piedra se desplazaba anormalmente en diagonal, despreciando todas las leyes de la materia y la perspectiva».
 
 ### 5. La conclusión y el horror latente
-Las sombrías reflexiones finales del narrador tras atar todos los eslabones de la investigación [11, 12]:
+Las sombrías reflexiones finales del narrador tras atar todos los eslabones de la investigación:
 
-> «He contemplado todo lo que en el universo puede haber de horroroso, y aun los cielos de la primavera y las flores del verano me parecerán desde ahora impregnados de veneno... Conozco demasiado, y el culto todavía existe» [11].
+> «He contemplado todo lo que en el universo puede haber de horroroso, y aun los cielos de la primavera y las flores del verano me parecerán desde ahora impregnados de veneno... Conozco demasiado, y el culto todavía existe».
 > 
 > «Lo que ha surgido ahora puede hundirse y lo que se ha hundido puede surgir. La abominación espera y sueña en las profundidades del mar, y sobre las vacilantes ciudades de los hombres flota la destrucción».
 
