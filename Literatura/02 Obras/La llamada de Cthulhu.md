@@ -105,8 +105,9 @@ Las sombrías reflexiones finales del narrador tras atar todos los eslabones de 
 
 > «He contemplado todo lo que en el universo puede haber de horroroso, y aun los cielos de la primavera y las flores del verano me parecerán desde ahora impregnados de veneno... Conozco demasiado, y el culto todavía existe» [11].
 > 
-> «Lo que ha surgido ahora puede hundirse y lo que se ha hundido puede surgir. La abominación espera y sueña en las profundidades del mar, y sobre las vacilantes ciudades de los hombres flota la destrucción» [12].
+> «Lo que ha surgido ahora puede hundirse y lo que se ha hundido puede surgir. La abominación espera y sueña en las profundidades del mar, y sobre las vacilantes ciudades de los hombres flota la destrucción».
 
+***
 ## Contexto histórico y literario
 -
 
