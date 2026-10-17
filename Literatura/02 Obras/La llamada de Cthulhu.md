@@ -107,9 +107,6 @@ Las sombrías reflexiones finales del narrador tras atar todos los eslabones de 
 > 
 > «Lo que ha surgido ahora puede hundirse y lo que se ha hundido puede surgir. La abominación espera y sueña en las profundidades del mar, y sobre las vacilantes ciudades de los hombres flota la destrucción» [12].
 
-***
-
-👁️ ¿Te gustaría crear un **cuestionario o tarjetas de estudio (flashcards)** en el Studio para repasar la trama, los personajes y las citas clave de la obra?
 ## Contexto histórico y literario
 -
 
