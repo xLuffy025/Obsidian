@@ -18,13 +18,10 @@ fin:
 
 2. **El informe del inspector Legrasse:** El narrador descubre registros de 1908 sobre el inspector de policía John Raymond Legrasse, quien confiscó una estatuilla idéntica durante una redada en los pantanos de Luisiana. Los miembros detenidos pertenecían a una secta milenaria consagrada a los **Grandes Antiguos**, entidades cósmicas llegadas de las estrellas que yacen aprisionadas esperando resurgir cuando los astros sean propicios. La secta repetía el cántico ritual que afirmaba que, en su casa de la ciudad submarina de **R’lyeh**, el durmiente Cthulhu aguarda soñando.
 
-3. **La locura del mar:** El misterio culmina al descubrirse el testimonio póstumo del marinero noruego Gustav Johansen [19-21]. En marzo de 1925, tras enfrentarse en el Pacífico a un barco tripulado por miembros de la secta, su nave llegó a la cumbre emergida de la ciudad ciclópea y no euclidiana de R’lyeh [22-24]. Al abrir una inmensa puerta monolítica, la tripulación liberó inadvertidamente al gigantesco Cthulhu [25-27]. Johansen logró escapar embistiendo a la criatura con su embarcación a toda máquina, antes de que una tormenta volviera a sumergir la ciudad bajo las aguas [28-31].
+3. **La locura del mar:** El misterio culmina al descubrirse el testimonio póstumo del marinero noruego Gustav Johansen. En marzo de 1925, tras enfrentarse en el Pacífico a un barco tripulado por miembros de la secta, su nave llegó a la cumbre emergida de la ciudad ciclópea y no euclidiana de R’lyeh. Al abrir una inmensa puerta monolítica, la tripulación liberó inadvertidamente al gigantesco Cthulhu. Johansen logró escapar embistiendo a la criatura con su embarcación a toda máquina, antes de que una tormenta volviera a sumergir la ciudad bajo las aguas.
 
-Al reconstruir todos los hechos, el narrador comprende con horror que **Cthulhu aún espera en las profundidades oceánicas** y vive con el temor constante de ser silenciado por los devotos del culto [31, 32].
-
-***
-
-¿Te gustaría profundizar en el simbolismo de la mitología cósmica o explorar el perfil de alguno de los personajes clave?
+Al reconstruir todos los hechos, el narrador comprende con horror que **Cthulhu aún espera en las profundidades oceánicas** y vive con el temor constante de ser silenciado por los devotos del culto.
+---
 ## Personajes
 -
 
