@@ -35,17 +35,15 @@ Al reconstruir todos los hechos, el narrador comprende con horror que **Cthulhu 
 ### Testigos y soñadores
 * **Henry Anthony Wilcox:** Joven y excéntrico estudiante de la Escuela de Bellas Artes de Rhode Island, de naturaleza hipersensible. Modela en arcilla la efigie de la criatura tras soñar con ciudades ciclópeas y cae en una fiebre delirante entre marzo y abril de 1925, influenciado por las emanaciones oníricas de la entidad.
 * **Gustav Johansen:** Marinero noruego y segundo oficial de la goleta *Emma*. Toma el mando del navío tras un ataque pirata del barco sectario *Alert* y llega a la emergida ciudad de R'lyeh. Es el único que sobrevive consciente al despertar de Cthulhu tras embestir a la criatura con el motor a vapor de la nave, dejando un manuscrito póstumo antes de morir en Oslo en extrañas circunstancias.
-* **Tripulación del *Emma*:** Marineros que acompañan a Johansen; entre ellos **William Briden** (quien escapa junto a Johansen en el bote, pero enloquece al ver al monstruo y muere a la deriva), y marineros como **Donovan**, **Guerrera**, **Angstrom**, **Parker**, **Hawkins** y **Rodrigues**, quienes mueren devorados, atrapados o absorbidos por las anomalías geométricas de la isla.
+* **Tripulación del *Emma*:** Marineros que acompañan a Johansen; entre ellos **William Briden** (quien escapa junto a Johansen en el bote, pero enloquece al ver al monstruo y muere a la deriva), y marineros como **Donovan**, **Guerrera**, **Angstrom**, **Parker**, **Hawkins** y **Rodríguez**, quienes mueren devorados, atrapados o absorbidos por las anomalías geométricas de la isla.
 
 ### Miembros del culto
-* **El viejo Castro:** Anciano mestizo apresado por la policía en los pantanos de Luisiana [35]. Es el informante que revela el dogma de la secta: la llegada milenaria de los Grandes Antiguos desde las estrellas, su letargo en tumbas submarinas y la espera hasta que la posición de los astros permita a Cthulhu alzarse e instaurar una era de caos desenfrenado [35-38].
+* **El viejo Castro:** Anciano mestizo apresado por la policía en los pantanos de Luisiana. Es el informante que revela el dogma de la secta: la llegada milenaria de los Grandes Antiguos desde las estrellas, su letargo en tumbas submarinas y la espera hasta que la posición de los astros permita a Cthulhu alzarse e instaurar una era de caos desenfrenado.
 
 ### La entidad cósmica
-* **Cthulhu:** Deidad primordial y sumo sacerdote de los Grandes Antiguos [38, 39]. Es una criatura ciclópea de materia gomosa y verdosa, con cabeza de cefalópodo llena de tentáculos, cuerpo escamoso dotado de garras y alas membranosas [34, 40, 41]. Yace aprisionado en la ciudad submarina de R’lyeh, comunicándose con las mentes sensibles a través de los sueños hasta que las estrellas vuelvan a estar en posición favorable [37, 39, 42].
+* **Cthulhu:** Deidad primordial y sumo sacerdote de los Grandes Antiguos. Es una criatura ciclópea de materia gomosa y verdosa, con cabeza de cefalópodo llena de tentáculos, cuerpo escamoso dotado de garras y alas membranosas. Yace aprisionado en la ciudad submarina de R’lyeh, comunicándose con las mentes sensibles a través de los sueños hasta que las estrellas vuelvan a estar en posición favorable.
 
 ***
-
-¿Te gustaría que analicemos en detalle la descripción y arquitectura no euclidiana de la ciudad de R’lyeh?
 ## Temas y símbolos
 -
 
