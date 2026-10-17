@@ -5,7 +5,7 @@ autor: "[[H.P. Lovecraft]]"
 género: Terror Cósmico
 año: "1923"
 estado: leído
-valoración:
+valoración: "9"
 inicio: 2026-10-02
 fin: 2026-10-13
 ---
