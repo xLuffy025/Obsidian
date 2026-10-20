@@ -1,8 +1,9 @@
 ---
 tipo: obra
-autor: "[[]]"
-época: "[[]]"
+autor: "[[H.P. Lovecraft]]"
+época: "[[Siglo XX]]"
 género:
+  - Terror Cósmico
 año:
 estado: pendiente
 valoración:
