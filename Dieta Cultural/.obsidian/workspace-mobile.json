@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Inicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Inicio"
             }
           }
         ]
@@ -172,7 +172,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5eca8c520bc34e65",
+  "active": "61cf6cbf225e0910",
   "lastOpenFiles": [
     "Reglas.md",
     "Home.md",
