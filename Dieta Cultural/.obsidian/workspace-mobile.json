@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2727e909de04ad1",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7db13c3af9923e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,10 +173,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "eb7db13c3af9923e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04 Ramas/Música.md",
     "Home.md",
+    "04 Ramas/Música.md",
     "04 Ramas/Tecnología.md",
     "04 Ramas/Arte.md",
     "Reglas.md",
