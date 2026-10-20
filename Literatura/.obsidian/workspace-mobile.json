@@ -124,7 +124,7 @@
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
           "title": "Enlaces entrantes"
@@ -173,7 +173,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "54525951f261b1b0",
+  "active": "caf8bdf500fc0841",
   "lastOpenFiles": [
     "Sin título.base",
     "01 Autores/George Orwell.md",
