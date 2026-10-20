@@ -9,7 +9,7 @@ Lo que metes en la cabeza importa tanto como lo que metes en el cuerpo. Esta bó
 4. **Cristalizar** → con tus propias palabras, una idea por nota. Van a `03 Ideas`.
 
 ## Ramas
-[[Literatura]] · [[Cine]] · [[Pensamiento]] · [[Arte y música]] · [[Tecnología]]
+[[Literatura]] · [[Cine]] · [[Pensamiento]] · [[Arte y música]] · [[Tecnología]] · [[Informatica]] · [[Matematicas]] · [[Ciencia]]
 
 ## Mapa de carpetas
 - `00 Inbox` captura rápida
