@@ -12,7 +12,7 @@ Lo que metes en la cabeza importa tanto como lo que metes en el cuerpo. Esta bó
 [[Literatura]] · [[Cine]] · [[Pensamiento]] · [[Arte y música]] · [[Tecnología]] · [[Informatica]] · [[Matematicas]] · [[Ciencia]]
 
 ## Mapa de carpetas
-- `00 [[Inbox]]` captura rápida
+- `00 Inbox` captura rápida
 - `01 Preguntas` lo que quieres averiguar
 - `02 Fuentes` libros, películas, artículos, vídeos
 - `03 Ideas` notas permanentes (estilo Zettelkasten)
