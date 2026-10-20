@@ -124,7 +124,7 @@
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Enlaces entrantes"
@@ -175,10 +175,12 @@
   },
   "active": "54525951f261b1b0",
   "lastOpenFiles": [
+    "Sin título.base",
+    "01 Autores/George Orwell.md",
+    "02 Obras/1984.md",
     "Sin título.canvas",
     "02 Obras/La llamada de Cthulhu.md",
     "01 Autores/H.P. Lovecraft.md",
-    "Sin título.base",
     "00 Índice/Panel principal.md",
     "Sin título.md",
     "04 Géneros/Terror Cósmico.md",
@@ -193,13 +195,10 @@
     "01 Autores/Algernon Blackwood.md",
     "01 Autores/Octavio Paz.md",
     "().md",
-    "01 Autores/George Orwell.md",
     "04 Géneros/Poesía.md",
     "04 Géneros/Ensayo.md",
     "03 Épocas/Contemporánea.md",
-    "02 Obras/1984.md",
     "().md",
-    "01 Autores/George Orwell.md",
     "2026-09-07.md",
     "2026-10-01.md",
     "02 Obras",
