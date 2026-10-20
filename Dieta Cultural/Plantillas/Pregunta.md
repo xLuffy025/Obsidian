@@ -1,6 +1,6 @@
 ---
 tipo: pregunta
-rama: 
+rama: Matematicas
 fase: preguntas
 estado: abierta
 ---
