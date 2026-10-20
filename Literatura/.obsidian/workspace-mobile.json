@@ -11,14 +11,10 @@
             "id": "7003495fe0521c58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Obras/En las montañas de la locura.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "En las montañas de la locura"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -187,9 +183,9 @@
   },
   "active": "7003495fe0521c58",
   "lastOpenFiles": [
+    "02 Obras/En las montañas de la locura.md",
     "00 Índice/Home.md",
     "00 Índice/Panel principal.md",
-    "02 Obras/En las montañas de la locura.md",
     "99 Plantillas/Plantilla autor.md",
     "Panel principal1.md",
     "Sin título 1.md",
