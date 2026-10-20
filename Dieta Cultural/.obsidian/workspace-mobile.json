@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "04 Ramas/Arte y música.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Arte y música"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "04 Ramas/Arte y música.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,8 +175,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Reglas.md",
     "Home.md",
+    "Reglas.md",
     "Plantillas/Pregunta.md",
     "00 Inbox/Inbox.md",
     "04 Ramas/Arte y música.md",
