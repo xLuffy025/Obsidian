@@ -158,9 +158,19 @@
           "icon": "lucide-list",
           "title": "Esquema"
         }
+      },
+      {
+        "id": "6f6769e1c8a310ff",
+        "type": "leaf",
+        "state": {
+          "type": "copilot-chat-view",
+          "state": {},
+          "icon": "message-square",
+          "title": "Copilot (Quick Chat)"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +180,11 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "caf8bdf500fc0841",
+  "active": "6f6769e1c8a310ff",
   "lastOpenFiles": [
     "Sin título.base",
     "01 Autores/George Orwell.md",
