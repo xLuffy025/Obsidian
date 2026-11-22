@@ -11,9 +11,9 @@
 - [x] Familia Red Hat
 - [x] Familia ArchLinux
 - [ ] Actualización sistema en Linux
-- [ ] Alias básicos en Bash
-- [ ] Bash vs sh vs Zsh
-- [ ] Comandos básicos
+- [x] Alias básicos en Bash
+- [x] Bash vs sh vs Zsh
+- [x] Comandos básicos
 - [ ] Comandos básicos en Bash
 - [ ] Condicionales en bash
 - [ ] Cuándo NO atomizar una nota

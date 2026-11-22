@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
+                "file": "Notas/00 Orientacion/Estado actual.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🌐 Mapa de mi aprendizaje"
+              "title": "Estado actual"
             }
           }
         ]
@@ -61,7 +61,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Modelo ",
+            "query": "Git",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -112,7 +112,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "bcc4d8c1ff83c384",
@@ -156,6 +156,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Notas/00 Orientacion/Estado actual.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,9 +185,9 @@
   },
   "active": "ca60fea879b1f02e",
   "lastOpenFiles": [
+    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
     "Notas/02 Bash/Mapa Bash.md",
     "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
-    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
     "Notas/02 Bash/Zsh y personalizacion.md",
     "Nvim.md",
     "simbolos para teclado ingles.md",
