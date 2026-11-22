@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvim.md",
+                "file": "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nvim"
+              "title": "🌐 Mapa de mi aprendizaje"
             }
           }
         ]
@@ -184,10 +184,14 @@
   },
   "active": "ca60fea879b1f02e",
   "lastOpenFiles": [
+    "Notas/02 Bash/Mapa Bash.md",
+    "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
+    "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
+    "Notas/02 Bash/Zsh y personalizacion.md",
+    "Nvim.md",
     "simbolos para teclado ingles.md",
     "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
     "202610020757.md",
-    "Nvim.md",
     "Lección 1 — Tu primer script 🎓.md",
     "Lección 2 — Variables 📦.md",
     "Notas/02 Bash/02 Scripting/Condicionales en bash.md",
@@ -200,16 +204,12 @@
     "Errores_comunes_en_WSL.md",
     "Buenas_practicas_en_Linux.md",
     "Automatización con Termux.md",
-    "Notas/02 Bash/Mapa Bash.md",
     "Notas/02 Bash/02 Scripting/PLANTILLA SCRIPT PROFESIONAL.md",
     "Notas/01 Linux/05 Entorno de trabajo/Tmux.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
     "Notas/01 Linux/🐧 Mapa Linux.md",
     "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
-    "Notas/01 Linux/03 Instalación y entorno/Instalación y Primer uso de Linux.md",
-    "Notas/01 Linux/03 Instalación y entorno/Instalación Linux en WSL.md",
-    "Notas/02 Bash/Qué es una Shell.md",
     "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",

@@ -8,6 +8,5 @@
   "baseFontSize": 16,
   "autoFullScreen": true,
   "floatingNavigation": true,
-  "slidingSidebar": true,
   "nativeMenus": true
 }

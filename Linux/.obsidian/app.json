@@ -1,4 +1,5 @@
 {
+  "slidingSidebar": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
