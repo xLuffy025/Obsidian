@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/00 Orientacion/Estado actual.md",
+                "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Estado actual"
+              "title": "SSH y GitHub"
             }
           }
         ]
@@ -61,7 +61,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Git",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -156,7 +156,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notas/00 Orientacion/Estado actual.md",
+            "file": "Notas/01 Linux/05 Entorno de trabajo/SSH y GitHub.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -185,6 +185,8 @@
   },
   "active": "ca60fea879b1f02e",
   "lastOpenFiles": [
+    "Sin título.base",
+    "Notas/00 Orientacion/Estado actual.md",
     "Notas/00 Orientacion/🌐 Mapa de mi aprendizaje.md",
     "Notas/02 Bash/Mapa Bash.md",
     "Notas/01 Linux/05 Entorno de trabajo/Bash vs sh vs Zsh.md",
@@ -209,9 +211,6 @@
     "Notas/01 Linux/05 Entorno de trabajo/Tmux.md",
     "Notas/02 Bash/02 Scripting/📂 Logs en Bash.md",
     "Notas/01 Linux/01 Conceptos base/04 Kernel de Linux.md",
-    "Notas/01 Linux/🐧 Mapa Linux.md",
-    "Notas/01 Linux/04 Configuración inicial/Usuarios y sudo en Linux.md",
-    "Sin título.base",
     "Notas/FB_IMG_1769723860184.jpg",
     "Notas/01 Linux/06 Modelos y mantenimiento",
     "Notas/01 Linux/05 Entorno de trabajo",
