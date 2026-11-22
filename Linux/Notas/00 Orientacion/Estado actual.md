@@ -37,7 +37,7 @@
 - [ ] rolling release
 - [ ] RPM
 - [ ] SELinux
-- [ ] SSH y GitHub
+- [x] SSH y GitHub
 - [ ] Tmux
 - [ ] Usuarios y sudo en Linux
 - [ ] Variables y asignaciones
